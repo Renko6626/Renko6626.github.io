@@ -21,6 +21,9 @@ function localizedFields(): Array<[string, Localized]> {
   const out: Array<[string, Localized]> = [
     ['profile.affiliation', profile.affiliation],
     ['teachingContact.note', teachingContact.note],
+    ...teachingContact.channels.map(
+      (c) => [`teachingContact.channels[${c.value}].label`, c.label] as [string, Localized],
+    ),
   ]
   profile.bio.forEach((v, i) => out.push([`profile.bio[${i}]`, v]))
   profile.interests.forEach((v, i) => out.push([`profile.interests[${i}]`, v]))
@@ -82,11 +85,18 @@ describe('竞赛讲义', () => {
     }
   })
 
-  it('联系入口若存在，必须是可用的绝对地址或 mailto', () => {
-    const channel = teachingContact.channel
-    if (channel) {
-      expect(channel.label.trim()).toBeTruthy()
-      expect(channel.href).toMatch(/^(https:\/\/|mailto:)/)
+  it('联系入口的标识符非空，且不带首尾空白 —— 这串字符是给人复制的', () => {
+    for (const c of teachingContact.channels) {
+      expect(c.value).toBeTruthy()
+      expect(c.value).toBe(c.value.trim())
+    }
+  })
+
+  it('联系入口的 href 若填了，必须是绝对地址或 mailto', () => {
+    for (const c of teachingContact.channels) {
+      if (c.href !== undefined) {
+        expect(c.href).toMatch(/^(https:\/\/|mailto:)/)
+      }
     }
   })
 })

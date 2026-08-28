@@ -24,7 +24,8 @@ export const teachingContact: TeachingContact = {
     zh: '这些讲义来自我带高中物理竞赛的课。也接学生。',
     en: 'These handouts come from the physics-olympiad classes I teach. I also take students.',
   },
-  // 填一个你愿意公开的入口，如 { label: '邮件', href: 'mailto:...' }。
-  // 保持 null 则页面只显示上面那句说明，不放任何联系入口。
-  channel: null,
+  channels: [
+    { label: { zh: '微信', en: 'WeChat' }, value: 'Renko7297' },
+    { label: { zh: 'QQ', en: 'QQ' }, value: '1471850534' },
+  ],
 }

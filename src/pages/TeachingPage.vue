@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { NButton } from 'naive-ui'
 import PageHeading from '@/components/PageHeading.vue'
 import HandoutRow from '@/components/HandoutRow.vue'
 import { useLocalized } from '@/composables/useLocalized'
@@ -31,14 +30,13 @@ const cnOnly = computed(() => locale.value !== 'zh')
   <section class="page-x contact">
     <p class="eyebrow">{{ t('teaching.contactLabel') }}</p>
     <p class="note">{{ l(teachingContact.note) }}</p>
-    <NButton
-      v-if="teachingContact.channel"
-      tag="a"
-      :href="teachingContact.channel.href"
-      ghost
-    >
-      {{ teachingContact.channel.label }}
-    </NButton>
+    <ul v-if="teachingContact.channels.length" class="channels">
+      <li v-for="c in teachingContact.channels" :key="c.value">
+        <span class="channel-label">{{ l(c.label) }}</span>
+        <a v-if="c.href" class="channel-value" :href="c.href">{{ c.value }}</a>
+        <span v-else class="channel-value">{{ c.value }}</span>
+      </li>
+    </ul>
   </section>
 </template>
 
@@ -65,6 +63,31 @@ const cnOnly = computed(() => locale.value !== 'zh')
 }
 .note {
   margin-block: var(--s-3);
+  color: var(--text-mute);
+}
+/* 标识符表：左边说明这是什么，右边是给人复制的那串字符。
+   和首页的研究兴趣同一套行间发丝线。 */
+.channels li {
+  display: flex;
+  align-items: baseline;
+  gap: var(--s-4);
+  padding-block: var(--s-2);
+}
+.channels li + li {
+  border-top: 1px solid var(--hairline);
+}
+.channel-label {
+  flex: none;
+  min-width: 4.5rem;
+  color: var(--text-mute);
+  font-size: var(--step--1);
+}
+.channel-value {
+  font-family: var(--font-mono);
+  letter-spacing: 0.04em;
+  user-select: all;
+}
+a.channel-value:hover {
   color: var(--text-mute);
 }
 </style>

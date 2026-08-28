@@ -69,8 +69,21 @@ export interface Handout {
   updated: string
 }
 
-/** 教学板块的联系方式。channel 为 null 时页面只显示说明、不显示入口。 */
+/**
+ * 一个联系入口。
+ *
+ * 微信号、QQ 号是**给人复制的标识符**，不是可点的链接 —— 所以 value 是主体，
+ * href 可选。把标识符包成按钮会让人以为点了能直接跳转，实际点不动。
+ */
+export interface ContactChannel {
+  label: Localized
+  value: string
+  /** 只有真的存在可点入口时才填，如 mailto: */
+  href?: string
+}
+
+/** 教学板块的联系方式。channels 为空时页面只显示说明。 */
 export interface TeachingContact {
   note: Localized
-  channel: { label: string; href: string } | null
+  channels: ContactChannel[]
 }
