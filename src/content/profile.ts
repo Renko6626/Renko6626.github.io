@@ -24,10 +24,5 @@ export const profile: Profile = {
       href: 'https://www.zhihu.com/people/Renko-hbar',
       kind: 'zhihu',
     },
-    {
-      label: 'Bilibili',
-      href: 'https://space.bilibili.com/3546559958485775',
-      kind: 'bilibili',
-    },
   ],
 }
