@@ -66,9 +66,9 @@ export const handouts: Handout[] = [
 
 export const teachingContact: TeachingContact = {
   note: {
-    // 这句话不能依赖下面有没有入口 —— channel 为 null 时也得读得通
-    zh: '这些讲义来自我带高中物理竞赛的课。也接学生。',
-    en: 'These handouts come from the physics-olympiad classes I teach. I also take students.',
+    // 这句话不能依赖 handouts 或 channels 是否为空 —— 两边都可能空，它得单独读得通
+    zh: '两类课都带，也接新学生。',
+    en: 'I teach both tracks and take new students.',
   },
   channels: [
     { label: { zh: '微信', en: 'WeChat' }, value: 'Renko7297' },

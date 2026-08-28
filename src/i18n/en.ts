@@ -30,8 +30,8 @@ export default {
   },
   teaching: {
     eyebrow: 'Teaching',
-    title: 'Physics Olympiad Handouts',
-    lead: 'Handouts written for the high-school physics olympiad classes I teach — a separate track from the academic notes above.',
+    title: 'Teaching Handouts',
+    lead: 'Handouts written for the classes I teach: undergraduate general physics tutoring and the high-school physics olympiad. Separate from the academic notes; these are written for students.',
     empty: 'No handouts uploaded yet.',
     cnOnly: 'These materials are written in Chinese.',
     contactLabel: 'Contact',
