@@ -8,8 +8,8 @@ export const notes: Note[] = [
       en: 'Conformal Field Theory in Higher Dimensions',
     },
     summary: {
-      zh: '主要参考 David Simmons-Duffin 的讲义与文章，并加入了一些我自己在研究中用到的技术。还没写完，会逐渐更新。',
-      en: 'Largely following David Simmons-Duffin’s lectures and papers, with some techniques I picked up in my own work folded in. Still unfinished; updated as it goes.',
+      zh: '主要参考 David Simmons-Duffin 的讲义和文章，他大概是现存的共形场论大王。也掺了些我自己研究时用到的技术。还没写完，会接着更新。',
+      en: "Mostly follows David Simmons-Duffin's lectures and papers; he is probably the reigning king of CFT. Some techniques from my own work are folded in. Still unfinished, still growing.",
     },
     status: 'in-progress',
     file: '/notes/cftnote.pdf',
@@ -22,8 +22,8 @@ export const notes: Note[] = [
       en: 'QFT in Curved Spacetime and Hawking Radiation',
     },
     summary: {
-      zh: '源自 2023 年秋季学期量子场论讨论班上讲的内容，2024 年暑期整理成讲义。当时图方便用 Markdown 而非 LaTeX 写的，排版较差；计划重写一遍并补完下半部分。',
-      en: 'Grown out of a talk I gave in the autumn 2023 QFT seminar and written up in the summer of 2024. I took the shortcut of writing it in Markdown rather than LaTeX, so the typesetting is poor; a rewrite and the second half are planned.',
+      zh: '2023 年秋季学期在量子场论讨论班上讲过，2024 年暑假整理成了讲义。当时图省事，没用 LaTeX，直接拿 Markdown 写的，排版因此有点糙。打算重写一遍，把下半部分补完。',
+      en: 'This started as a talk in the autumn 2023 QFT seminar and got written up over the summer of 2024. I took the lazy route and used Markdown instead of LaTeX, so the typesetting is rough. A rewrite and the second half are on the list.',
     },
     status: 'rewriting',
     file: '/notes/hawkingnote.pdf',

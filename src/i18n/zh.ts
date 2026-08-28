@@ -18,7 +18,7 @@ export default {
   notes: {
     eyebrow: '讲义',
     title: '讲义',
-    lead: '写给自己也写给别人的长篇笔记，以 PDF 提供。',
+    lead: '自己写的长篇笔记，顺手放出来。PDF 下载。',
     download: '下载 PDF',
     updated: '更新于',
     status: {
@@ -30,7 +30,7 @@ export default {
   teaching: {
     eyebrow: '教学',
     title: '教学讲义',
-    lead: '带课时写的讲义，覆盖本科生普通物理辅导与高中物理竞赛。和「讲义」页的学术笔记不是一回事，这些是给学生的。',
+    lead: '上课用的讲义，本科生普通物理辅导和高中物理竞赛都有。和「讲义」页那些不是一回事，那些写给自己，这些写给学生。',
     empty: '讲义还没上传。',
     cnOnly: '这些材料是中文的。',
     contactLabel: '联系',

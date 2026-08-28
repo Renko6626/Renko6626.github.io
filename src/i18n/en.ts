@@ -19,7 +19,7 @@ export default {
   notes: {
     eyebrow: 'Notes',
     title: 'Notes',
-    lead: 'Long-form notes, written for myself and shared as PDFs.',
+    lead: 'Long notes I wrote for myself, put up here as PDFs.',
     download: 'Download PDF',
     updated: 'Updated',
     status: {
@@ -31,7 +31,7 @@ export default {
   teaching: {
     eyebrow: 'Teaching',
     title: 'Teaching Handouts',
-    lead: 'Handouts written for the classes I teach: undergraduate general physics tutoring and the high-school physics olympiad. Separate from the academic notes; these are written for students.',
+    lead: 'Handouts I use in class, both the undergraduate general physics tutoring and the high-school olympiad. Not the same thing as the notes page: those I wrote for myself, these I wrote for students.',
     empty: 'No handouts uploaded yet.',
     cnOnly: 'These materials are written in Chinese.',
     contactLabel: 'Contact',

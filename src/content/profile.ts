@@ -8,13 +8,13 @@ export const profile: Profile = {
   },
   bio: [
     {
-      zh: '目前在某课题组研究全息复杂度。更长期的兴趣是挖掘量子场论内部那些费曼图之外的更丰富的结构，并通过共形场论、散射振幅等方向的技术来研究它们。近期在学弦论和相关的数学物理。',
-      en: 'I currently work in a group on holographic complexity. My longer-running interest is the structure of quantum field theory beyond Feynman diagrams, approached through conformal field theory and scattering amplitudes. I am also learning string theory and the mathematical physics around it.',
+      zh: '目前在某课题组做全息复杂度。更长期的兴趣在量子场论里费曼图之外的那些结构，用共形场论和散射振幅的技术去挖。弦论和相关的数学物理最近在学。',
+      en: 'I work in a group on holographic complexity. My longer-running interest is the structure of quantum field theory beyond Feynman diagrams, which I mostly go at with conformal field theory and scattering amplitudes. String theory and the mathematical physics around it are what I am reading now.',
     },
   ],
   teaching: {
-    zh: '我长期从事本科生普通物理学业辅导和高中物理竞赛教学。',
-    en: 'I have long tutored undergraduate general physics and taught for the high-school physics olympiad.',
+    zh: '本科生普通物理辅导和高中物理竞赛，我带了很多年。',
+    en: 'I have been tutoring undergraduate general physics and coaching for the high-school physics olympiad for years.',
   },
   interests: [
     { zh: '全息复杂度', en: 'Holographic complexity' },
