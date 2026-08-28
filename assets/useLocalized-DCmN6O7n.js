@@ -1,0 +1,1 @@
+import{a as o}from"./index-r617Z7_M.js";function i(t,r){const n=t==null?void 0:t[r];return typeof n=="string"&&n.trim()!==""?n:(t==null?void 0:t.zh)??""}function s(){const{locale:t}=o();return r=>i(r,t.value)}export{s as u};
