@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.gh-pages-worktree/
+*.local
+.DS_Store

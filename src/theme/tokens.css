@@ -1,0 +1,94 @@
+/*
+  设计 token 的单一真源。
+  UnoCSS 的 theme（uno.config.ts）与 naive-ui 的 themeOverrides
+  （src/theme/naive-overrides.ts）都从这里取值，改一处两边同步。
+  站点只有暗色一套 —— 这是一个明确的选择，不是漏做浅色。
+*/
+:root {
+  /* 色：黑是主体，留白由虚空承担 */
+  --bg:        #000000;
+  --bg-raise:  #0c0c0d;
+  --hairline:  #2a2a2c;
+  --line:      #45454a;
+  --text-mute: #8a8a90;
+  --text:      #eceef2;
+  /* 全站唯一的信号色。只落在一个点上：图中的局域算符插入点。
+     不做发光、不做渐变、不铺在交互元件上。 */
+  --accent:    #ff2d55;
+
+  /* 字：IBM Plex 一个超家族覆盖拉丁 / CJK / 数据，
+     字骨与字重天然匹配，不需要把两个无关字体硬凑在一起。 */
+  --font-body: 'IBM Plex Sans', 'IBM Plex Sans SC', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  /* 字阶：五级 + 一个展示级 */
+  --step--1: 0.8125rem;
+  --step-0:  1rem;
+  --step-1:  1.5rem;
+  --step-2:  2.5rem;
+  --step-3:  clamp(2.75rem, 6vw, 4.25rem);
+  --tracking-label: 0.16em;
+  --leading-body: 1.65;
+  --leading-tight: 1.05;
+
+  /* 间距：4px 基数 */
+  --s-1: 4px;  --s-2: 8px;  --s-3: 16px;  --s-4: 24px;
+  --s-5: 40px; --s-6: 64px; --s-7: 104px; --s-8: 168px;
+
+  /* 结构 */
+  --radius: 0;
+  --measure: 62ch;
+  --measure-cjk: 34em;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  line-height: var(--leading-body);
+  font-synthesis-weight: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, p, figure { margin: 0; }
+ul, ol { margin: 0; padding: 0; list-style: none; }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* 键盘焦点必须始终可见 —— 质量底线，不因为「好看」牺牲 */
+:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--text);
+  color: var(--bg);
+}
+
+/* 唯一一处语义动效：首屏一次性揭示。没有环境循环动画。 */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: reveal 520ms linear both;
+  }
+  .reveal-1 { animation-delay: 60ms; }
+  .reveal-2 { animation-delay: 140ms; }
+  .reveal-3 { animation-delay: 220ms; }
+}
+
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
