@@ -9,6 +9,8 @@ export default {
   home: {
     eyebrow: '全息复杂度 · 共形场论',
     interests: '研究兴趣',
+    teaching: '教学',
+    teachingCta: '查看讲义',
     elsewhere: '别处',
     figureCaption: '径向量子化 · w = exp z',
     figureLegend: '同心圆为等时面，半径成几何级数；径向线为标度流；原点为局域算符插入点。',

@@ -12,6 +12,10 @@ export const profile: Profile = {
       en: 'I currently work in a group on holographic complexity. My longer-running interest is the structure of quantum field theory beyond Feynman diagrams, approached through conformal field theory and scattering amplitudes. I am also learning string theory and the mathematical physics around it.',
     },
   ],
+  teaching: {
+    zh: '我长期从事本科生普通物理学业辅导和高中物理竞赛教学。',
+    en: 'I have long tutored undergraduate general physics and taught for the high-school physics olympiad.',
+  },
   interests: [
     { zh: '全息复杂度', en: 'Holographic complexity' },
     { zh: '共形场论', en: 'Conformal field theory' },

@@ -20,6 +20,7 @@ const PUBLIC = resolve(import.meta.dirname, '../public')
 function localizedFields(): Array<[string, Localized]> {
   const out: Array<[string, Localized]> = [
     ['profile.affiliation', profile.affiliation],
+    ['profile.teaching', profile.teaching],
     ['teachingContact.note', teachingContact.note],
     ...teachingContact.channels.map(
       (c) => [`teachingContact.channels[${c.value}].label`, c.label] as [string, Localized],

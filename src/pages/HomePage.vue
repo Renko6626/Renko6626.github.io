@@ -24,6 +24,21 @@ const l = useLocalized()
         <p v-for="(para, i) in profile.bio" :key="i">{{ l(para) }}</p>
       </div>
 
+      <!-- 学生从首页进来的落点。放在首屏之内 —— 挂到页面底部等于没放。 -->
+      <div class="teaching reveal reveal-3">
+        <p class="eyebrow">{{ t('home.teaching') }}</p>
+        <div class="teaching-row">
+          <p class="teaching-text">{{ l(profile.teaching) }}</p>
+          <!-- custom v-slot：按钮保留真实 href（可右键新标签页打开、可被抓取），
+               点击走 SPA 内跳而不是整页重载 -->
+          <RouterLink v-slot="{ href, navigate }" to="/teaching" custom>
+            <NButton tag="a" :href="href" ghost @click="navigate">
+              {{ t('home.teachingCta') }}
+            </NButton>
+          </RouterLink>
+        </div>
+      </div>
+
       <div class="meta reveal reveal-3">
         <div class="block">
           <p class="eyebrow">{{ t('home.interests') }}</p>
@@ -112,6 +127,25 @@ const l = useLocalized()
   gap: var(--s-3);
 }
 
+.teaching {
+  margin-top: var(--s-5);
+}
+.teaching > .eyebrow {
+  padding-bottom: var(--s-2);
+  border-bottom: 1px solid var(--hairline);
+}
+.teaching-row {
+  margin-top: var(--s-3);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-3) var(--s-4);
+}
+.teaching-text {
+  max-width: var(--measure-cjk);
+}
+
 .meta {
   margin-top: var(--s-5);
   display: grid;
@@ -119,6 +153,10 @@ const l = useLocalized()
   grid-template-columns: minmax(0, 1fr);
 }
 
+.block {
+  /* 「别处」只剩一个链接时，标题下那条线会短得像瑕疵而不像分割线 */
+  min-width: 9rem;
+}
 .block > .eyebrow {
   padding-bottom: var(--s-2);
   border-bottom: 1px solid var(--hairline);

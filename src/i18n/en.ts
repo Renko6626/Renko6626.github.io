@@ -9,6 +9,8 @@ export default {
   home: {
     eyebrow: 'Holographic complexity · Conformal field theory',
     interests: 'Interests',
+    teaching: 'Teaching',
+    teachingCta: 'View handouts',
     elsewhere: 'Elsewhere',
     figureCaption: 'Radial quantization · w = exp z',
     figureLegend:

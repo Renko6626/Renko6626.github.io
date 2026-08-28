@@ -46,6 +46,8 @@ export interface Profile {
   affiliation: Localized
   /** 简介段落 */
   bio: Localized[]
+  /** 首页上指向教学板块的一句话。学生从首页进来要能一眼看到讲义在哪。 */
+  teaching: Localized
   interests: Localized[]
   links: ExternalLink[]
 }
