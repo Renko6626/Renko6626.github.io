@@ -6,7 +6,7 @@ export default {
     skip: 'Skip to content',
   },
   home: {
-    eyebrow: 'Conformal field theory · Quantum chromodynamics',
+    eyebrow: 'Holographic complexity · Conformal field theory',
     interests: 'Interests',
     elsewhere: 'Elsewhere',
     figureCaption: 'Radial quantization · w = exp z',

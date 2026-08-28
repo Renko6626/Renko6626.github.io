@@ -6,7 +6,7 @@ export default {
     skip: '跳到正文',
   },
   home: {
-    eyebrow: '共形场论 · 量子色动力学',
+    eyebrow: '全息复杂度 · 共形场论',
     interests: '研究兴趣',
     elsewhere: '别处',
     figureCaption: '径向量子化 · w = exp z',

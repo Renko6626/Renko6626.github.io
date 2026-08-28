@@ -8,17 +8,13 @@ export const profile: Profile = {
   },
   bio: [
     {
-      zh: '在某课题组研究共形场论与量子色动力学。主要兴趣是挖掘量子场论内部那些费曼图之外的更丰富的结构，并通过共形场论、散射振幅等方向的技术来研究它们。近期在学弦论和相关的数学物理。',
-      en: 'I work in a group on conformal field theory and quantum chromodynamics. My main interest is the structure of quantum field theory beyond Feynman diagrams, approached through conformal field theory and scattering amplitudes. I am currently learning string theory and the mathematical physics around it.',
-    },
-    {
-      zh: '同时是一名二次元爱好者，在 B 站作为虚拟主播做一些理论物理的科普，通过东方 Project 同人社团「秘封步梦华」活动。学业和科研都很忙，更新随缘。',
-      en: 'I also make theoretical-physics explainers on Bilibili as a VTuber, through the Touhou Project doujin circle Mifuu Bumuka. Coursework and research come first, so uploads are irregular.',
+      zh: '目前在某课题组研究全息复杂度。更长期的兴趣是挖掘量子场论内部那些费曼图之外的更丰富的结构，并通过共形场论、散射振幅等方向的技术来研究它们。近期在学弦论和相关的数学物理。',
+      en: 'I currently work in a group on holographic complexity. My longer-running interest is the structure of quantum field theory beyond Feynman diagrams, approached through conformal field theory and scattering amplitudes. I am also learning string theory and the mathematical physics around it.',
     },
   ],
   interests: [
+    { zh: '全息复杂度', en: 'Holographic complexity' },
     { zh: '共形场论', en: 'Conformal field theory' },
-    { zh: '量子色动力学', en: 'Quantum chromodynamics' },
     { zh: '散射振幅', en: 'Scattering amplitudes' },
     { zh: '弦论与数学物理', en: 'String theory & mathematical physics' },
   ],
