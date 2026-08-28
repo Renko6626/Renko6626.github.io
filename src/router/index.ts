@@ -8,6 +8,11 @@ const routes = [
     name: 'research',
     component: () => import('@/pages/ResearchPage.vue'),
   },
+  {
+    path: '/teaching',
+    name: 'teaching',
+    component: () => import('@/pages/TeachingPage.vue'),
+  },
   // GitHub Pages 会把未知路径交给 404.html（构建时由 index.html 复制而来），
   // SPA 接手后走到这里，回首页。
   { path: '/:pathMatch(.*)*', redirect: '/' },

@@ -3,6 +3,7 @@ export default {
     home: '主页',
     notes: '讲义',
     research: '研究',
+    teaching: '教学',
     skip: '跳到正文',
   },
   home: {
@@ -23,6 +24,14 @@ export default {
       'in-progress': '撰写中',
       rewriting: '待重写',
     },
+  },
+  teaching: {
+    eyebrow: '教学',
+    title: '物理竞赛讲义',
+    lead: '带高中物理竞赛时写的讲义，和上面的学术笔记是两回事。',
+    empty: '讲义还没上传。',
+    cnOnly: '这些材料是中文的。',
+    contactLabel: '联系',
   },
   research: {
     eyebrow: '研究',

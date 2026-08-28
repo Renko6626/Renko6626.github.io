@@ -19,8 +19,14 @@ pnpm run deploy       # 检查、构建，把 dist/ 推到 gh-pages 分支
 
 - `profile.ts` 简介、研究兴趣、外链
 - `notes.ts` 讲义条目（PDF 放 `public/notes/`）
-- `papers.ts` 预印本；空数组时导航的「研究」项自动置灰、页面显示空态，
-  加进第一篇后自动恢复，不用改组件
+- `papers.ts` 预印本
+- `teaching.ts` 高中物理竞赛讲义（PDF 放 `public/teaching/`）与教学板块的联系方式
+
+`papers.ts` / `teaching.ts` 为空数组时，导航里对应的项自动置灰、页面显示空态；
+加进第一条后自动恢复，不用改组件。
+
+学术讲义（`notes.ts`）双语，竞赛讲义（`teaching.ts`）不双语 —— 和 `Paper.title`
+同一条理由：内容的语言是内在的，物理论文只有英文名，面向国内高中生的材料只有中文。
 
 `pnpm test` 会检查每个双语字段中英都填了、每个讲义的 PDF 真实存在。
 

@@ -3,6 +3,7 @@ export default {
     home: 'Home',
     notes: 'Notes',
     research: 'Research',
+    teaching: 'Teaching',
     skip: 'Skip to content',
   },
   home: {
@@ -24,6 +25,14 @@ export default {
       'in-progress': 'In progress',
       rewriting: 'Being rewritten',
     },
+  },
+  teaching: {
+    eyebrow: 'Teaching',
+    title: 'Physics Olympiad Handouts',
+    lead: 'Handouts written for the high-school physics olympiad classes I teach — a separate track from the academic notes above.',
+    empty: 'No handouts uploaded yet.',
+    cnOnly: 'These materials are written in Chinese.',
+    contactLabel: 'Contact',
   },
   research: {
     eyebrow: 'Research',

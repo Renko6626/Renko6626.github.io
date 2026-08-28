@@ -4,12 +4,14 @@ import { useI18n } from 'vue-i18n'
 import LocaleSwitch from './LocaleSwitch.vue'
 import { profile } from '@/content/profile'
 import { papers } from '@/content/papers'
+import { handouts } from '@/content/teaching'
 
 const { t } = useI18n()
 
-// 研究页当前没有内容。导航项不藏起来 —— 降级为 muted、仍然可点，
-// 比装作不存在坦白，也给以后留了位置。
+// 空板块的导航项不藏起来 —— 降级为 muted、仍然可点，
+// 比装作不存在坦白，也给以后留了位置。有内容了自动恢复。
 const researchEmpty = computed(() => papers.length === 0)
+const teachingEmpty = computed(() => handouts.length === 0)
 </script>
 
 <template>
@@ -24,12 +26,30 @@ const researchEmpty = computed(() => papers.length === 0)
         class="link"
         :class="{ dim: researchEmpty }"
       >{{ t('nav.research') }}</RouterLink>
+      <RouterLink
+        to="/teaching"
+        class="link"
+        :class="{ dim: teachingEmpty }"
+      >{{ t('nav.teaching') }}</RouterLink>
       <LocaleSwitch />
     </nav>
   </header>
 </template>
 
 <style scoped>
+header {
+  /* 挤不下时整块导航掉到第二行，而不是把「主页」压成两个字竖排 */
+  flex-wrap: wrap;
+}
+.link {
+  white-space: nowrap;
+}
+/* 四个中文导航项 + 语言切换在窄屏上要收紧才排得下一行 */
+@media (max-width: 620px) {
+  nav {
+    gap: var(--s-3);
+  }
+}
 .wordmark {
   font-family: var(--font-mono);
   font-size: var(--step--1);

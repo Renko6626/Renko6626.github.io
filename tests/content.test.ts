@@ -11,6 +11,7 @@ import { describe, expect, it } from 'vitest'
 import { profile } from '../src/content/profile'
 import { notes } from '../src/content/notes'
 import { papers } from '../src/content/papers'
+import { handouts, teachingContact } from '../src/content/teaching'
 import type { Localized } from '../src/content/types'
 
 const PUBLIC = resolve(import.meta.dirname, '../public')
@@ -19,6 +20,7 @@ const PUBLIC = resolve(import.meta.dirname, '../public')
 function localizedFields(): Array<[string, Localized]> {
   const out: Array<[string, Localized]> = [
     ['profile.affiliation', profile.affiliation],
+    ['teachingContact.note', teachingContact.note],
   ]
   profile.bio.forEach((v, i) => out.push([`profile.bio[${i}]`, v]))
   profile.interests.forEach((v, i) => out.push([`profile.interests[${i}]`, v]))
@@ -56,6 +58,39 @@ describe('讲义', () => {
   })
 })
 
+describe('竞赛讲义', () => {
+  // handouts 可能是空数组，所以用循环而不是 it.each
+  it('每份的 PDF 在 public/ 下真实存在', () => {
+    for (const item of handouts) {
+      expect(item.file.startsWith('/')).toBe(true)
+      expect(existsSync(resolve(PUBLIC, item.file.slice(1)))).toBe(true)
+    }
+  })
+
+  it('标题、简介、主题都非空 —— 这些字段不做双语，更不能留白', () => {
+    for (const item of handouts) {
+      expect(item.title.trim()).toBeTruthy()
+      expect(item.summary.trim()).toBeTruthy()
+      expect(item.topic.trim()).toBeTruthy()
+    }
+  })
+
+  it('更新日期是合法 ISO 日期', () => {
+    for (const item of handouts) {
+      expect(item.updated).toMatch(/^\d{4}-\d{2}-\d{2}$/)
+      expect(Number.isNaN(Date.parse(item.updated))).toBe(false)
+    }
+  })
+
+  it('联系入口若存在，必须是可用的绝对地址或 mailto', () => {
+    const channel = teachingContact.channel
+    if (channel) {
+      expect(channel.label.trim()).toBeTruthy()
+      expect(channel.href).toMatch(/^(https:\/\/|mailto:)/)
+    }
+  })
+})
+
 describe('id 唯一', () => {
   it('讲义 id 不重复', () => {
     expect(new Set(notes.map((n) => n.id)).size).toBe(notes.length)
@@ -63,6 +98,10 @@ describe('id 唯一', () => {
 
   it('论文 id 不重复', () => {
     expect(new Set(papers.map((p) => p.id)).size).toBe(papers.length)
+  })
+
+  it('竞赛讲义 id 不重复', () => {
+    expect(new Set(handouts.map((h) => h.id)).size).toBe(handouts.length)
   })
 })
 
