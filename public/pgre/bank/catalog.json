@@ -1,0 +1,98 @@
+{
+  "questionEntries": 982,
+  "solutionEntries": 422,
+  "deduplicated": false,
+  "exams": [
+    {
+      "id": "specialtopics",
+      "title": "粒子、光学、实验与材料精选（杂项子集，建议时长）",
+      "year": 2026,
+      "questionCount": 83,
+      "scoredCount": 83,
+      "solutionCount": 37,
+      "durationMinutes": 125
+    },
+    {
+      "id": "concepts",
+      "title": "边角概念题精选（混编练习，建议时长）",
+      "year": 2026,
+      "questionCount": 198,
+      "scoredCount": 198,
+      "solutionCount": 85,
+      "durationMinutes": 300
+    },
+    {
+      "id": "gr1775",
+      "title": "GRE Physics Practice Test, Form GR1775",
+      "year": 2024,
+      "questionCount": 70,
+      "scoredCount": 70,
+      "solutionCount": 0,
+      "durationMinutes": 120
+    },
+    {
+      "id": "gr1777",
+      "title": "GRE Physics Practice Test, Form GR1777",
+      "year": 2017,
+      "questionCount": 100,
+      "scoredCount": 100,
+      "solutionCount": 0,
+      "durationMinutes": 170
+    },
+    {
+      "id": "gr0877",
+      "title": "GRE Physics Test Form GR0877",
+      "year": 2008,
+      "questionCount": 100,
+      "scoredCount": 100,
+      "solutionCount": 0,
+      "durationMinutes": 170
+    },
+    {
+      "id": "gr0177",
+      "title": "GRE Physics Test Form GR0177",
+      "year": 2001,
+      "questionCount": 100,
+      "scoredCount": 100,
+      "solutionCount": 100,
+      "durationMinutes": 170
+    },
+    {
+      "id": "gr9677",
+      "title": "GRE Physics Test Form GR9677",
+      "year": 1996,
+      "questionCount": 100,
+      "scoredCount": 99,
+      "solutionCount": 100,
+      "durationMinutes": 170
+    },
+    {
+      "id": "gr9277",
+      "title": "GRE Physics Test, Form GR9277",
+      "year": 1992,
+      "questionCount": 100,
+      "scoredCount": 100,
+      "solutionCount": 0,
+      "durationMinutes": 170
+    },
+    {
+      "id": "gr8677",
+      "title": "GRE Physics Test, Form GR8677",
+      "year": 1986,
+      "questionCount": 100,
+      "scoredCount": 100,
+      "solutionCount": 100,
+      "durationMinutes": 170
+    },
+    {
+      "id": "hmc31",
+      "title": "HMC Physics Sample Questions",
+      "year": 1999,
+      "questionCount": 31,
+      "scoredCount": 31,
+      "solutionCount": 0,
+      "durationMinutes": 53
+    }
+  ],
+  "localImageFiles": 335
+}

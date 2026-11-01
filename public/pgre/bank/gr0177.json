@@ -1,0 +1,3200 @@
+{
+  "id": "gr0177",
+  "title": "GRE Physics Test Form GR0177",
+  "year": 2001,
+  "questionCount": 100,
+  "durationMinutes": 170,
+  "sourcePdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+  "answerSource": {
+    "page": 72,
+    "type": "official"
+  },
+  "scoredCount": 100,
+  "solutionCount": 100,
+  "questions": [
+    {
+      "id": "gr0177-001",
+      "number": 1,
+      "markdown": "1. Which of the following best illustrates the acceleration of a pendulum bob at points $a$ through $e$?\n\n(A)\n\n![Option A](images/01cf93660606f7b478b9dc31.jpg)\n\n(B)\n\n![Option B](images/a5b0987ef24b55ea4faa58bd.jpg)\n\n(C)\n\n![Option C](images/8ef279cc17870426a9c53a0e.jpg)\n\n(D)\n\n![Option D](images/0cfbd59d465b7a920d7daf76.jpg)\n\n(E)\n\n![Option E](images/61b0abfd2ff76778de42142d.jpg)",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/01cf93660606f7b478b9dc31.jpg",
+        "images/a5b0987ef24b55ea4faa58bd.jpg",
+        "images/8ef279cc17870426a9c53a0e.jpg",
+        "images/0cfbd59d465b7a920d7daf76.jpg",
+        "images/61b0abfd2ff76778de42142d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 1\n\n## Subject Type\n\nMechanics → Acceleration Vector\n\nThis is a conceptual vectors problem.\n\nTangential: One knows that the velocity of the bob at the endpoints is 0, and that it has maximal acceleration (pulling it back towards the center) at the endpoints. In the center, it has maximal velocity and thus minimal acceleration.\n\nNormal: The normal acceleration varies from 0 at the endpoints to its maximal value at the center. The normal acceleration varies so that the sum of tangential and normal accelerations is a constant.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            2
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-002",
+      "number": 2,
+      "markdown": "2. The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?\n\n(A) 0.024 m\n\n(B) 0.048 m\n\n(C) 0.121 m\n\n(D) 0.242 m\n\n(E) 0.484 m",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 2\n\n## Subject Type\n\nMechanics → Centripetal Force\n\nFrictional force is given by $F_f = \\mu N$, where $N$ is the normal force.\n\nCentripetal force gives the net force to be, $\\sum F = mv^2/r = \\mu mg$. The $m$'s cancel out, and one gets $r = v^2/(\\mu g)$.\n\nThe revolutions per minute $\\omega$ given in the problem can be converted to velocity by\n$$v = r\\omega = r(33.3\\,\\mathrm{rev/min})(2\\pi\\,\\mathrm{rad/rev})(\\mathrm{min}/60\\,\\mathrm{s}) \\approx \\pi r\\,\\mathrm{m/s}.$$\nPlugging this into the equation for $r$ above, one has\n$$r = \\frac{\\pi^2 r^2}{\\mu g} \\Rightarrow r = \\frac{\\mu g}{\\pi^2} \\approx \\frac{3}{\\pi^2} \\lesssim \\frac{1}{3},$$\nwhich would be choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            2
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-003",
+      "number": 3,
+      "markdown": "3. A satellite of mass $m$ orbits a planet of mass $M$ in a circular orbit of radius $R$. The time required for one revolution is\n\n(A) independent of $M$\n\n(B) proportional to $\\sqrt{m}$\n\n(C) linear in $R$\n\n(D) proportional to $R^{3/2}$\n\n(E) proportional to $R^2$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 3\n\n## Subject Type\n\nMechanics → Kepler’s Third Law\n\nRecall Kepler’s Third Law stated in its most popular form: The square of the period is proportional to the cube of the orbital radius. (Technically, the orbital radius is the semimajor axis of the ellipse.) Recast that commonsense fact above into equations to get $T \\propto R^{3/2}$, as in choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            2
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-004",
+      "number": 4,
+      "markdown": "4. In a nonrelativistic, one-dimensional collision, a particle of mass $2m$ collides with a particle of mass $m$ at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?\n\n(A) 0\n\n(B) $\\frac{1}{4}$\n\n(C) $\\frac{1}{3}$\n\n(D) $\\frac{1}{2}$\n\n(E) $\\frac{2}{3}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 4\n\n## Subject Type\n\nMechanics → Conservation of Momentum\n\nFrom conservation of momentum, one has $2mv = 3mv' \\Rightarrow v' = \\frac{2}{3}v$.\n\nThe initial kinetic energy is $\\frac{1}{2}(2m)v^2 = mv^2$.\n\nThe final kinetic energy is $\\frac{1}{2}(3m)v'^2 = \\frac{3}{2}m(\\frac{2}{3}v)^2$.\n\nThe ratio of the final to initial kinetic energy is $2/3$.\n\nThe kinetic energy lost in the collision is 1 minus that ratio. Thus, the answer is $1/3$, as in choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            2
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-005",
+      "number": 5,
+      "markdown": "5. A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature $T$. The average total energy of the oscillator is\n\n(A) $\\frac{1}{2}kT$\n\n(B) $kT$\n\n(C) $\\frac{3}{2}kT$\n\n(D) $3kT$\n\n(E) $6kT$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 5\n\n## Subject Type\n\nThermodynamics → Degree of Freedom\n\nEach degree of freedom contributes roughly $kT$ to the average total energy. There are three translational degrees of freedom and 3 vibrational degrees of freedom and 3 rotational degrees of freedom. The total energy is $9kT$. Divide that by the number of dimensions to get $3kT$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            2,
+            3
+          ]
+        },
+        "notes": [
+          "The original solution states that each degree of freedom contributes roughly $kT$ and counts 3 vibrational degrees of freedom. This is imprecise for a classical harmonic oscillator, but the wording and intended result are preserved."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-006",
+      "number": 6,
+      "markdown": "6. An ideal monatomic gas expands quasi-statically to twice its volume. If the process is isothermal, the work done by the gas is $W_i$. If the process is adiabatic, the work done by the gas is $W_a$. Which of the following is true?\n\n(A) $W_i = W_a$\n\n(B) $0 = W_i < W_a$\n\n(C) $0 < W_i < W_a$\n\n(D) $0 = W_a < W_i$\n\n(E) $0 < W_a < W_i$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 6\n\n## Subject Type\n\nThermodynamics → Work\n\nThe work done by an adiabatic process is\n$$W = -\\frac{1}{\\gamma-1}(P_2V_2-P_1V_1).$$\n(One can quickly derive this from noting that $PV^\\gamma = \\mathrm{const}$ in an adiabatic process and $W = \\int P\\,dV$.)\n\nThe work done by an isothermal process is $W = nRT_1\\ln(V_2/V_1) = P_1V_1\\ln(V_2/V_1)$. (One can quickly derive this from noting that $P_2V_2 = P_1V_1 = nRT_1 = nRT_2$ for an isothermal process.)\n\nFrom the above formulae, one can immediately eliminate choice (A).\n\nOne can calculate the isothermal work to be $W_i = nRT_1\\ln 2 = P_1V_1\\ln 2$.\n\nOne can calculate the adiabatic work to be:\n$$W_a = \\frac{1}{1-\\gamma}(P_1-2P_2)V_1 = \\frac{1}{1-\\gamma}(P_1-2/2^\\gamma P_1)V_1 = \\frac{1}{1-\\gamma}(1-2^{1-\\gamma})P_1V_1.$$\n\nFor a monatomic gas, $\\gamma = 5/3$, and one finds that $0 < W_a < W_i$. Choice (E).\n\n(Also, in general, an adiabatic process always does less work than an isothermal process in a closed cycle.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            3
+          ]
+        },
+        "notes": [
+          "The final parenthetical claim about a closed cycle is ambiguous because the preceding work comparison concerns two expansion paths to twice the volume. The source wording is retained."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-007",
+      "number": 7,
+      "markdown": "7. ![Two bar magnets beneath a sheet of paper](images/0c64d1f6fc723c8c686c7aa7.jpg)\n\nTwo long, identical bar magnets are placed under a horizontal piece of paper, as shown in the figure above. The paper is covered with iron filings. When the two north poles are a small distance apart and touching the paper, the iron filings move into a pattern that shows the magnetic field lines. Which of the following best illustrates the pattern that results?\n\n(A) ![Option A](images/9d373e2fd4e251b6b555e341.jpg)\n\n(B) ![Option B](images/5708509affb2e75f29de4df8.jpg)\n\n(C) ![Option C](images/4885be0e28627c2159771b2a.jpg)\n\n(D) ![Option D](images/58aa92a5f56cfb1da9fde3b0.jpg)\n\n(E) ![Option E](images/97f1fb8ad9cffa70cc620625.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/0c64d1f6fc723c8c686c7aa7.jpg",
+        "images/9d373e2fd4e251b6b555e341.jpg",
+        "images/5708509affb2e75f29de4df8.jpg",
+        "images/4885be0e28627c2159771b2a.jpg",
+        "images/58aa92a5f56cfb1da9fde3b0.jpg",
+        "images/97f1fb8ad9cffa70cc620625.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 7\n\n**Subject Type**\n\n*Electromagnetism* → Field Lines\n\nSince the magnets have the same polarity ends on the same side, one can immediately eliminate choices (A) and (D). They would repel each other, and thus the field lines would not point towards each other. Since there are no such things as magnetic monopoles, one cannot choose (C), as that would imply a nonzero divergence in the magnetic field. Choice (D) would work if there were a current through the magnets, but there is not. Choice (B) remains. It makes sense since the magnetic poles should repel each other, and thus the field lines should point away, showing the repulsion.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            3
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-008",
+      "number": 8,
+      "markdown": "8. ![Positive charge above an infinite conducting plane](images/f98bb7271139191c705472c0.jpg)\n\nA positive charge $Q$ is located at a distance $L$ above an infinite grounded conducting plane, as shown in the figure above. What is the total charge induced on the plane?\n\n(A) $2Q$\n\n(B) $Q$\n\n(C) $0$\n\n(D) $-Q$\n\n(E) $-2Q$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/f98bb7271139191c705472c0.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 8\n\n**Subject Type**\n\n*Electromagnetism* → Conductors\n\nA conductor has the property of inducing the exact opposite charge of a nearby charge. The electrons in the conductor move toward the positive charge $Q$ placed outside. A net negative charge of $-Q$ is induced.\n\n(Also, one recalls that this was the assumption made in finding the potential of this setup using the method of images—the charged plane was assumed to have a charge density $-Q/A$.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            3
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-009",
+      "number": 9,
+      "markdown": "9. Five positive charges of magnitude $q$ are arranged symmetrically around the circumference of a circle of radius $r$. What is the magnitude of the electric field at the center of the circle? ($k = 1/(4\\pi\\epsilon_0)$)\n\n(A) $0$\n\n(B) $kq/r^2$\n\n(C) $5kq/r^2$\n\n(D) $(kq/r^2)\\cos(2\\pi/5)$\n\n(E) $(5kq/r^2)\\cos(2\\pi/5)$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 9\n\n**Subject Type**\n\n*Electromagnetism* → Electric Field\n\nFrom symmetry, one has zero electric field at the center. This is choice (A).\n\nTake the limit of an infinite number of charges placed around the center. In two dimensions, one has a circle of charges. This is similar to a two-dimensional conductor. There is zero electric field inside a conductor (the potential is constant inside). But, for a less-than-infinite number of charges, one would have zero field only at the center. Gauss’s law inside would have a Gaussian surface (just a loop in two dimensions) surrounding zero charge.\n\nThe brute-force way would be to compute the electric field via Coulomb’s law and vector addition. With the proper coordinates and a $2\\pi/5$ angle unit circle, this is an easy calculation.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            3,
+            4
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-010",
+      "number": 10,
+      "markdown": "10. A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is\n\n(A) 0.09 J\n\n(B) 0.18 J\n\n(C) 0.27 J\n\n(D) 0.41 J\n\n(E) 0.81 J",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 10\n\n**Subject Type**\n\n*Electromagnetism* → Capacitors\n\nThe problem gives $C_1=3\\,\\mu\\mathrm{F}$ and $C_2=6\\,\\mu\\mathrm{F}$ and $V=300\\,\\mathrm{V}$.\n\nThe capacitors are connected in series, and thus $C_{\\mathrm{eq}}=C_1C_2/(C_1+C_2)=18/9=2\\,\\mu\\mathrm{F}$. (Recall that series and parallel capacitor formulae are opposite to those of resistors.)\n\nThe energy is $\\frac12 C_{\\mathrm{eq}}V^2=(9\\times10^4)(1\\times10^{-6})=9\\times10^{-2}\\,\\mathrm{J}$, as in choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            4
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-011",
+      "number": 11,
+      "markdown": "11. ![Two converging lenses and object](images/3ed1dff5635cc875456c2f1a.jpg)\n\nAn object is located 40 centimeters from the first of two thin converging lenses of focal lengths 20 centimeters and 10 centimeters, respectively, as shown in the figure above. The lenses are separated by 30 centimeters. The final image formed by the two-lens system is located\n\n(A) 5.0 cm to the right of the second lens\n\n(B) 13.3 cm to the right of the second lens\n\n(C) infinitely far to the right of the second lens\n\n(D) 13.3 cm to the left of the second lens\n\n(E) 100 cm to the left of the second lens",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/3ed1dff5635cc875456c2f1a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 11\n\n**Subject Type**\n\n*Optics* → Lensmaker Formula\n\nThe lensmaker’s formula is $1/d_o+1/d_i=1/f$. For an image on the opposite side of the lens from the object, the image distance is taken as positive.\n\nThe distance between the object and the first lens is $d_{1o}=40\\,\\mathrm{cm}$, and $f_1=20\\,\\mathrm{cm}$. The lensmaker’s formula gives $1/d_{1i}=1/f_1-1/d_{1o}=1/40$. Thus, the image is $40\\,\\mathrm{cm}$ behind the first lens.\n\nThe first image forms the object for the second lens. The distance of the first image to the second lens is $40-30=10\\,\\mathrm{cm}$. Since this image is behind the lens (on the other side from the incident light), the convention in the lensmaker’s formula takes this as a negative distance. Thus, $1/d_{i2}=1/f_2-1/d_{o2}=1/10+1/10=2/10=1/5$. The second image is $5\\,\\mathrm{cm}$ to the right of the second lens.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            4
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-012",
+      "number": 12,
+      "markdown": "12. ![Spherical concave mirror, focal point, and object](images/87d850448a94611419c73885.jpg)\n\nA spherical, concave mirror is shown in the figure above. The focal point $F$ and the location of the object $O$ are indicated. At what point will the image be located?\n\n(A) I\n\n(B) II\n\n(C) III\n\n(D) IV\n\n(E) V",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/87d850448a94611419c73885.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 12\n\n**Subject Type**\n\n*Optics* → Mirror Formula\n\nThe mirror formula is identical in form to the lensmaker’s formula in Problem 11. The sign convention varies for the image distance. If an image distance is on the inside of the mirror, then it is taken as negative.\n\nThus, $1/f=1/d_o+1/d_i\\Rightarrow1/d_i=1/f-1/d_o$. From the diagram, one deduces that $d_o<f$. Thus, $d_i$ has to be negative. The virtual image has to be inside the mirror. Only choice (V) shows this.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            4
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-013",
+      "number": 13,
+      "markdown": "13. Two stars are separated by an angle of $3 \\times 10^{-5}$ radians. What is the diameter of the smallest telescope that can resolve the two stars using visible light ($\\lambda \\cong 600$ nanometers)? (Ignore any effects due to Earth’s atmosphere.)\n\n(A) 1 mm  \n(B) 2.5 cm  \n(C) 10 cm  \n(D) 2.5 m  \n(E) 10 m",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 13\n\n## Subject Type\n\nOptics → Aperture Formula\n\nThe circular aperture formula (a.k.a. Rayleigh Criterion) is given by $\\theta = 1.22\\lambda/D$. Plug in the given quantities to get that.\n\n(It’s a nice formula to memorize, as it’s used as common sense in a variety of engineering fields, as well as in remote-sensing, such as satellite-communications.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            4,
+            5
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-014",
+      "number": 14,
+      "markdown": "14. An 8-centimeter-diameter by 8-centimeter-long NaI(Tl) detector detects gamma rays of a specific energy from a point source of radioactivity. When the source is placed just next to the detector at the center of the circular face, 50 percent of all emitted gamma rays at that energy are detected. If the detector is moved to 1 meter away, the fraction of detected gamma rays drops to\n\n(A) $10^{-4}$  \n(B) $2 \\times 10^{-4}$  \n(C) $4 \\times 10^{-4}$  \n(D) $8\\pi \\times 10^{-4}$  \n(E) $16\\pi \\times 10^{-4}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 14\n\n## Subject Type\n\nMechanics → Cross Section Formula\n\nWhen the detector is placed near the source, the particles enter it directly from the circle at the end of the cylinder. The area is $A = \\pi d^2/4$.\n\nWhen the detector is placed 1 m away, the particles enter it through a sphere of radius 1 m, thus $A = 4\\pi R^2 = 4\\pi$.\n\nThe ratio of areas gives the fraction of detected gamma rays, $d^2/16 = 8^2\\times 10^{-4}/16 = 4\\times 10^{-4}$, as in choice (C).\n\nThis is due to Jon Jockers.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            5
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-015",
+      "number": 15,
+      "markdown": "15. Five classes of students measure the height of a building. Each class uses a different method and each measures the height many different times. The data for each class are plotted below. Which class made the most precise measurement?\n\n(A)\n\n![Plot for choice A](images/3c93d370bcae563971ed5f76.jpg)\n\n(B)\n\n![Plot for choice B](images/1499371e5dd93dd16c9dacbb.jpg)\n\n(C)\n\n![Plot for choice C](images/b50f418335614329827cda8b.jpg)\n\n(D)\n\n![Plot for choice D](images/52fdef53cf544074a3d13d13.jpg)\n\n(E)\n\n![Plot for choice E](images/28b79b7c7289d27b55195077.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/3c93d370bcae563971ed5f76.jpg",
+        "images/1499371e5dd93dd16c9dacbb.jpg",
+        "images/b50f418335614329827cda8b.jpg",
+        "images/52fdef53cf544074a3d13d13.jpg",
+        "images/28b79b7c7289d27b55195077.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 15\n\n## Subject Type\n\nLab Methods → Precision\n\nThe most precise measurement might be the wrong value, as long as after many measurements, each measurement is very close to the mean. Thus, the width of the height vs. number of trials graph must be as thin as possible. The only choice that shows this characteristic is choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            5
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-016",
+      "number": 16,
+      "markdown": "16. A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obtains the following values.\n\n3, 0, 2, 1, 2, 4, 0, 1, 2, 5\n\nHow long should the student count to establish the rate to an uncertainty of 1 percent?\n\n(A) 80 s  \n(B) 160 s  \n(C) 2,000 s  \n(D) 5,000 s  \n(E) 6,400 s",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 16\n\n## Subject Type\n\nLab Methods → Sample\n\nThe mean of the ten numbers is $\\bar{x} = 2$. Thus, the standard deviation of the sample is $\\sqrt{\\bar{x}} \\approx 1.44$. If the student wants to obtain an uncertainty of 1 percent, then\n\n$$\n\\frac{\\sigma}{\\bar{x}'} = \\frac{1}{100} = \\frac{\\sqrt{2C}}{2C} = \\frac{1}{\\sqrt{2C}},\n$$\n\nwhere one assumes the average scales uniformly and $C$ is the time to count.\n\nThus, one has $\\sqrt{2C} \\approx 100$. Thus the student should count $C=5000\\,\\mathrm{s}$.\n\n## A Sneak Peek of *The Not-So-Boring Review of Undergrad Physics*\n\nPerhaps an alternate description of the Poisson Distribution might help you remember it better. (Note: this section also contains a quick review of the operators of the algebraic approach to the quantum mechanical simple harmonic oscillator.)\n\nThe Poisson Distribution is intimately related to the raising and lowering operators of the (quantum mechanical) simple harmonic oscillator (SHO). When you hear the phrase “simple harmonic oscillator,” you should immediately recall the number operator $N = a^\\dagger a$, as well as the characteristic relations for the raising $a^\\dagger$ and lowering $a$ operators, $a|n\\rangle = \\sqrt{n}|n-1\\rangle$ and $a^\\dagger|n\\rangle = \\sqrt{n+1}|n+1\\rangle$. And, don’t forget the commutation relation that you should know by heart by now, $[a,a^\\dagger]=1$. (That’s all part of the collective consciousness of being a physics major.)\n\nNow, here’s some quasi-quantum magic applied to the Poisson Distribution. I’m going to show you how to arrive at the result for standard deviation, i.e., $\\Delta n \\equiv \\sqrt{\\bar{n}}$, using the SHO operators.\n\nLet’s start with something easy to help jog your memory: The mean or average number in the distribution is just the expectation value of the Number operator, $\\langle N\\rangle = \\langle n|N|n\\rangle = \\langle n|a^\\dagger a|n\\rangle \\equiv \\bar{n}$.\n\nOkay! So, on with the fun stuff: the standard deviation is given by the usual definition, $(\\Delta n)^2 = \\langle N^2\\rangle - \\langle N\\rangle^2$.\n\nThe second term is already determined from the above expression for the mean, $\\langle N\\rangle^2 = \\bar{n}^2$.\n\nThe first term can be calculated from $\\langle N^2\\rangle = \\langle n|a^\\dagger aa^\\dagger a|n\\rangle$. Now, the commutation relation gives $[a,a^\\dagger]=1=aa^\\dagger-a^\\dagger a$, so $aa^\\dagger=a^\\dagger a+1$. Replacing the middle two of the four $a$’s with that result, the expression becomes\n\n$$\n\\begin{aligned}\n\\langle N^2\\rangle &= \\langle n|a^\\dagger(a^\\dagger a+1)a|n\\rangle \\\\\n&= \\langle n|a^\\dagger a^\\dagger aa + a^\\dagger a|n\\rangle \\\\\n&= \\langle N^2\\rangle_{\\text{normally ordered}} + \\langle N\\rangle \\\\\n&= \\bar{n}^2 + \\bar{n}.\n\\end{aligned}\n$$\n\nPlugging the above results into the standard deviation, I present to you this: $(\\Delta n)^2 = \\bar{n}^2 + \\bar{n} - \\bar{n}^2 = \\bar{n}$, so $\\Delta n = \\sqrt{\\bar{n}}$.\n\nIt’s no coincidence that the above works.\n\nThe Poisson Distribution is given by $P(\\lambda) \\propto e^{-m}m^\\lambda/\\lambda!$. But, wait, doesn’t that look a wee bit too familiar? The energy eigenfunctions of the SHO are given by $|n\\rangle = (a^\\dagger)^n/(n!)^{1/2}|0\\rangle$, where $|0\\rangle \\propto e^{-a}$. Making the following associations, $m\\to a$ and $\\lambda\\to n$, you carve the first etchings in the Rosetta Stone between probability and quantum mechanics.\n\nHmmm... so are you beginning to see the greater meaning of the magic math of quantum mechanics that you might have learned by rote? Yes, my padawan, I see the force in you.\n\n*Book To Be Published on GREPhysics.NET in December 2005*",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            5,
+            6
+          ]
+        },
+        "notes": [
+          "The source derivation contains garbled intermediate expectation-value lines. They have been condensed to the standard normal-ordering result that supports the source’s stated Poisson variance. The final result agrees with the stated official answer D."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-017",
+      "number": 17,
+      "markdown": "17. The ground state electron configuration for phosphorus, which has 15 electrons, is\n\n(A) $1s^2 2s^2 2p^6 3s^1 3p^4$  \n(B) $1s^2 2s^2 2p^6 3s^2 3p^3$  \n(C) $1s^2 2s^2 2p^6 3s^2 3d^3$  \n(D) $1s^2 2s^2 2p^6 3s^1 3d^4$  \n(E) $1s^2 2s^2 2p^6 3p^2 3d^3$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 17\n\n## Subject Type\n\nAtomic → Orbital Config\n\nFirst, check that all choices have superscripts that add to 15. That’s apparently so, so one can’t easily eliminate choices based on that.\n\nSince the problem has electrons in the ground state, choices (D) and (A) cannot be it—no electrons are promoted from the s to higher orbitals. s has to be filled first.\n\nChoice (E) skips the 3s states completely, so that’s out.\n\nOne should have an approximate idea of what the periodic table looks like. The transitional (d-state) elements do not occur until after 4s. Even so, the first row of transitional elements is labeled 3d. Since phosphorus does not have enough electrons to qualify for a 4s or higher state, choice (B) must be right.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            6
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-018",
+      "number": 18,
+      "markdown": "18. The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is required to ionize helium (i.e., to remove one electron)?\n\n(A) 24.6 eV  \n(B) 39.5 eV  \n(C) 51.8 eV  \n(D) 54.4 eV  \n(E) 65.4 eV",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 18\n\n## Subject Type\n\nAtomic → Bohr Theory\n\nOne can calculate the ionization energy from finding the ionization energy for He$^+$, then subtracting it from the given ionization energy. Since He$^+$ is a hydrogenic atom, one can apply Bohr Theory.\n\nIn Bohr Theory, the energy to remove an electron is $E = Z^2E_1$. For helium, since it has two protons, $Z=2$. Thus, $E=4E_1\\approx 52\\,\\mathrm{eV}$ is the ionization energy. ($E_1=13.6\\,\\mathrm{eV}$ is just 1 Rydberg or the energy of the ground state of hydrogen.)\n\nSubtract this from the ionization energy for He given in the problem to be 79 eV, to get an answer close to choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            6
+          ]
+        },
+        "notes": [
+          "The prose says “subtracting it from the given ionization energy”; the direction is clarified by the following sentence. The approximate 52 eV and resulting choice agree with the official answer A."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-019",
+      "number": 19,
+      "markdown": "19. The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is $c^2$ times the mass difference between\n\n(A) two hydrogen atoms and one helium atom  \n(B) four hydrogen atoms and one helium atom  \n(C) six hydrogen atoms and two helium atoms  \n(D) three helium atoms and one carbon atom  \n(E) two hydrogen atoms plus two helium atoms and one carbon atom",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 19\n\nSubject Type\n\nAdvanced Topics → Astrophysics\n\nIt takes 4 H’s to create a Helium nucleus in the sun’s primary thermonuclear reactions. One either remembers this or can derive it from conservation of mass. The atomic mass of Hydrogen is 1 (since it has just 1 proton), while the atomic mass of Helium is 4 (2 protons, 2 neutrons).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            6,
+            7
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-020",
+      "number": 20,
+      "markdown": "20. In the production of X rays, the term “bremsstrahlung” refers to which of the following?\n\n(A) The cut-off wavelength, $\\lambda_{\\min}$, of the X-ray tube  \n(B) The discrete X-ray lines emitted when an electron in an outer orbit fills a vacancy in an inner orbit of the atoms in the target metal of the X-ray tube  \n(C) The discrete X-ray lines absorbed when an electron in an inner orbit fills a vacancy in an outer orbit of the atoms in the target metal of the X-ray tube  \n(D) The smooth, continuous X-ray spectra produced by high-energy blackbody radiation from the X-ray tube  \n(E) The smooth, continuous X-ray spectra produced by rapidly decelerating electrons in the target metal of the X-ray tube",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 20\n\nSubject Type\n\nElectromagnetism → Bremsstrahlung\n\nOne might recall the English translation of Bremsstrahlung, which is “braking radiation.” The only choice that has to do with acceleration is choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            7
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-021",
+      "number": 21,
+      "markdown": "21. In the hydrogen spectrum, the ratio of the wavelengths for Lyman-$\\alpha$ radiation ($n = 2$ to $n = 1$) to Balmer-$\\alpha$ radiation ($n = 3$ to $n = 2$) is\n\n(A) $5/48$  \n(B) $5/27$  \n(C) $1/3$  \n(D) $3$  \n(E) $27/5$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 21\n\nSubject Type\n\nAtomic → Bohr Formula\n\nOne applies the Bohr formula $\\mathcal{E} \\propto (1/n_f^2 - 1/n_i^2) \\propto 1/\\lambda$. For the Lyman radiation, this is $E_L \\propto (1 - 1/4)$. For the Balmer radiation, this is $E_B \\propto (1/4 - 1/9)$. Taking the ratio gives\n\n$$\n\\frac{E_L}{E_B} = \\frac{3/4}{5/36} = \\frac{27}{5}.\n$$\n\nBut, since the problem wants the ratio of the wavelengths, which has an inverse relation to energy, one takes the inverse of that to get choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            7
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-022",
+      "number": 22,
+      "markdown": "22. An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from the planet’s center and the moon’s maximum orbital speed. Which of the following CANNOT be calculated from these measurements?\n\n(A) Mass of the moon  \n(B) Mass of the planet  \n(C) Minimum speed of the moon  \n(D) Period of the orbit  \n(E) Semimajor axis of the orbit",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 22\n\nSubject Type\n\nMechanics → Orbits\n\nThe planet orbits in an ellipse, and thus the sum of the minimum and maximum distance is twice the semimajor axis of the orbit. Choice (E) is out.\n\nFrom Kepler’s third law (which can be derived from the formalism of central force theory), one has $T^2 \\propto r^3$. Thus, knowing the distances, one can find the period. Choice (D) is out.\n\nThe speed can be found from conservation of energy. For an elliptical orbit, one has $E = -k/(2a) = \\frac{1}{2}mv^2 - k/r$, where $k = GmM$ and $a$ is the semimajor axis. (One can find the total energy of the orbit from the Virial Theorem. Recall that $\\langle T \\rangle = -\\langle \\sum \\mathbf{F} \\cdot \\mathbf{r} \\rangle/2$. Plug in the gravitational force $F = k/r^2$ to get $\\langle T \\rangle = \\langle k/(2r) \\rangle = \\langle k/(2a) \\rangle$. Thus, $T + V = k/(2a) - k/a = -k/(2a)$. )\n\nThe full form of Kepler’s third law is $\\tau^2 \\approx a^3/(GM)$. Thus, one can determine the mass of the planet.\n\nThe only one that remains is choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            7
+          ]
+        },
+        "notes": [
+          "The source writes $T^2 \\propto r^3$ while discussing an elliptical orbit; this is a schematic use of Kepler’s third law, with the semimajor axis used in its full form below. Preserved as written."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-023",
+      "number": 23,
+      "markdown": "23. A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters per second and is increasing at a rate of 10 meters per second squared. The angle between the particle’s velocity and acceleration vectors is\n\n(A) $0^\\circ$  \n(B) $30^\\circ$  \n(C) $45^\\circ$  \n(D) $60^\\circ$  \n(E) $90^\\circ$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 23\n\nSubject Type\n\nMechanics → Vectors\n\nIf a particle is moving in a circle, then its acceleration points towards the center—even if it is moving at a constant (magnitude) velocity. This is the normal component of acceleration.\n\nNow, if its tangential velocity is increasing, then it has a tangential acceleration. The tangential acceleration is given as just $a_t = 10\\,\\mathrm{m/s^2}$.\n\nThe normal acceleration is given by the centripetal acceleration formula $a_n = v^2/r = 10^2/10 = 10$.\n\nVectorially add the normal and tangential acceleration and dot it with the tangential velocity to find that the angle between them is just 45 degrees.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            7,
+            8
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-024",
+      "number": 24,
+      "markdown": "24. ![Velocity-versus-time graphs](images/1f3d5ce4ab453afe4241770c.jpg) (I), ![Figure](images/146707fdd4a41c8e9937dfd3.jpg) (II), ![Figure](images/74912a29906892c4402ed88c.jpg) (III), ![Figure](images/14775a0db4e378ea095087e2.jpg) (IV), and ![Figure](images/21096336303734608449489e.jpg) (V).\n\nA stone is thrown at an angle of $45^\\circ$ above the horizontal x-axis in the +x-direction. If air resistance is ignored, which of the velocity versus time graphs shown above best represents $v_x$ versus $t$ and $v_y$ versus $t$, respectively?\n\n| | $v_x$ vs. $t$ | $v_y$ vs. $t$ |\n|---|---|---|\n| (A) | I | IV |\n| (B) | II | I |\n| (C) | II | III |\n| (D) | II | V |\n| (E) | IV | V |",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/1f3d5ce4ab453afe4241770c.jpg",
+        "images/146707fdd4a41c8e9937dfd3.jpg",
+        "images/74912a29906892c4402ed88c.jpg",
+        "images/14775a0db4e378ea095087e2.jpg",
+        "images/21096336303734608449489e.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 24\n\nSubject Type\n\nMechanics → Kinematics\n\nIf a stone is thrown at an angle of 45° above the horizontal at an initial velocity, its horizontal $v_x$ vs. $t$ graph should be constant and positive, $v_x = v_{x0} = v_0\\cos(45°)$. Thus, choices (A) and (E) are out.\n\nRecalling the basic kinematics equation $v_y = v_{y0} - gt$, one eliminates choice (D), since that shows a parabolic time dependence, when a linear one is required. Since the slope is negative, the $v_y$-graph should look like III; one has choice (C).\n\n(If one forgets the basic equations above, one can derive it all from summing up the net force $\\ddot{y} = -g$. Integrate both sides to get velocity. Integrate again to get position.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            8
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-025",
+      "number": 25,
+      "markdown": "25. Seven pennies are arranged in a hexagonal, planar pattern so as to touch each neighbor, as shown in the figure above. Each penny is a uniform disk of mass $m$ and radius $r$. What is the moment of inertia of the system of seven pennies about an axis that passes through the center of the central penny and is normal to the plane of the pennies?\n\n![Seven pennies arranged in a hexagonal pattern](images/370339743a24af6bd19e6a7b.jpg)\n\n(A) $\\frac{7}{2}mr^2$\n\n(B) $\\frac{13}{2}mr^2$\n\n(C) $\\frac{29}{2}mr^2$\n\n(D) $\\frac{49}{2}mr^2$\n\n(E) $\\frac{55}{2}mr^2$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/370339743a24af6bd19e6a7b.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 25\n\n## Subject Type\n\nMechanics → Moment of Inertia\n\nThe moment of inertia of the center penny about its center is just $\\frac{1}{2}mr^2$.\n\nThe moment of inertia of any one of the other pennies about the center is given by the parallel-axis theorem, $I=I_{CM}+md^2$, where $d$ is the distance from the new axis to the center of mass. $I_{CM}=\\frac{1}{2}mr^2$ for each penny, and thus one has\n\n$$I=\\frac{1}{2}mr^2+md^2=\\frac{1}{2}mr^2+m(2r)^2=\\frac{9}{2}mr^2,$$\n\nsince the distance from the center of each outer penny to the center of the configuration is $2r$.\n\nSince there are 6 pennies on the outside, the total moment of inertia is\n\n$$I=\\frac{1}{2}mr^2+6\\left(\\frac{9}{2}mr^2\\right)=\\frac{55}{2}mr^2,$$\n\nas in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            8
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-026",
+      "number": 26,
+      "markdown": "26. A thin uniform rod of mass $M$ and length $L$ is positioned vertically above an anchored frictionless pivot point, as shown above, and then allowed to fall to the ground. With what speed does the free end of the rod strike the ground?\n\n![Rod pivoted at its lower end](images/61d2fd2bf82c3b2826735423.jpg)\n\n(A) $\\sqrt{\\frac{1}{3}gL}$\n\n(B) $\\sqrt{gL}$\n\n(C) $\\sqrt{3gL}$\n\n(D) $\\sqrt{12gL}$\n\n(E) $12\\sqrt{gL}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/61d2fd2bf82c3b2826735423.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 26\n\n## Subject Type\n\nMechanics → Conservation of Energy\n\nConservation of energy gives $E=MgL/2=\\frac{1}{2}Mv^2+\\frac{1}{2}I\\omega^2$, where the potential energy is given relative to the center of mass. The moment of inertia is about the center of mass, too. The translational velocity is the velocity at the center of mass.\n\nFor a rod, one has $I=\\frac{1}{12}ML^2$ and $v=\\omega L/2$. Substituting gives\n\n$$\\frac{MgL}{2}=\\frac{1}{2}M\\frac{\\omega^2L^2}{4}+\\frac{1}{2}\\left(\\frac{1}{12}ML^2\\right)\\omega^2=\\frac{1}{2}\\left(\\frac{1}{4}+\\frac{1}{12}\\right)ML^2\\omega^2,$$\n\nso $g=(\\frac{1}{4}+\\frac{1}{12})L\\omega^2=\\frac{1}{3}L\\omega^2$, and hence $\\omega=\\sqrt{3g/L}$. Now that one has the angular velocity, one can calculate the velocity at the endpoint; the rod rotates about its other end on the ground. $v=\\omega\\times r=L\\omega=\\sqrt{3gL}$, which is choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            8
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-027",
+      "number": 27,
+      "markdown": "27. The eigenvalues of a Hermitian operator are always\n\n(A) real\n\n(B) imaginary\n\n(C) degenerate\n\n(D) linear\n\n(E) positive",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 27\n\n## Subject Type\n\nQuantum Mechanics → Hermitian Operator\n\nThe eigenvalues of a Hermitian operator are always real. This is one of those quantumisms one memorizes after even a semi-decent course in QM.\n\nOne can quickly prove it by a standard argument. Suppose $A|\\psi\\rangle=a|\\psi\\rangle$. Taking the Hermitian conjugate gives $\\langle\\psi|A^\\dagger=a^*\\langle\\psi|$. Since $A^\\dagger=A$, multiplying the eigenvalue equation on the left by $\\langle\\psi|$ gives $\\langle\\psi|A|\\psi\\rangle=a\\langle\\psi|\\psi\\rangle$, while the conjugate equation gives $\\langle\\psi|A|\\psi\\rangle=a^*\\langle\\psi|\\psi\\rangle$. Because $\\langle\\psi|\\psi\\rangle\\ne0$, it follows that $a=a^*$, so the eigenvalue is real.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            8,
+            9
+          ]
+        },
+        "notes": [
+          "The source's proof incorrectly states that $A^\\dagger|\\psi\\rangle=a^*|\\psi\\rangle$. The corrected proof uses the Hermitian-conjugated bra equation; the conclusion that the eigenvalues are real is unchanged."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-028",
+      "number": 28,
+      "markdown": "28. The states $|1\\rangle$, $|2\\rangle$, and $|3\\rangle$ are orthonormal. For what value of $x$ are the states $|\\psi_1\\rangle$ and $|\\psi_2\\rangle$ given above orthogonal?\n\n$$|\\psi_1\\rangle = 5|1\\rangle - 3|2\\rangle + 2|3\\rangle$$\n\n$$|\\psi_2\\rangle = |1\\rangle - 5|2\\rangle + x|3\\rangle$$\n\n(A) $10$\n\n(B) $5$\n\n(C) $0$\n\n(D) $-5$\n\n(E) $-10$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 28\n\n## Subject Type\n\nQuantum Mechanics → Orthogonality\n\nStates are orthogonal when their dot product (bra-ket) is 0. Since the eigenvectors $|1\\rangle$, $|2\\rangle$, and $|3\\rangle$ are given as orthonormal, $\\langle i|i\\rangle=1$.\n\n$$\\langle\\psi_1|\\psi_2\\rangle=5-15+2x=0.$$\n\nSolving the equation gives $x=-10$, as in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-029",
+      "number": 29,
+      "markdown": "29. The state\n\n$$\\psi = \\frac{1}{\\sqrt{6}}\\psi_{-1} + \\frac{1}{\\sqrt{2}}\\psi_1 + \\frac{1}{\\sqrt{3}}\\psi_2$$\n\nis a linear combination of three orthonormal eigenstates of the operator $\\hat{O}$ corresponding to eigenvalues $-1$, $1$, and $2$. What is the expectation value of $\\hat{O}$ for this state?\n\n(A) $\\frac{2}{3}$\n\n(B) $\\sqrt{\\frac{7}{6}}$\n\n(C) $1$\n\n(D) $\\frac{4}{3}$\n\n(E) $\\frac{\\sqrt{3}+2\\sqrt{2}-1}{\\sqrt{6}}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 29\n\n## Subject Type\n\nQuantum Mechanics → Expectation Value\n\n$$\\langle O\\rangle=\\langle\\psi|O|\\psi\\rangle=-\\frac{1}{6}+\\frac{1}{2}+\\frac{2}{3}=1.$$\n\n(Recall that $\\langle\\psi|A|\\psi\\rangle=a\\langle\\psi|\\psi\\rangle=a$.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-030",
+      "number": 30,
+      "markdown": "30. Which of the following functions could represent the radial wave function for an electron in an atom? ($r$ is the distance of the electron from the nucleus; $A$ and $b$ are constants.)\n\nI. $A e^{-br}$\n\nII. $A\\sin(br)$\n\nIII. $A/r$\n\n(A) I only\n\n(B) II only\n\n(C) I and II only\n\n(D) I and III only\n\n(E) I, II, and III",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 30\n\n## Subject Type\n\nAtomic → Hydrogen Atom\n\nThe hydrogen atom wave functions all have to do with an exponentially decreasing radial function. Thus, choose choice (A). (FYI: Only the spherical-harmonic angular parts have trigonometric functions involved.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": [
+          "The source's parenthetical ends with an incomplete phrase (“and thus choice”). It is omitted because the intended choice cannot be determined from that fragment; the preceding explanation and answer are complete."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-031",
+      "number": 31,
+      "markdown": "31. Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the positron replacing the proton. If a positronium atom makes a transition from the state with $n = 3$ to a state with $n = 1$, the energy of the photon emitted in this transition is closest to\n\n(A) $6.0\\ \\mathrm{eV}$  \n(B) $6.8\\ \\mathrm{eV}$  \n(C) $12.2\\ \\mathrm{eV}$  \n(D) $13.6\\ \\mathrm{eV}$  \n(E) $24.2\\ \\mathrm{eV}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 31\n\n## Subject Type\n\nAtomic → Positronium\n\nThe positronium atom ground-state energy can be deduced from recalling the reduced mass. $\\mu = m/2$, since one has a positron and electron orbiting each other, and thus the energy, which is related to mass, is half of that of hydrogen. $E_{\\text{positronium}} = -13.6/2\\,\\text{eV} = -6.8\\,\\text{eV}$.\n\nThe Bohr formula still applies, and thus $E = E_1\\left(1/n_f^2 - 1/n_i^2\\right) = 8E_1/9$, which is choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-032",
+      "number": 32,
+      "markdown": "32. If the total energy of a particle of mass $m$ is equal to twice its rest energy, then the magnitude of the particle’s relativistic momentum is\n\n(A) $mc/2$  \n(B) $mc/\\sqrt{2}$  \n(C) $mc$  \n(D) $\\sqrt{3}\\,mc$  \n(E) $2mc$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 32\n\n## Subject Type\n\nSpecial Relativity → Momentum\n\nThe total energy of a particle of mass $m$ is $E = 2mc^2 = \\gamma mc^2$, since the problem supplies that it is equal to twice the rest energy. This means that $\\gamma = 2$.\n\nThe relativistic momentum is $p = \\gamma mv = 2mv$. However, $v \\ne c$.\n\nKnowing $\\gamma$, one can quickly solve for $\\gamma = 2 = 1/\\sqrt{1 - \\beta^2}$. One finds that $\\beta^2 = 3/4$. Thus, the velocity is $v = \\sqrt{3}c/2$. Plug this into the momentum equation to get choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            9,
+            10
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-033",
+      "number": 33,
+      "markdown": "33. If a charged pion that decays in $10^{-8}$ second in its own rest frame is to travel 30 meters in the laboratory before decaying, the pion’s speed must be most nearly\n\n(A) $0.43 \\times 10^8\\ \\mathrm{m/s}$  \n(B) $2.84 \\times 10^8\\ \\mathrm{m/s}$  \n(C) $2.90 \\times 10^8\\ \\mathrm{m/s}$  \n(D) $2.98 \\times 10^8\\ \\mathrm{m/s}$  \n(E) $3.00 \\times 10^8\\ \\mathrm{m/s}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 33\n\n## Subject Type\n\nSpecial Relativity → Frames\n\nThe distance the pion must travel is in the lab frame, and thus $L = 30 = vt$.\n\nThe decay time is given in its proper time, and thus $t = \\gamma t_0 \\Rightarrow 30 = v\\gamma t_0$. Solving for $v$, one finds that choice (D) works.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            10
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-034",
+      "number": 34,
+      "markdown": "34. In an inertial reference frame $S$, two events occur on the $x$-axis separated in time by $\\Delta t$ and in space by $\\Delta x$. In another inertial reference frame $S'$, moving in the $x$-direction relative to $S$, the two events could occur at the same time under which, if any, of the following conditions?\n\n(A) For any values of $\\Delta x$ and $\\Delta t$  \n(B) Only if $|\\Delta x/\\Delta t| < c$  \n(C) Only if $|\\Delta x/\\Delta t| > c$  \n(D) Only if $|\\Delta x/\\Delta t| = c$  \n(E) Under no condition",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 34\n\n## Subject Type\n\nSpecial Relativity → Spacetime Interval\n\nThe spacetime interval for the convention $ds^2 = c^2dt^2 - dx^2$ has regions where the slope is greater than that of the lightcone line, i.e., $ct = x$, to be timelike. Slopes that are less than the lightcone slope on the plot of $x$ (horizontal) vs. $ct$ (vertical) correspond to spacelike phenomena. In this region, one can have two observers disagree on whether an event happens before the other. Thus, one wants $ct < x$, as in choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            10
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-035",
+      "number": 35,
+      "markdown": "35. If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\n\n(A) Decreases by a factor of 81.  \n(B) Decreases by a factor of 9.  \n(C) Increases by a factor of 9.  \n(D) Increases by a factor of 27.  \n(E) Increases by a factor of 81.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 35\n\n## Subject Type\n\nStatistical Mechanics → Blackbody Radiation Formula\n\nThe blackbody radiation formula has $u = \\sigma T^4$. The ratio of energy radiated is thus $T_2^4/T_1^4$. Since $T_2 = 3T_1$, the ratio is just $3^4 = 81$, as in choice (E). (Obviously an increase since the final temperature is much higher than the initial.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            10
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-036",
+      "number": 36,
+      "markdown": "36. Consider the quasi-static adiabatic expansion of an ideal gas from an initial state $i$ to a final state $f$. Which of the following statements is NOT true?\n\n(A) No heat flows into or out of the gas.  \n(B) The entropy of state $i$ equals the entropy of state $f$.  \n(C) The change of internal energy of the gas is $-\\int P\\,dV$.  \n(D) The mechanical work done by the gas is $\\int P\\,dV$.  \n(E) The temperature of the gas remains constant.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 36\n\n## Subject Type\n\nThermodynamics → Adiabatic\n\nIn an adiabatic expansion, $dS = 0$ (entropy), since $dQ = 0$ (heat). No heat flows out, by definition, and thus choice (A) is out, as well as choice (B). Choice (C) is true since by the first law, one has $Q = U + W \\Rightarrow U = -W$, and the given integral is just the definition of work. Choice (D) defines work. Choice (E) remains—so take that.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            10
+          ]
+        },
+        "notes": [
+          "The source explanation appears to mishandle the distinction between an adiabatic process and a reversible adiabatic process when asserting $dS=0$; retained as written. The official answer is (E)."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-037",
+      "number": 37,
+      "markdown": "37. A constant amount of an ideal gas undergoes the cyclic process $ABCA$ in the $PV$ diagram shown below. The path $BC$ is isothermal. The work done by the gas during one complete cycle, beginning and ending at $A$, is most nearly\n\n![PV diagram](images/a4e4f6d34e4daeab98027bf2.jpg)\n\n(A) 600 kJ  \n(B) 300 kJ  \n(C) 0  \n(D) −300 kJ  \n(E) −600 kJ",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/a4e4f6d34e4daeab98027bf2.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 37\n\n**Subject Type**\n\n*Thermodynamics* → *Cycle Analysis*\n\nFor path C to A, one has $W=0$ for an isochoric (constant volume) process.\n\nFor path A to B, one has just $W=P\\Delta V=200(V_B-2)$ for an isobaric (constant pressure) process. For path B to C, one has $W=P_CV_C\\ln(V_C/V_B)=1000\\ln(2/V_B)$.\n\nOne can figure out $V_B$ from the isothermal condition $P_CV_C=P_BV_B$, so $V_B=(P_C/P_B)V_C=(5/2)\\times 2=5$. Plug that in above to get:\n\n$W_{CA}=0$\n\n$W_{AB}=600$\n\n$W_{BC}=1000\\ln(2/5)>-1000$\n\n$\\sum W\\approx -400$, which is closest to choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            10,
+            11
+          ]
+        },
+        "notes": [
+          "解析按原文保留总功约为 $-400$、最接近选项 (D)；近似值与图中状态参数的直接计算可能存在轻微差异。"
+        ]
+      }
+    },
+    {
+      "id": "gr0177-038",
+      "number": 38,
+      "markdown": "38. An AC circuit consists of the elements shown below, with $R = 10{,}000$ ohms, $L = 25$ millihenries, and $C$ an adjustable capacitance. The AC voltage generator supplies a signal with an amplitude of 40 volts and angular frequency of 1,000 radians per second. For what value of $C$ is the amplitude of the current maximized?\n\n![AC circuit](images/e26a1973a0832057daf823d6.jpg)\n\n(A) 4 nF  \n(B) 40 nF  \n(C) 4 μF  \n(D) 40 μF  \n(E) 400 μF",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/e26a1973a0832057daf823d6.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 38\n\n**Subject Type**\n\n*Electromagnetism* → *AC Circuit*\n\nThe current is maximized when one has resonance. Resonance occurs when the complex impedance is 0, or when $X_L=X_C\\Rightarrow\\omega L=1/(\\omega C)$. Plug stuff in to get choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            11
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-039",
+      "number": 39,
+      "markdown": "39. Which two of the following circuits are high-pass filters?\n\nI.\n\n![Circuit I](images/d42bcd8d2dcb9c807ea4cdce.jpg)\n\nII.\n\n![Circuit II](images/fbd51f97a2bb3c2b3814d1c6.jpg)\n\nIII.\n\n![Circuit III](images/5b411930bc3ec78f3fb7d091.jpg)\n\nIV.\n\n![Circuit IV](images/037f62cf99287adffc916208.jpg)\n\n(A) I and II  \n(B) I and III  \n(C) I and IV  \n(D) II and III  \n(E) II and IV",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/d42bcd8d2dcb9c807ea4cdce.jpg",
+        "images/fbd51f97a2bb3c2b3814d1c6.jpg",
+        "images/5b411930bc3ec78f3fb7d091.jpg",
+        "images/037f62cf99287adffc916208.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 39\n\n**Subject Type**\n\n*Electromagnetism* → *Filters*\n\nHigh-pass filters have, for high frequencies ($\\omega\\to\\infty$), $V_{in}\\approx V_{out}$.\n\nThe net impedance is given by $Z=R+j(\\omega L-1/(\\omega C))$. $V_{in}=IZ$, and thus $I=V_{in}/Z$.\n\nFor cases I and II, $Z=R+j(\\omega L)$.\n\nFor case I: $V_{out}=IR=V_{in}R/(R+j(\\omega L))$. Thus, in the regime of high frequency, one gets $V_{out}\\to0$ (This is a low-pass filter.)\n\nFor case II: $V_{out}=IZ_L=V_{in}\\omega L/(R+j(\\omega L))$; one gets $V_{out}\\approx V_{in}$ (To wit: L’Hôpital’s Rule can be used or this limit.)\n\nFor cases IV and III, $Z=R+j(-1/(\\omega C))$.\n\nFor Case III, $V_{out}=IR=V_{in}R/(R+j(-1/(\\omega C)))$. For high frequency, $1/(\\omega C)\\to0$, and thus one has $V_{in}\\approx V_{out}$.\n\nFor Case IV, $V_{out}=IZ_C=V_{in}X_C/(R+j(-1/(\\omega C)))$. This quantity goes to 0 for high frequency. (This is a low-pass filter.)\n\nHence, the only choices that work for high-frequency filters are choices II and III. Choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            11
+          ]
+        },
+        "notes": [
+          "解析中原有电路阻抗和输出电压表达式对相量/阻抗记号使用较简略；保留原推导意图，未改写物理模型或结论。"
+        ]
+      }
+    },
+    {
+      "id": "gr0177-040",
+      "number": 40,
+      "markdown": "40. In the circuit shown below, the switch $S$ is closed at $t = 0$. Which of the following best represents the voltage across the inductor, as seen on an oscilloscope?\n\n![Circuit](images/db2476924121c6f29bcb6ea5.jpg)\n\n(A)\n\n![Choice A](images/f1e741aa67cdbb824acbe368.jpg)\n\n(B)\n\n![Choice B](images/afbd7401584997da5bb1c529.jpg)\n\n(C)\n\n![Choice C](images/e26809e17c91ad413772f3a9.jpg)\n\n(D)\n\n![Choice D](images/1f65c61e244aebdae1560924.jpg)\n\n(E)\n\n![Choice E](images/a65b0b9aabd7eca8f1a3125b.jpg)",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/db2476924121c6f29bcb6ea5.jpg",
+        "images/f1e741aa67cdbb824acbe368.jpg",
+        "images/afbd7401584997da5bb1c529.jpg",
+        "images/e26809e17c91ad413772f3a9.jpg",
+        "images/1f65c61e244aebdae1560924.jpg",
+        "images/a65b0b9aabd7eca8f1a3125b.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          32
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 40\n\n**Subject Type**\n\n*Electromagnetism* → *LR Circuits*\n\nImmediately after the switch is closed, the voltage across the inductor is maximal since the change in current is huge. (To wit: $V_L=\\dot{I}L$.) Thus, only choices (D) and (E) remain.\n\nThe voltage exponentially decreases rather quickly in an LR circuit, and thus one should choose choice (D) instead of (E).\n\n(One can write out the equation $\\ddot{Q}L+\\dot{Q}R=V$ and solve for $V$ to verify.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            11
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-041",
+      "number": 41,
+      "markdown": "41. Maxwell’s equations can be written in the form shown below. If magnetic charge exists and if it is conserved, which of these equations will have to be changed?\n\nI. $\\nabla \\cdot \\mathbf{E} = \\rho / \\epsilon_0$\n\nII. $\\nabla \\cdot \\mathbf{B} = 0$\n\nIII. $\\nabla \\times \\mathbf{E} = -\\frac{\\partial \\mathbf{B}}{\\partial t}$\n\nIV. $\\nabla \\times \\mathbf{B} = \\mu_0\\mathbf{J} + \\mu_0\\epsilon_0\\frac{\\partial \\mathbf{E}}{\\partial t}$\n\n(A) I only  \n(B) II only  \n(C) III only  \n(D) I and IV  \n(E) II and III",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          34
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 41\n\n**Subject Type**\n\n*Electromagnetism* → *Monopoles*\n\nTheorists like monopoles because if they exist, Maxwell’s equation would be symmetrical. Thus, one would get to add terms to the divergence of $\\mathbf{B}$ and the curl of $\\mathbf{E}$ to make it symmetric with their other-field counterparts. Choose choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            11,
+            12
+          ]
+        },
+        "notes": [
+          "原文以单数形式写“Maxwell’s equation”；按原意保留，未擅自改写为方程组。"
+        ]
+      }
+    },
+    {
+      "id": "gr0177-042",
+      "number": 42,
+      "markdown": "42. Three wire loops and an observer are positioned as shown in the figure below. From the observer’s point of view, a current $I$ flows counterclockwise in the middle loop, which is moving towards the observer with a velocity $v$. Loops $A$ and $B$ are stationary. This same observer would notice that\n\n![Wire loops and observer](images/b5ee38fdc9174de0e609e56c.jpg)\n\n(A) clockwise currents are induced in loops $A$ and $B$\n\n(B) counterclockwise currents are induced in loops $A$ and $B$\n\n(C) a clockwise current is induced in loop $A$, but a counterclockwise current is induced in loop $B$\n\n(D) a counterclockwise current is induced in loop $A$, but a clockwise current is induced in loop $B$\n\n(E) a counterclockwise current is induced in loop $A$, but no current is induced in loop $B$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/b5ee38fdc9174de0e609e56c.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          34
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 42\n\n**Subject Type**\n\n*Electromagnetism* → *Faraday Law*\n\nFaraday’s law suggests that the induced current opposes the changing field. (This is also known as Lenz’s law.) It acts something like an electromagnetic inertia.\n\nSince the middle loop is moving towards the observer, loop A feels an increasing current. Loop A will thus compensate with a current that acts to decrease the field change; this current is counterclockwise by the right-hand rule.\n\nSince the middle loop is moving away from loop B, loop B will want to increase its magnetic field, and thus its current is in the same direction as the middle loop.\n\nOnly choice (C) works.\n\n(One can immediately cancel out all but choices (A) and (B) from just a conceptual understanding of Lenz’s law.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": [
+          "原解析关于观察者运动、磁场变化与感应电流方向的表述存在物理解释疑点；依要求保留原推理与官方答案，不据此改写。"
+        ]
+      }
+    },
+    {
+      "id": "gr0177-043",
+      "number": 43,
+      "markdown": "43. The components of the orbital angular momentum operator $\\mathbf{L}=(L_x,L_y,L_z)$ satisfy the following commutation relations.\n\n$$[L_x,L_y]=i\\hbar L_z,$$\n$$[L_y,L_z]=i\\hbar L_x,$$\n$$[L_z,L_x]=i\\hbar L_y.$$\n\nWhat is the value of the commutator $[L_xL_y,L_z]$?\n\n(A) $2i\\hbar L_xL_y$\n\n(B) $i\\hbar(L_x^2+L_y^2)$\n\n(C) $-i\\hbar(L_x^2+L_y^2)$\n\n(D) $i\\hbar(L_x^2-L_y^2)$\n\n(E) $-i\\hbar(L_x^2-L_y^2)$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 43\n\n## Subject Type\n\n*Quantum Mechanics* → Commutators\n\nWrite it out and recall the commutator identities $[B, AC] = A[B, C] + [B, A]C$ and $[A, B] = -[B, A]$.\n\nThus, $-[L_z, L_xL_y] = -L_x[L_z, L_y] - [L_z, L_x]L_y = i\\hbar(L_x^2 - L_y^2)$, using the identities supplied by ETS.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-044",
+      "number": 44,
+      "markdown": "44. The energy eigenstates for a particle of mass $m$ in a box of length $L$ have wave functions $\\phi_n(x)=\\sqrt{2/L}\\sin(n\\pi x/L)$ and energies $E_n=n^2\\pi^2\\hbar^2/(2mL^2)$, where $n=1,2,3,\\ldots$. At time $t=0$, the particle is in a state described as follows.\n\n$$\\Psi(t=0)=\\frac{1}{\\sqrt{14}}[\\phi_1+2\\phi_2+3\\phi_3]$$\n\nWhich of the following is a possible result of a measurement of energy for the state $\\Psi$?\n\n(A) $2E_1$\n\n(B) $5E_1$\n\n(C) $7E_1$\n\n(D) $9E_1$\n\n(E) $14E_1$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 44\n\n## Subject Type\n\n*Quantum Mechanics* → Measurements\n\nWhen one measures something, one can get something that is the eigenvalue of the operator. Energy eigenvalues are proportional to $n^2$. The only choice that is a squared quantity is choice (D), for $n=3$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-045",
+      "number": 45,
+      "markdown": "45. Let $|n\\rangle$ represent the normalized $n$th energy eigenstate of the one-dimensional harmonic oscillator, $H|n\\rangle=\\hbar\\omega\\left(n+\\frac{1}{2}\\right)|n\\rangle$. If $|\\psi\\rangle$ is a normalized ensemble state that can be expanded as a linear combination\n\n$$|\\psi\\rangle=\\frac{1}{\\sqrt{14}}|1\\rangle-\\frac{2}{\\sqrt{14}}|2\\rangle+\\frac{3}{\\sqrt{14}}|3\\rangle$$\n\nof the eigenstates, what is the expectation value of the energy operator in this ensemble state?\n\n(A) $\\frac{102}{14}\\hbar\\omega$\n\n(B) $\\frac{43}{14}\\hbar\\omega$\n\n(C) $\\frac{23}{14}\\hbar\\omega$\n\n(D) $\\frac{17}{\\sqrt{14}}\\hbar\\omega$\n\n(E) $\\frac{7}{\\sqrt{14}}\\hbar\\omega$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 45\n\n## Subject Type\n\n*Quantum Mechanics* → Simple Harmonic Oscillator\n\nThe expectation value is the average value, and it is calculated by $\\langle\\psi|H|\\psi\\rangle$. Using orthonormality, one has\n\n$$E = \\frac{1}{14}\\frac{3}{2} + \\frac{4}{14}\\frac{5}{2} + \\frac{9}{14}\\frac{7}{2}\\hbar\\omega = \\frac{43}{14}\\hbar\\omega.$$",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            12,
+            13
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-046",
+      "number": 46,
+      "markdown": "46. A free particle with initial kinetic energy $E$ and de Broglie wavelength $\\lambda$ enters a region in which it has potential energy $V$. What is the particle’s new de Broglie wavelength?\n\n(A) $\\lambda(1+E/V)$\n\n(B) $\\lambda(1-V/E)$\n\n(C) $\\lambda(1-E/V)^{-1}$\n\n(D) $\\lambda(1+V/E)^{1/2}$\n\n(E) $\\lambda(1-V/E)^{-1/2}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 46\n\n## Subject Type\n\n*Quantum Mechanics* → de Broglie Wavelength\n\nSince $E = p^2/(2m)$ and the de Broglie wavelength gives $\\lambda = h/p$, one can find the initial wavelength $\\lambda = h/\\sqrt{2mE}$. This yields an expression for $h = \\lambda\\sqrt{2mE}$.\n\nWhen the particle enters the well, its energy becomes $E' = E - V$, and thus $\\lambda' = h/\\sqrt{2m(E - V)}$. Plugging $h$ in, one has $\\lambda' = \\lambda\\sqrt{2mE}/\\sqrt{2m(E - V)}$, which is choice (E).\n\n(This above solution is due to the lout Marko.)\n\nAlso, the current author’s original approach leads to the right result, but it hand-waves the massiveness of the particle:\n\nThe initial kinetic energy of the free particle is its total energy $E = hv/\\lambda \\Rightarrow \\lambda = hv/E$. But, since one’s dealing with de Broglie, one has $p = h/\\lambda = mv$. Thus, $\\lambda^2 = h^2/(mE)$.\n\nIn the potential, its energy becomes $E - V$. Replace $E$ above with that to get $\\lambda'^2 = h^2/[m(E - V)]$. But, from the same relation above, one has $h^2 = mE\\lambda^2$. Thus, $\\lambda'^2 = \\lambda^2 E/(E - V) = \\lambda^2(1 - V/E)^{-1}$. This is choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            13
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-047",
+      "number": 47,
+      "markdown": "47. A sealed and thermally insulated container of total volume $V$ is divided into two equal volumes by an impermeable wall. The left half of the container is initially occupied by $n$ moles of an ideal gas at temperature $T$. Which of the following gives the change in entropy of the system when the wall is suddenly removed and the gas expands to fill the entire volume?\n\n(A) $2nR\\ln 2$\n\n(B) $nR\\ln 2$\n\n(C) $\\frac{1}{2}nR\\ln 2$\n\n(D) $-nR\\ln 2$\n\n(E) $-2nR\\ln 2$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 47\n\n## Subject Type\n\n*Thermodynamics* → Entropy\n\nEntropy is given as $dS = dQ/T$. Since the volume expands by a factor of 2, the work in the isothermal process is $W = nRT\\ln(V_2/V_1) = nRT\\ln 2$. But, for an ideal gas, the internal energy change in an isothermal process is 0, thus from the first law of thermodynamics, one has $dQ = dW + dU \\Rightarrow dQ = dW$. The temperature cancels out in the entropy integral, and thus the entropy is just $nR\\ln 2$, as in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            13
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-048",
+      "number": 48,
+      "markdown": "48. A gaseous mixture of $\\mathrm{O}_2$ (molecular mass 32 u) and $\\mathrm{N}_2$ (molecular mass 28 u) is maintained at constant temperature. What is the ratio $\\frac{v_{\\mathrm{rms}}(\\mathrm{N}_2)}{v_{\\mathrm{rms}}(\\mathrm{O}_2)}$ of the root-mean-square speeds of the molecules?\n\n(A) $\\frac{7}{8}$\n\n(B) $\\sqrt{\\frac{7}{8}}$\n\n(C) $\\sqrt{\\frac{8}{7}}$\n\n(D) $\\left(\\frac{8}{7}\\right)^2$\n\n(E) $\\ln\\left(\\frac{8}{7}\\right)$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 48\n\n## Subject Type\n\n*Thermodynamics* → RMS Speed\n\nIn case one forgets the RMS speed, one does not need to go through the formalism of deriving it with the Maxwell–Boltzmann distribution. Instead, one can approximate its dependence on mass and temperature by $\\frac{3}{2}kT = \\frac{1}{2}mv^2$. One thus has $v \\propto \\sqrt{kT/m}$. For the ratio of velocities, one has $\\frac{v_N}{v_O} = \\sqrt{\\frac{m_O}{m_N}}$. Plug in the given molecular masses for oxygen and nitrogen to get choice (C).\n\nIncidentally, the trick for memorizing the diatomic gases is “Have No Fear Of Ice Cold Beer” (Hydrogen, Nitrogen, Fluorine, Oxygen, Iodine, Chlorine, Bromine).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            13
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-049",
+      "number": 49,
+      "markdown": "49. In a Maxwell–Boltzmann system with two states of energies $\\epsilon$ and $2\\epsilon$, respectively, and a degeneracy of 2 for each state, the partition function is\n\n(A) $e^{-\\epsilon/kT}$  \n(B) $2e^{-2\\epsilon/kT}$  \n(C) $2e^{-3\\epsilon/kT}$  \n(D) $e^{-\\epsilon/kT}+e^{-2\\epsilon/kT}$  \n(E) $2\\left[e^{-\\epsilon/kT}+e^{-2\\epsilon/kT}\\right]$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 49\n\n## Subject Type\n\nStatistical Mechanics → Partition Functions\n\nThe partition function is given by the formula $Z = \\sum_i g_i e^{-\\epsilon_i/kT}$, where $g_i$ denotes the degeneracy of the $i$th state.\n\nPlug in the given information into the formula to get choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            13
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-050",
+      "number": 50,
+      "markdown": "50. At $20^\\circ\\mathrm{C}$, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate on a particularly cold day when the speed of sound is 3 percent lower than it would be at $20^\\circ\\mathrm{C}$?\n\n(A) 414 Hz  \n(B) 427 Hz  \n(C) 433 Hz  \n(D) 440 Hz  \n(E) 453 Hz",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 50\n\n## Subject Type\n\nWave Phenomena → Sound\n\nSince the wavelength of the wave does not change, as the pipe presumably stays approximately the same length, only the frequency varies. If the speed of sound changes, then the frequency changes. If the speed of sound is lower than usual, then the frequency is lower. Thus, choices (A), (B), and (C) remain. Calculate $0.97 \\times 440$ to get choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            13,
+            14
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-051",
+      "number": 51,
+      "markdown": "51. Unpolarized light of intensity $I_0$ is incident on a series of three polarizing filters. The axis of the second filter is oriented at $45^\\circ$ to that of the first filter, while the axis of the third filter is oriented at $90^\\circ$ to that of the first filter. What is the intensity of the light transmitted through the third filter?\n\n(A) 0  \n(B) $I_0/8$  \n(C) $I_0/4$  \n(D) $I_0/2$  \n(E) $I_0/\\sqrt{2}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 51\n\n## Subject Type\n\nOptics → Polarizers\n\nWhen one has three polarizers with the first oriented at a 90 degree angle to the last, the maximum light transmitted is $I_0/8$.\n\nIn this case, the intensity of light transmitted through the first filter is $I_0/2$, where $I_0$ is the incident light. (Half the light has been canceled by the polarization.)\n\nThe intensity of the light transmitted through the second filter is $I_2 = |I_1 \\cos 45^\\circ|^2 = I_0/4$.\n\nThe intensity of the light transmitted through the third filter is $I_3 = |I_2 \\cos 45^\\circ|^2 = I_0/8$.\n\nThis is choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-052",
+      "number": 52,
+      "markdown": "52. The conventional unit cell of a body-centered cubic Bravais lattice is shown in the figure below. The conventional cell has volume $a^3$. What is the volume of the primitive unit cell?\n\n![Body-centered cubic unit cell](images/2c31985fdf63237d47d2b654.jpg)\n\n(A) $a^3/8$  \n(B) $a^3/4$  \n(C) $a^3/2$  \n(D) $a^3$  \n(E) $2a^3$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/2c31985fdf63237d47d2b654.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 52\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nRecall the definition of a primitive cell to be the unit cell divided by the number of lattice points in a Bravais lattice. A Bravais lattice is just a lattice that looks isotropic from any point—everywhere the same no matter the point-perspective.\n\nSimple cubic has 1 lattice point to generate its Bravais lattice.\n\nBody-centered cubic has 2 lattice points to generate its Bravais lattice. (One can keep on tessellating a lattice point on one corner and the lattice point on the body center to generate the whole BCC lattice.)\n\nFace-centered cubic has 4 lattice points to generate its Bravais lattice. (One can keep on tessellating the lattice point on each face surrounding a corner lattice point.)\n\nSo, anyway, from the above, one finds choice (C) for BCC’s unit cell.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-053",
+      "number": 53,
+      "markdown": "53. Which of the following best represents the temperature dependence of the resistivity of an undoped semiconductor?\n\n(A) ![Option A](images/a2b664a35f45785dbe1430f1.jpg)\n\n(B) ![Option B](images/1b0315f2c1fd4962b0328436.jpg)\n\n(C) ![Option C](images/8910fc625f3f5bac27e94e71.jpg)\n\n(D) ![Option D](images/002e63cb943084f3fded4bb6.jpg)\n\n(E) ![Option E](images/bcd6e81cfd389e18e9dfb487.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/a2b664a35f45785dbe1430f1.jpg",
+        "images/1b0315f2c1fd4962b0328436.jpg",
+        "images/8910fc625f3f5bac27e94e71.jpg",
+        "images/002e63cb943084f3fded4bb6.jpg",
+        "images/bcd6e81cfd389e18e9dfb487.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 53\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nFrom Ibach and Luch, one finds that the resistivity of a semiconductor varies as $1/T$.\n\n(Also, from elementary electrodynamics, one recalls the resistivity equation $\\rho(T_2) = \\rho(T_1)(1 + \\alpha \\Delta T)$. Semiconductors have a negative coefficient of resistivity $\\alpha$, and thus the resistivity should decrease with increasing $T$. The only graph that shows this behavior of decreasing resistivity with $T$ is (B).)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-054",
+      "number": 54,
+      "markdown": "54. The figure below shows a plot of the time-dependent force $F_x(t)$ acting on a particle in motion along the $x$-axis. What is the total impulse delivered to the particle?\n\n![Plot of force $F_x$ versus time](images/31a04fcb6345590af6d5877d.jpg)\n\n(A) 0  \n(B) $1\\ \\mathrm{kg\\cdot m/s}$  \n(C) $2\\ \\mathrm{kg\\cdot m/s}$  \n(D) $3\\ \\mathrm{kg\\cdot m/s}$  \n(E) $4\\ \\mathrm{kg\\cdot m/s}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/31a04fcb6345590af6d5877d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 54\n\n## Subject Type\n\nMechanics → Impulse\n\nImpulse is defined as $J = \\int F\\,dt$. But, for this problem, one doesn’t have to evaluate a messy integral. Instead, the area under the curve is just the sum of two triangles. $J = 2 \\cdot \\frac{1}{2}(2)(1) = 2\\,\\mathrm{kg\\cdot m/s}$, as in choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14,
+            15
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-055",
+      "number": 55,
+      "markdown": "55. ![Before and after collision](images/8c04f197ec49a5900e3ef37f.jpg)\n\nA particle of mass $m$ is moving along the $x$-axis with speed $v$ when it collides with a particle of mass $2m$ initially at rest. After the collision, the first particle has come to rest, and the second particle has split into two equal-mass pieces that move at equal angles $\\theta > 0$ with the $x$-axis, as shown in the figure above. Which of the following statements correctly describes the speeds of the two pieces?\n\n(A) Each piece moves with speed $v$.\n\n(B) One of the pieces moves with speed $v$, the other moves with speed less than $v$.\n\n(C) Each piece moves with speed $v/2$.\n\n(D) One of the pieces moves with speed $v/2$, the other moves with speed greater than $v/2$.\n\n(E) Each piece moves with speed greater than $v/2$.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/8c04f197ec49a5900e3ef37f.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 55\n\n## Subject Type\n\n*Mechanics* → *Momentum*\n\nFrom conservation of momentum in the horizontal direction, one has $mv=2mv'\\cos\\theta$. Solving for the final velocity, one has\n\n$$v'=\\frac{v}{2\\cos\\theta}.$$\n\nSince $|\\cos\\theta|<1$ for $\\theta>0$, one finds that $v'>v/2$, as in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            15
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-056",
+      "number": 56,
+      "markdown": "56. A balloon is to be filled with helium and used to suspend a mass of 300 kilograms in air. If the mass of the balloon is neglected, which of the following gives the approximate volume of helium required? (The density of air is 1.29 kilograms per cubic meter and the density of helium is 0.18 kilogram per cubic meter.)\n\n(A) $50\\ \\mathrm{m^3}$\n\n(B) $95\\ \\mathrm{m^3}$\n\n(C) $135\\ \\mathrm{m^3}$\n\n(D) $270\\ \\mathrm{m^3}$\n\n(E) $540\\ \\mathrm{m^3}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 56\n\n## Subject Type\n\n*Mechanics* → *Fluid Statics*\n\nThe physical equation required is the buoyancy equation, or Archimedes’ principle. The buoyant force is given by $F_{\\text{buoyant}}=\\rho_{\\text{fluid}}gV$. Here, $\\rho_{\\text{fluid}}$ refers to the density of the fluid that buoys the object. In this case, $\\rho_{\\text{fluid}}=\\rho_a$ is the density of air, not helium.\n\nThe buoyant force for this problem is $F_b=\\rho_a gV_{\\mathrm{He}}$. This force must balance the load carried by the balloon. Neglecting the weight of helium to simplify the calculation, one has a simple sum of forces:\n\n$$\\sum F=F_b-mg=0\\Rightarrow 300g=\\rho_a gV_{\\mathrm{He}}.$$\n\nSolving for the volume of helium required gives $V_{\\mathrm{He}}=300/\\rho_a$. Since $\\rho_a=1.29\\,\\mathrm{kg/m^3}$, this is about $230\\,\\mathrm{m^3}$. However, since the balloon also has to lift the weight of the helium, the actual volume should be slightly larger. The closest choice is (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            15
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-057",
+      "number": 57,
+      "markdown": "57. ![Water stream striking a wall](images/8518e775604e7518803cee90.jpg)\n\nA stream of water of density $\\rho$, cross-sectional area $A$, and speed $v$ strikes a wall that is perpendicular to the direction of the stream, as shown in the figure above. The water then flows sideways across the wall. The force exerted by the stream on the wall is\n\n(A) $\\rho v^2 A$\n\n(B) $\\rho vA/2$\n\n(C) $\\rho ghA$\n\n(D) $v^2 A/\\rho$\n\n(E) $v^2 A/(2\\rho)$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/8518e775604e7518803cee90.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 57\n\n## Subject Type\n\n*Mechanics* → *Dimensional Analysis*\n\nThe only choice that has the right unit for force is choice (A), since the expression has the units\n\n$$(\\mathrm{kg/m^3})(\\mathrm{m/s})^2(\\mathrm{m^2})=\\mathrm{N}.$$",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            15
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-058",
+      "number": 58,
+      "markdown": "58. A proton moves in the $+z$-direction after being accelerated from rest through a potential difference $V$. The proton then passes through a region with a uniform electric field $E$ in the $+x$-direction and a uniform magnetic field $B$ in the $+y$-direction, but the proton’s trajectory is not affected. If the experiment were repeated using a potential difference of $2V$, the proton would then be\n\n(A) deflected in the $+x$-direction\n\n(B) deflected in the $-x$-direction\n\n(C) deflected in the $+y$-direction\n\n(D) deflected in the $-y$-direction\n\n(E) undeflected",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 58\n\n## Subject Type\n\n*Electromagnetism* → *Trajectory*\n\nThe velocity of the proton as it enters the region is given by its acceleration due to the potential difference $V$. Conservation of energy yields\n\n$$\\frac12 mv^2=qV\\Rightarrow v^2=\\frac{2qV}{m}.$$\n\nIn the first experiment, since the electric and magnetic forces balance and the particle is undeflected, one deduces from the Lorentz force that $qvB=qE$, so $vB=E$.\n\nIn the second experiment, the potential is doubled to $2V$. The velocity is thus greater than it was in the first experiment. Since the magnetic force is proportional to the velocity, the magnetic force is larger. Thus, the particle is deflected in the direction of the magnetic field, which is in the $-x$ direction by the right-hand rule, as in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            15,
+            16
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-059",
+      "number": 59,
+      "markdown": "59. For an inductor and capacitor connected in series, the equation describing the motion of charge is\n\n$$L\\frac{d^2Q}{dt^2}+\\frac{1}{C}Q=0,$$\n\nwhere $L$ is the inductance, $C$ is the capacitance, and $Q$ is the charge. An analogous equation can be written for a simple harmonic oscillator with position $x$, mass $m$, and spring constant $k$. Which of the following correctly lists the mechanical analogs of $L$, $C$, and $Q$?\n\n| | $L$ | $C$ | $Q$ |\n|---|---|---|---|\n| (A) | $m$ | $k$ | $x$ |\n| (B) | $m$ | $1/k$ | $x$ |\n| (C) | $k$ | $x$ | $m$ |\n| (D) | $1/k$ | $1/m$ | $x$ |\n| (E) | $x$ | $1/k$ | $1/m$ |",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 59\n\n## Subject Type\n\n*Electromagnetism* → *LC Circuit*\n\nThe form for a simple harmonic oscillator is $m\\ddot{x}+kx=0$, which one can obtain from Hooke’s law. Comparing this to the LC circuit equation $L\\ddot{Q}+Q/C=0$, one sees that $L\\leftrightarrow m$, $1/C\\leftrightarrow k$, and $Q\\leftrightarrow x$. This is choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            16
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-060",
+      "number": 60,
+      "markdown": "60. ![Charged sheet intersecting a spherical Gaussian surface](images/ac92d97d5bf66de0e4f4a6b3.jpg)\n\nAn infinite, uniformly charged sheet with surface-charge density $\\sigma$ cuts through a spherical Gaussian surface of radius $R$ at a distance $x$ from its center, as shown in the figure above. The electric flux $\\Phi$ through the Gaussian surface is\n\n(A) $\\frac{\\pi R^2\\sigma}{\\epsilon_0}$\n\n(B) $\\frac{2\\pi R^2\\sigma}{\\epsilon_0}$\n\n(C) $\\frac{\\pi(R-x)^2\\sigma}{\\epsilon_0}$\n\n(D) $\\frac{\\pi(R^2-x^2)\\sigma}{\\epsilon_0}$\n\n(E) $\\frac{2\\pi(R^2-x^2)\\sigma}{\\epsilon_0}$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/ac92d97d5bf66de0e4f4a6b3.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 60\n\n## Subject Type\n\n*Electromagnetism* → *Flux*\n\nElectric flux is given by $\\oint\\vec{E}\\cdot d\\vec{A}$. The electric field from the infinite charged sheet is $\\sigma/\\epsilon_0$. The field points directly perpendicular to the sheet, and thus the area normal to the field that it passes through on the Gaussian surface is just $\\pi(R^2-x^2)$. (This geometry is clear if one draws a right triangle with the bottom leg of length $x$, the hypotenuse of length $R$, and the side leg bordering the sheet.)\n\nPlug everything into the flux equation to get choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            16
+          ]
+        },
+        "notes": [
+          "解析称电场来自“infinite conducting plane”，并使用 $E=\\sigma/\\epsilon_0$；对题面所述无限均匀带电薄片，此式对应单侧电场。按原解析保留其物理表述，未改写推导。"
+        ]
+      }
+    },
+    {
+      "id": "gr0177-061",
+      "number": 61,
+      "markdown": "61. An electromagnetic plane wave, propagating in vacuum, has an electric field given by $E = E_0 \\cos(kx - \\omega t)$ and is normally incident on a perfect conductor at $x = 0$, as shown in the figure above. Immediately to the left of the conductor, the total electric field $E$ and the total magnetic field $B$ are given by which of the following?\n\n![Incident wave and conductor at $x=0$](images/532aba36d3d69977b59f3cbf.jpg)\n\n|  | $E$ | $B$ |\n|---|---|---|\n| (A) | $0$ | $0$ |\n| (B) | $2E_0\\cos\\omega t$ | $0$ |\n| (C) | $0$ | $(2E_0/c)\\cos\\omega t$ |\n| (D) | $2E_0\\cos\\omega t$ | $(2E_0/c)\\cos\\omega t$ |\n| (E) | $2E_0\\cos\\omega t$ | $(2E_0/c)\\sin\\omega t$ |",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/532aba36d3d69977b59f3cbf.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 61\n\n**Subject Type**\n\n*Electromagnetism* → Boundary Conditions\n\nFor a conductor, the electric field boundary conditions at the interface are $E_1^{\\perp}-E_2^{\\perp}=\\sigma_f$ ($\\sigma_f$ is the free charge density) and $E_1^{\\parallel}-E_2^{\\parallel}=0$.\n\nThe plane wave traveling in the $x$-direction is polarized (say) in the $+z$-direction. Thus, $\\vec{E}=\\hat{z}E_0\\cos(kx-\\omega t)$.\n\nThere is no component perpendicular to the conductor at the boundary, and thus the first boundary condition implies that the free charge density is 0.\n\nThe second boundary condition requires that $E_1^{\\parallel}=E_2^{\\parallel}$. The parallel component of $E$ is polarized in the $z$-direction, and thus the requirement is $E_0+E_0^r=E_0^t$, i.e., the incident plus the reflected wave is equal to the transmitted wave. However, for a perfect conductor, the transmitted wave is 0. Thus, one has $E_0=-E_0^r$. This implies that the electric field to the left of the conductor cancels.\n\nRecall the Poynting vector, $\\vec{S}\\propto\\vec{E}\\times\\vec{B}$, which conveniently points in the direction of electromagnetic wave propagation. Since the electric field (by the convention used above) is polarized in the $z$-direction, the magnetic field of the incident wave points in the $-y$ direction. However, since the electric field of the reflecting wave points in the $-z$-direction, its magnetic field also points in the $-y$ direction. The magnetic field magnitude is thus $2E_0/c$. Hence, one has choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            16
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-062",
+      "number": 62,
+      "markdown": "62. A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of $\\pi/4$ tesla and is perpendicular to the velocity of the particle. What is the particle’s mass if it has a cyclotron frequency of 1,600 hertz?\n\n(A) $2.5 \\times 10^{-23}\\ \\mathrm{kg}$  \n(B) $1.2 \\times 10^{-22}\\ \\mathrm{kg}$  \n(C) $3.3 \\times 10^{-22}\\ \\mathrm{kg}$  \n(D) $5.0 \\times 10^{-21}\\ \\mathrm{kg}$  \n(E) $7.5 \\times 10^{-21}\\ \\mathrm{kg}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 62\n\n**Subject Type**\n\n*Electromagnetism* → Cyclotron Frequency\n\nThe cyclotron frequency can be easily derived by equating centripetal force with the Lorentz force. It applies to this problem since the magnetic field is perpendicular to the velocity of the particle. $qvB=mv^2/r=mv\\omega\\Rightarrow\\omega=qB/m$, where one recalls that the angular frequency is $\\omega=v/r$.\n\nSolving for $m$ in the cyclotron frequency expression above, one has $m=qB/(2\\pi f)$, where one recalls that the angular frequency is related to the frequency by $\\omega=2\\pi f$.\n\nPlug in the numbers to get choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            16,
+            17
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-063",
+      "number": 63,
+      "markdown": "63. The distribution of relative intensity $I(\\lambda)$ of blackbody radiation from a solid object versus the wavelength $\\lambda$ is shown in the figure above. If the Wien displacement law constant is $2.9 \\times 10^{-3}\\ \\mathrm{m\\cdot K}$, what is the approximate temperature of the object?\n\n![Relative blackbody intensity versus wavelength](images/d636f2410592a4d6a425363a.jpg)\n\n(A) 10 K  \n(B) 50 K  \n(C) 250 K  \n(D) 1,500 K  \n(E) 6,250 K",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/d636f2410592a4d6a425363a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 63\n\n**Subject Type**\n\n*Statistical Mechanics* → Wien Law\n\nRecall Wien’s Law, $\\lambda T=2.9\\times10^{-3}\\,\\mathrm{m\\cdot K}$. It relates the temperature with the wavelength at maximal intensity. The wavelength at the maximal intensity is approximately $2\\,\\mu\\mathrm{m}$. Plugging this in, one finds that $T=(2.9\\times10^{-3}\\,\\mathrm{m\\cdot K})/(2\\times10^{-6}\\,\\mathrm{m})\\approx1500\\,\\mathrm{K}$, as in choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            17
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-064",
+      "number": 64,
+      "markdown": "64. Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements regarding radiation spectra is NOT correct?\n\n(A) Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.  \n(B) The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.  \n(C) Absorption spectra can be used to determine which elements are present in distant stars.  \n(D) Spectral analysis can be used to identify the composition of galactic dust.  \n(E) Band spectra are due to molecules.",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 64\n\n**Subject Type**\n\n*Atomic* → Radiation Spectra\n\nChoice-by-choice analysis gives...\n\n(A) The word nuclear sounds questionable, as lines are often due to just spin splitting.\n\n(B) The wavelengths of absorption spectra are often close to those of emission spectra (or overlapping). This is true.\n\n(C) Absorption spectra are often used in astrophysics to determine the contents of stars. Even though mere mostly harmless Earthlings have never visited the sun, the absorption spectra of the sun help determine its component elements.\n\n(D) Same idea as in the previous choice.\n\n(E) A single atom does not have band spectra. So, yes, band spectra are due to molecules. (To wit: it only has, say, $2s$, $3p$, etc., states, and not states that are split in between—molecules have more degrees of freedom, i.e., they can rotate and vibrate, while atoms can’t.)\n\nThe remaining choice is (A). Take that.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            17
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-065",
+      "number": 65,
+      "markdown": "65. Einstein’s formula for the molar heat capacity $C$ of solids is given above. At high temperatures, $C$ approaches which of the following?\n\n$$\nC = 3kN_A\\left(\\frac{h\\nu}{kT}\\right)^2\\frac{e^{h\\nu/kT}}{\\left(e^{h\\nu/kT}-1\\right)^2}\n$$\n\n(A) $0$  \n(B) $3kN_A\\left(\\frac{h\\nu}{kT}\\right)$  \n(C) $3kN_Ah\\nu$  \n(D) $3kN_A$  \n(E) $N_Ah\\nu$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 65\n\n**Subject Type**\n\n*Statistical Mechanics* → Approximations\n\nAt high temperatures, one has $kT\\gg h\\nu$.\n\nOne expands the argument of the denominator according to $e^x\\approx1+x$ (for small $x$). The denominator becomes $(1+h\\nu/kT-1)=h\\nu/kT$. Since the whole quantity of the denominator is squared, the top $(h\\nu/kT)^2$ term is canceled.\n\nIn the numerator, one has $e^{h\\nu/kT}\\to1$, since $e^{1/\\infty}\\to e^0\\to1$.\n\nThus, one arrives at choice (D).\n\nOne either remembers this fact about solids or derives it, as shown above. (Also, for low temperatures, at around $20\\,\\mathrm{K}$ for most solids, the Debye $T^3$ law applies, and specific heat is proportional to $T^3$. One can’t find this result from the Einstein formula, which is why Debye’s theory is more accurate for solids.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            17,
+            18
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-066",
+      "number": 66,
+      "markdown": "66. A sample of radioactive nuclei of a certain element can decay only by $\\gamma$-emission and $\\beta$-emission. If the half-life for $\\gamma$-emission is 24 minutes and that for $\\beta$-emission is 36 minutes, the half-life for the sample is\n\n(A) 30 minutes  \n(B) 24 minutes  \n(C) 20.8 minutes  \n(D) 14.4 minutes  \n(E) 6 minutes",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 66\n\n**Subject Type**\n\n*Advanced Topics* → Radioactivity\n\nThe problem supplies the details for $\\gamma$-emission and $\\beta$-emission to be:\n\n$$\\frac{d\\gamma}{dt}=-\\frac{\\ln(1/2)}{24}\\gamma$$\n\n$$\\frac{d\\beta}{dt}=-\\frac{\\ln(1/2)}{36}\\beta$$\n\n(Why? Well, one starts with the equation $\\frac{dA}{dt}=-kA\\Rightarrow\\ln(A/A_0)=-kt\\Rightarrow A=A_0e^{-kt}$, where one integrates both sides. Plugging in the condition for half-life, one has $1/2=e^{-kT}\\Rightarrow k=\\ln(1/2)/T$, where $T$ is the half-life decay time.)\n\nThe total decay is given by\n\n$$\\frac{dR}{dt}=\\frac{d\\gamma}{dt}+\\frac{d\\beta}{dt}=-\\frac{\\ln(1/2)}{24}\\gamma-\\frac{\\ln(1/2)}{36}\\beta=-\\frac{\\ln(1/2)}{\\tau}R.$$\n\nThus, $1/24+1/36=1/T$. Solve for $T$ to get choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            18
+          ]
+        },
+        "notes": [
+          "The source’s explanation writes the combined decay rate as $-\\ln(1/2)R/\\tau$ and concludes $1/24+1/36=1/T$. The rate addition is physically consistent, though the notation changes from $\\tau$ to $T$ without explanation."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-067",
+      "number": 67,
+      "markdown": "67. The $^{238}\\mathrm{U}$ nucleus has a binding energy of about 7.6 MeV per nucleon. If the nucleus were to fission into two equal fragments, each would have a kinetic energy of just over 100 MeV. From this, it can be concluded that\n\n(A) $^{238}\\mathrm{U}$ cannot fission spontaneously  \n(B) $^{238}\\mathrm{U}$ has a large neutron excess  \n(C) nuclei near $A = 120$ have masses greater than half that of $^{238}\\mathrm{U}$  \n(D) nuclei near $A = 120$ must be bound by about 6.7 MeV/nucleon  \n(E) nuclei near $A = 120$ must be bound by about 8.5 MeV/nucleon",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 67\n\n## Subject Type\n\nAdvanced Topics → Binding Energy\n\nThe binding energy is basically the energy that keeps a nucleus together; and makes its mass slightly different than its constituent particles. (If its mass were exactly the same as its constituent particles, its binding energy would be 0, and it would be unstable.)\n\nThe initial binding energy is $U_i = 238(7.6\\,\\mathrm{MeV}) \\approx 240(7.6\\,\\mathrm{MeV})$, which is the number of nucleons times the binding energy per nucleon.\n\nThe final binding energy is $U_f = 120X + 120X = 240X$, where the daughter nuclei have half the number of nucleons from the given fact that the original nucleus splits into 2 equal fragments.\n\nThe difference in binding energy is equal to the kinetic energy. $U_i - U_f = 2 \\times -100\\,\\mathrm{MeV} \\Rightarrow 240(7.6\\,\\mathrm{MeV} - X) = -200\\,\\mathrm{MeV}$. Solving, one finds that $X \\approx 8.5$, as in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            18
+          ]
+        },
+        "notes": [
+          "The original derivation’s intermediate equation assigns a negative sign to the total kinetic energy while describing the energy difference; retained its stated result and original reasoning rather than altering the argument."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-068",
+      "number": 68,
+      "markdown": "68. When $^{7}_{4}\\mathrm{Be}$ transforms into $^{7}_{3}\\mathrm{Li}$, it does so by\n\n(A) emitting an alpha particle only  \n(B) emitting an electron only  \n(C) emitting a neutron only  \n(D) emitting a positron only  \n(E) electron capture by the nucleus with emission of a neutrino",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 68\n\n## Subject Type\n\nAdvanced Topics → Decay\n\nSince Lithium has one less electron than Be, one might think this decay is just beta-decay. However, beta-decay always occurs with a neutrino or anti-neutrino, and none of the choices show this.\n\nBeta-decay emits either an electron or positron with an antineutrino or neutrino:\n\n$$\n{}^{A}_{Z}N \\rightarrow {}^{A}_{Z-1}M + \\beta^{+} + \\nu\n$$\n\n$$\n{}^{A}_{Z}N \\rightarrow {}^{A}_{Z+1}M + \\beta^{-} + \\bar{\\nu}\n$$\n\n(The bit on antineutrinos and neutrinos has to do with conservation of Electron Lepton number $L_e$. Namely, electrons and neutrinos have $L_e = 1$, while positrons and antineutrinos have $L_e = -1$.)\n\n(Also, $\\alpha$-decay emits a Helium atom with 4 neutrons and 2 protons, so the numbers won’t work out here.)\n\nThe remaining choice is (E). One can check that it’s right by noting that it is the only choice that conserves the electron-lepton number.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            18
+          ]
+        },
+        "notes": [
+          "The explanation’s statement that alpha decay emits a Helium atom is imprecise; preserved the original wording and particle counts."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-069",
+      "number": 69,
+      "markdown": "69. Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence. Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6, what is the minimum thickness of the oil film (other than zero)?\n\n(A) 150 nm  \n(B) 200 nm  \n(C) 300 nm  \n(D) 400 nm  \n(E) 480 nm",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 69\n\n## Subject Type\n\nOptics → Thin Films\n\nThe incident wavelength changes phase at the air-oil boundary and at the oil-glass boundary. Thus, integer wavelengths produce constructive interference.\n\nThe incident wavelength travels through $2t$. Thus, $2t = \\lambda \\Rightarrow \\lambda \\approx 240\\,\\mathrm{nm}$. The closest thickness is 200 nm, so choose choice (B).\n\nAdditionally, if one wants a better approximation, one can use the equation $v = c/n = \\lambda f \\Rightarrow \\lambda' = \\lambda_0/n$ to determine the wavelength of the beam in oil. Thus, one arrives at the exact answer 200 nm. (Addition due to user E123.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            18,
+            19
+          ]
+        },
+        "notes": [
+          "The solution’s thin-film reasoning is abbreviated and its two passages use different wavelength approximations; retained the source explanation and choice."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-070",
+      "number": 70,
+      "markdown": "70. Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0 millimeter are observed on a distant screen. If the frequency of the laser light is doubled, what will be the separation of the bright fringes?\n\n(A) 0.25 mm  \n(B) 0.5 mm  \n(C) 1.0 mm  \n(D) 2.0 mm  \n(E) 2.5 mm",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 70\n\n## Subject Type\n\nOptics → Interference\n\nThe single-slit interference equation for bright fringes is given by $m\\lambda \\propto d\\sin\\theta \\approx d\\theta$ (for small angles), where $d$ is the width of the slit and $m$ is an integer.\n\nSince $c = \\lambda\\nu$, one can relate the above equation to frequency to get $mc/f \\propto d\\theta$. Increasing frequency would decrease the angle. Thus, the fringes would get closer together. Increasing the frequency by a factor of 2 would decrease the separation by 2, as in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            19
+          ]
+        },
+        "notes": [
+          "The source calls this the single-slit interference equation while describing bright fringes; retained the explanation’s terminology and proportionality."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-071",
+      "number": 71,
+      "markdown": "71. The ultraviolet Lyman alpha line of hydrogen with wavelength 121.5 nanometers is emitted by an astronomical object. An observer on Earth measures the wavelength of the light received from the object to be 607.5 nanometers. The observer can conclude that the object is moving with a radial velocity of\n\n(A) $2.4 \\times 10^{8}$ m/s toward Earth  \n(B) $2.8 \\times 10^{8}$ m/s toward Earth  \n(C) $2.4 \\times 10^{8}$ m/s away from Earth  \n(D) $2.8 \\times 10^{8}$ m/s away from Earth  \n(E) $12 \\times 10^{8}$ m/s away from Earth",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 71\n\n## Subject Type\n\nSpecial Relativity → Doppler Shift\n\n(The Doppler Shift is derived earlier on in the current author’s solutions for GR9677.)\n\nSince the light received has a higher wavelength than the incident wavelength, one concludes that this is a red-shift, that the object is moving away from the Earth.\n\nThe Doppler Effect equation gives $\\lambda = \\sqrt{\\frac{1+\\beta}{1-\\beta}}\\lambda_0$, where $\\lambda_0$ is the wavelength of the source. Thus, $\\lambda/\\lambda_0 = \\sqrt{\\frac{1+\\beta}{1-\\beta}} \\approx 6$. Solving, one gets $\\beta = 35/37 \\Rightarrow v = 35/37c$, which is, by inspection of possible choices, closest to choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            19
+          ]
+        },
+        "notes": [
+          "The source initially says “incident wavelength” and then calls $\\lambda$ the source wavelength; the notation in the displayed relation and following calculation identifies $\\lambda_0$ as the source wavelength."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-072",
+      "number": 72,
+      "markdown": "72. Two identical blocks are connected by a spring. The combination is suspended, at rest, from a string attached to the ceiling, as shown in the figure above.\n\n![Figure: two identical blocks connected by a spring, suspended from the ceiling](images/3a37b74af705573509dc24c9.jpg)\n\nThe string breaks suddenly. Immediately after the string breaks, what is the downward acceleration of the upper block?\n\n(A) $0$  \n(B) $g/2$  \n(C) $g$  \n(D) $\\sqrt{2}\\,g$  \n(E) $2g$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/3a37b74af705573509dc24c9.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 72\n\n## Subject Type\n\nMechanics → Forces\n\nBefore the string is cut, one has the basic static equilibrium condition, for each block $\\sum F = m_u a = 0 = T - m_u g - kx$ and $\\sum F = m_b a = 0 = kx - m_b g$, where $m_u$ refers to the upper block and $m_b$ refers to the bottom block. Adding, one has $(m_u + m_b)a = 0 = T - m_u g - m_b g$.\n\nAfter the string is cut, the tension goes to 0, but one has a non-zero net acceleration. The top mass has $\\sum F = -m_u a = -m_u g - kx$, where the minus sign comes in since the question wants the downward acceleration. The bottom mass has $\\sum F = m_b a = kx - m_b g$. But, immediately after the string is cut, the lower mass has 0 acceleration. Thus, $kx = m_b g$. Plugging this into the equation for the upper mass, one finds that $a = 2g$, as in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            19
+          ]
+        },
+        "notes": [
+          "The source’s equation after adding the static equilibrium conditions includes a factor $m_b g$ without a mass coefficient in the OCR text; restored it to $m_b g$ as required by the preceding equation. The prose refers to the upper and lower blocks; the diagram belongs to this problem, and no diagram image reference was supplied in the Markdown input."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-073",
+      "number": 73,
+      "markdown": "73. ![Figure showing blocks A and B, with horizontal force $F$ applied to block A](images/17baf1459f7faa4e8f0a4e0a.jpg)\n\nFor the system consisting of the two blocks shown in the figure above, the minimum horizontal force $F$ is applied so that block $B$ does not fall under the influence of gravity. The masses of $A$ and $B$ are 16.0 kilograms and 4.00 kilograms, respectively. The horizontal surface is frictionless and the coefficient of friction between the two blocks is 0.50. The magnitude of $F$ is most nearly\n\n(A) 50 N  \n(B) 100 N  \n(C) 200 N  \n(D) 400 N  \n(E) 1,600 N",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/17baf1459f7faa4e8f0a4e0a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 73\n\n**Subject Type**\n\nMechanics → Forces\n\nThe net force of the system is $\\sum F=(m_a+m_b)a$, and thus the net acceleration due to this force is $a=F/(m_a+m_b)$.\n\nThe net force for mass A is just $m_a a=F-F_{ab}$. By Newton’s Third Law, $F_{ab}=N$ is the normal force exerted by A on B.\n\nSolving for the normal force, one finds that $N=F-m_a a=F\\left(1-\\frac{m_a}{m_a+m_b}\\right)=F\\frac{m_b}{m_a+m_b}$.\n\nSumming up the vertical forces on mass B, and using the fact that the frictional force is just $f=\\mu N$, one finds that $\\sum F_y=\\mu N-m_b g=0$ for the applied force to balance its mass completely. Thus, $F=(m_a+m_b)g/\\mu$, which is approximately $400\\,\\mathrm{N}$, as in choice (D) after plugging in the numbers.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            19,
+            20
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-074",
+      "number": 74,
+      "markdown": "74. The Lagrangian for a mechanical system is\n\n$$\nL = a\\dot{q}^{2} + bq^{4},\n$$\n\nwhere $q$ is a generalized coordinate and $a$ and $b$ are constants. The equation of motion for this system is\n\n(A) $\\dot{q} = \\sqrt{\\frac{b}{a}}\\,q^{2}$  \n(B) $\\dot{q} = \\frac{2b}{a}q^{3}$  \n(C) $\\ddot{q} = -\\frac{2b}{a}q^{3}$  \n(D) $\\ddot{q} = +\\frac{2b}{a}q^{3}$  \n(E) $\\ddot{q} = \\frac{b}{a}q^{3}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 74\n\n**Subject Type**\n\nMechanics → Lagrangians\n\nThe Lagrangian equation of motion is given by\n\n$$\\frac{\\partial L}{\\partial q}=\\frac{d}{dt}\\frac{\\partial L}{\\partial \\dot q}$$\n\nfor the generalized coordinate $q$. Chunking out the derivatives, one finds that\n\n$$\\frac{\\partial L}{\\partial q}=4bq^3$$\n\n$$\\frac{d}{dt}\\frac{\\partial L}{\\partial \\dot q}=2a\\ddot q$$\n\nSetting the two equal to each other as in the Lagrangian equations of motion given above (without undetermined multipliers), one finds that $2bq^3=a\\ddot q$, which gives choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            20
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-075",
+      "number": 75,
+      "markdown": "75. The matrix shown above transforms the components of a vector in one coordinate frame $S$ to the components of the same vector in a second coordinate frame $S'$. This matrix represents a rotation of the reference frame $S$ by\n\n$$\n\\begin{pmatrix}\na'_x \\\\\na'_y \\\\\na'_z\n\\end{pmatrix}\n=\n\\begin{bmatrix}\n1/2 & \\sqrt{3}/2 & 0 \\\\\n-\\sqrt{3}/2 & 1/2 & 0 \\\\\n0 & 0 & 1\n\\end{bmatrix}\n\\begin{pmatrix}\na_x \\\\\na_y \\\\\na_z\n\\end{pmatrix}\n$$\n\n(A) $30^\\circ$ clockwise about the $x$-axis  \n(B) $30^\\circ$ counterclockwise about the $z$-axis  \n(C) $45^\\circ$ clockwise about the $z$-axis  \n(D) $60^\\circ$ clockwise about the $y$-axis  \n(E) $60^\\circ$ counterclockwise about the $z$-axis",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 75\n\n**Subject Type**\n\nMechanics → Transformations\n\nRecall the matrix equation for a rotational transformation of a coordinate system,\n\n$$R(\\theta)=\\begin{pmatrix}\\cos\\theta&\\sin\\theta\\\\-\\sin\\theta&\\cos\\theta\\end{pmatrix}$$\n\nEquating coefficients, one has $\\sin\\theta=\\sqrt{3}/2$. Thus, $\\theta=\\pi/3$, which corresponds to a 60-degree counter-clockwise rotation, as in choice (E). (Recall the unit circle.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            20
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-076",
+      "number": 76,
+      "markdown": "76. The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than $kT$ because\n\n(A) electrons have many more degrees of freedom than atoms do  \n(B) the electrons and the lattice are not in thermal equilibrium  \n(C) the electrons form a degenerate Fermi gas  \n(D) electrons in metals are highly relativistic  \n(E) electrons interact strongly with phonons",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 76\n\n**Subject Type**\n\nAdvanced Topics → Solid State Physics\n\nElimination time:\n\n(A) Electrons have fewer degrees of freedom than free atoms, since electrons are bound to potential wells.\n\n(B) Why not?\n\n(C) The electrons do indeed form a degenerate Fermi gas, since the ratio of the fraction of electrons in the ground state is given by $N_0/N=1-(T/T_F)^{3/2}$, where $T_F\\approx30{,}000\\,\\mathrm{K}$ for most metals.\n\n(D) The electrons in metal travel at a drift velocity of about $10^{-6}\\,\\mathrm{m/s}$. Not quite fast enough to be relativistic.\n\n(E) Electron interaction with phonons has nothing to do with their mean kinetic energy.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            20,
+            21
+          ]
+        },
+        "notes": [
+          "The original solution’s wording “the ratio of the fraction of electrons in the ground-state” is unclear; it is retained in a minimally repaired form without changing the stated formula or claim."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-077",
+      "number": 77,
+      "markdown": "77. An ensemble of systems is in thermal equilibrium with a reservoir for which $kT = 0.025\\,\\text{eV}$. State $A$ has an energy that is 0.1 eV above that of state $B$. If it is assumed the systems obey Maxwell-Boltzmann statistics and that the degeneracies of the two states are the same, then the ratio of the number of systems in state $A$ to the number in state $B$ is\n\n(A) $e^{+4}$  \n(B) $e^{+0.25}$  \n(C) $1$  \n(D) $e^{-0.25}$  \n(E) $e^{-4}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 77\n\n**Subject Type**\n\nStatistical Mechanics → Maxwell-Boltzmann Distributions\n\nThe Maxwell-Boltzmann distribution is $N\\propto g e^{-\\epsilon/(kT)}$, where $g$ is the degeneracy.\n\nGiven $\\epsilon_a=0.1+\\epsilon_b$, one finds the ratio of distributions (thus ratio of numbers) to be\n\n$$\\frac{e^{-(0.1+\\epsilon_b)/kT}}{e^{-\\epsilon_b/kT}}=e^{-0.1/kT}.$$\n\nThe problem gives $kT=0.025\\,\\mathrm{eV}$, and thus the above ratio becomes $e^{-0.1/0.025}=e^{-4}$, as in choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            21
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-078",
+      "number": 78,
+      "markdown": "78. The muon decays with a characteristic lifetime of about $10^{-6}$ second into an electron, a muon neutrino, and an electron antineutrino. The muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of\n\n(A) charge  \n(B) mass  \n(C) energy and momentum  \n(D) baryon number  \n(E) lepton number",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 78\n\n**Subject Type**\n\nAdvanced Topics → Particle Physics\n\nA few lines from the Particle Physics chapter of my upcoming book (title tentative, to be publicized on this website eventually), *Reviewing Forgotten Physics for the GRE, Prelim’s and Qualifier’s*:\n\nBaryons and mesons are hadrons. (Hadrons are particles that interact with the strong nuclear force.) Baryons have a baryon number of $B=\\pm1$, while mesons have $B=0$. Nucleons (which are baryons) have $B=1$, while antinucleons (antineutrons and antiprotons) have $B=-1$.\n\nLeptons (electrons, neutrinos, muons, and tau’s) interact with the weak nuclear force. There are three kinds of lepton numbers. There is the electron lepton number $L_e$ and there is a muon lepton number, as well as a neutrino lepton number.\n\nElectrons $\\beta^-$ and the electron neutrino $\\nu_e$ have $L_e=1$, while positrons (antielectrons) $\\beta^+$ and the electron antineutrino $\\bar\\nu_e$ have $L_e=-1$. All other particles have $L_e=0$.\n\nConservation of baryon number or lepton number is just summing up either the baryon number or the lepton number on both sides of the reaction.\n\nConservation of the numbers above explains why a reaction like $\\mu\\to\\beta^-+\\nu_\\mu+\\bar\\nu_e$ must occur in lieu of $\\mu\\to\\beta^-+\\bar\\nu_e$, $\\mu\\to\\beta^-+\\nu_e$, $\\mu\\to\\beta^-+\\bar\\nu_\\mu$, or $\\mu\\to\\beta^-+\\nu_\\mu$.\n\nFor the first reaction, the electron lepton numbers are $0\\to1+0-1$, and thus $L_e$ is conserved. (Muon lepton numbers are $1\\to0+1+0$.)\n\nFor the second reaction, the muon lepton numbers are $1\\to0+0$, but that does not add up, and so $L_\\mu$ is not conserved.\n\nFor the third reaction, the electron lepton numbers are $0\\to1+1$, but that does not add up, and so $L_e$ is not conserved.\n\nAs an exercise, one can calculate the fourth and fifth reaction.\n\n(If you’re beginning to feel like this is more alchemy than physics, then note that the Standard Model of particle physics is just a transitory theory, like alchemy was to chemistry. It is to be replaced soon with a less ad-hoc theory, perhaps by you.)\n\nWith respect to this question on the GRE exam, one sees that lepton number would not be conserved for any of the possible cases of the latter reactions.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            21
+          ]
+        },
+        "notes": [
+          "The prose says there are three kinds of lepton numbers but then names electron and muon lepton numbers plus a “neutrino lepton number”; modern flavor lepton numbers are conventionally electron, muon, and tau. Preserved as written because this is the source author’s explanation, not the question stem."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-079",
+      "number": 79,
+      "markdown": "79. A particle leaving a cyclotron has a total relativistic energy of $10\\,\\mathrm{GeV}$ and a relativistic momentum of $8\\,\\mathrm{GeV}/c$. What is the rest mass of this particle?\n\n(A) $0.25\\,\\mathrm{GeV}/c^2$\n\n(B) $1.20\\,\\mathrm{GeV}/c^2$\n\n(C) $2.00\\,\\mathrm{GeV}/c^2$\n\n(D) $6.00\\,\\mathrm{GeV}/c^2$\n\n(E) $16.0\\,\\mathrm{GeV}/c^2$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 79\n\n## Subject Type\n\nSpecial Relativity → Rest Mass\n\nThe total relativistic energy is $10\\,\\mathrm{GeV} = \\gamma mc^2 = \\sqrt{p^2c^2 + m^2c^4}$. The total relativistic momentum is $p = 8\\,\\mathrm{GeV}/c = \\gamma mv$.\n\nPlugging the momentum into the first equation, one has $(8^2 + m^2c^2)c^2 = 10^2 \\Rightarrow m^2c^4 = 100 - 64 = 36 \\Rightarrow m = 6\\,\\mathrm{GeV}/c^2$, as in choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            21,
+            22
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-080",
+      "number": 80,
+      "markdown": "80. A tube of water is traveling at $1/2\\,c$ relative to the lab frame when a beam of light traveling in the same direction as the tube enters it. What is the speed of light in the water relative to the lab frame? (The index of refraction of water is $4/3$.)\n\n(A) $1/2\\,c$\n\n(B) $2/3\\,c$\n\n(C) $5/6\\,c$\n\n(D) $10/11\\,c$\n\n(E) $c$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 80\n\n## Subject Type\n\nSpecial Relativity → Addition of Velocities\n\nIf one forgets the addition of velocity formula, one can quickly derive it from the Lorentz transformation (which one really ought to remember),\n\n$$\nx = \\gamma (x' + vt')\n$$\n\n$$\nt = \\gamma (t' + vx'/c^2)\n$$\n\nwhere the unprimed system is the rest frame.\n\nOne finds that $u_x = dx/dt = \\frac{d}{dt}\\gamma(x' + vt') = \\gamma\\frac{d}{dt'}(x' + vt')\\frac{dt'}{dt} = \\gamma(u_x' + v)$.\n\nFrom the time transformation, one gets $\\frac{dt}{dt'} = \\gamma(1 + vu_x'/c^2)$, where $u_x'$ is the velocity of the particle moving in the primed coordinate system. Plugging the inverse of that into the velocity in the unprimed system, one gets\n\n$$\nu_x = \\frac{u_x' + v}{1 + vu_x'/c^2}.\n$$\n\nThe problem supplies the following values: $v = c/2$, $u_x' = c/n = 3c/4$ (since $n = 4/3$). Plugging them into the $u_x$ equation, one finds that $u_x = \\frac{3c/4 + c/2}{1 + 3/8} = 10c/11$, as in choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            22
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-081",
+      "number": 81,
+      "markdown": "81. Which of the following is the orbital angular momentum eigenfunction $Y_\\ell^m(\\theta,\\phi)$ in a state for which the operators $\\mathbf{L}^2$ and $L_z$ have eigenvalues $6\\hbar^2$ and $-\\hbar$, respectively?\n\n(A) $Y_2^1(\\theta,\\phi)$\n\n(B) $Y_2^{-1}(\\theta,\\phi)$\n\n(C) $\\frac{1}{\\sqrt{2}}\\left[Y_2^1(\\theta,\\phi)+Y_2^{-1}(\\theta,\\phi)\\right]$\n\n(D) $Y_3^2(\\theta,\\phi)$\n\n(E) $Y_3^{-1}(\\theta,\\phi)$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 81\n\n## Subject Type\n\nQuantum Mechanics → Angular Momentum\n\nRecall the angular momentum eigen-equations, $L^2\\psi = \\hbar^2 l(l+1)\\psi$ and $L_z\\psi = m\\hbar\\psi$.\n\nThe problem wants $L^2\\psi = 6\\hbar^2\\psi$ and $L_z\\psi = -\\hbar\\psi$. Matching coefficients with the above equations, one finds that\n\n$l(l+1) = 6$ and $m = -1$. Solving, one finds that $l = 2, -3$. Any one of the spherical harmonics with $Y_2^{-1}$ or $Y_{-3}^{-1}$ would work. So, since the second spherical harmonic isn’t listed, take choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            22
+          ]
+        },
+        "notes": [
+          "The explanation treats the algebraic root $l=-3$ as a possible spherical-harmonic index. Standard orbital angular momentum requires $l\\ge 0$; this does not affect the stated choice (B)."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-082",
+      "number": 82,
+      "markdown": "82. Let $|\\alpha\\rangle$ represent the state of an electron with spin up and $|\\beta\\rangle$ the state of an electron with spin down. Valid spin eigenfunctions for a triplet state ($^3S$) of a two-electron atom include which of the following?\n\nI. $|\\alpha\\rangle_1|\\alpha\\rangle_2$\n\nII. $\\frac{1}{\\sqrt{2}}\\left(|\\alpha\\rangle_1|\\beta\\rangle_2-|\\alpha\\rangle_2|\\beta\\rangle_1\\right)$\n\nIII. $\\frac{1}{\\sqrt{2}}\\left(|\\alpha\\rangle_1|\\beta\\rangle_2+|\\alpha\\rangle_2|\\beta\\rangle_1\\right)$\n\n(A) I only\n\n(B) II only\n\n(C) III only\n\n(D) I and III\n\n(E) II and III",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 82\n\n## Subject Type\n\nQuantum Mechanics → Addition of Angular Momentum\n\nFor 2 electrons, one recalls that there are three spin triplet states and one spin singlet state (hence their names). One can apply the lowering operator multiple times to the up-up state to arrive at, respectively, the up-down state, the down-up state, and then the down-down state (the spin-singlet state).\n\nApplying the lowering operator to choice I, one gets choice III. Applying the lowering operator to that, one gets down-down. These are the 3 spin-triplet states.\n\nBy orthogonality, the down-down state has a negative sign. So, only choices I and III are in the triplet configuration.\n\n(David J. Griffiths vanity alert—the QM problems thus far are all straight out of his textbook, An Introduction to Quantum Mechanics.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            22
+          ]
+        },
+        "notes": [
+          "The explanation’s parenthetical description of the down-down state as a spin-singlet state is inaccurate: down-down is a triplet state. The surrounding discussion identifies it as one of the triplet states."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-083",
+      "number": 83,
+      "markdown": "83. The state of a spin-$\\frac{1}{2}$ particle can be represented using the eigenstates $|\\uparrow\\rangle$ and $|\\downarrow\\rangle$ of the $S_z$ operator.\n\n$$S_z|\\uparrow\\rangle=\\frac{1}{2}\\hbar|\\uparrow\\rangle$$\n\n$$S_z|\\downarrow\\rangle=-\\frac{1}{2}\\hbar|\\downarrow\\rangle$$\n\nGiven the Pauli matrix\n\n$$\\sigma_x=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix},$$\n\nwhich of the following is an eigenstate of $S_x$ with eigenvalue $-\\frac{1}{2}\\hbar$?\n\n(A) $|\\downarrow\\rangle$\n\n(B) $\\frac{1}{\\sqrt{2}}\\left(|\\uparrow\\rangle+|\\downarrow\\rangle\\right)$\n\n(C) $\\frac{1}{\\sqrt{2}}\\left(|\\uparrow\\rangle-|\\downarrow\\rangle\\right)$\n\n(D) $\\frac{1}{\\sqrt{2}}\\left(|\\uparrow\\rangle+i|\\downarrow\\rangle\\right)$\n\n(E) $\\frac{1}{\\sqrt{2}}\\left(|\\uparrow\\rangle-i|\\downarrow\\rangle\\right)$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 83\n\n## Subject Type\n\nQuantum Mechanics → Basis\n\nOne can chunk out the 2-by-2 matrices by choosing a basis for $z$. Choose the easiest, $|\\uparrow\\rangle = (1,0)$ and $|\\downarrow\\rangle = (0,1)$.\n\nOne can tell by inspection that choice (A) can’t be it, nor can choices (D) and (E) (since there aren’t any imaginary numbers involved for $x$).\n\nRecall that $S_i = \\hbar\\sigma_i/2$.\n\nPlug in the deductions above into choice (B) to get $\\psi_b = (|\\uparrow\\rangle + |\\downarrow\\rangle)/\\sqrt{2} = (1,1)/\\sqrt{2}$. Multiply that with the Pauli matrix to get $S_x\\psi_b = (\\hbar/2)\\psi_b$.\n\nPlug in the deductions above into choice (C) to get $\\psi_c = (|\\uparrow\\rangle - |\\downarrow\\rangle)/\\sqrt{2} = (1,-1)/\\sqrt{2}$. Multiply that with the Pauli matrix to get $S_x\\psi_c = -(\\hbar/2)\\psi_b$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            22,
+            23
+          ]
+        },
+        "notes": [
+          "The final displayed relation says $S_x\\psi_c = -(\\hbar/2)\\psi_b$; the eigenvector relation should use $\\psi_c$. This appears to be a typo in the source explanation and is retained without changing the stated result."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-084",
+      "number": 84,
+      "markdown": "84. ![Energy-level diagram for hydrogen transitions A, B, and C](images/7d03233dfd71f52072427f2f.jpg)\n\nAn energy-level diagram of the $n=1$ and $n=2$ levels of atomic hydrogen (including the effects of spin-orbit coupling and relativity) is shown in the figure above. Three transitions are labeled $A$, $B$, and $C$. Which of the transitions will be possible electric-dipole transitions?\n\n(A) $B$ only\n\n(B) $C$ only\n\n(C) $A$ and $C$ only\n\n(D) $B$ and $C$ only\n\n(E) $A$, $B$, and $C$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/7d03233dfd71f52072427f2f.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 84\n\n## Subject Type\n\nQuantum Mechanics → Selection Rules\n\nThe selection rules are $\\Delta l = \\pm 1$ and $\\Delta m = 0, \\pm 1$.\n\nThe transitions have the following quantum numbers:\n\nA: $\\Delta l = 0$ and $\\Delta j = 0$\n\nB: $\\Delta l = -1$ and $\\Delta j = -1$\n\nC: $\\Delta l = -1$ and $\\Delta j = 0$\n\nBy the selection rules above, transition A is forbidden in $\\Delta l$. Transitions B and C both work out, since they do not violate the $\\Delta l$ rule.\n\nTake choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            23
+          ]
+        },
+        "notes": [
+          "The explanation checks only the $\\Delta l$ rule for transitions B and C; other electric-dipole selection rules may also need to be considered. The stated conclusion is retained."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-085",
+      "number": 85,
+      "markdown": "85. One end of a Nichrome wire of length $2L$ and cross-sectional area $A$ is attached to an end of another Nichrome wire of length $L$ and cross-sectional area $2A$. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to\n\n(A) 2.4 V  \n(B) 3.3 V  \n(C) 4.5 V  \n(D) 5.7 V  \n(E) 6.6 V",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          54
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 85\n\n## Subject Type\n\n*Electromagnetism* → *Resistivity*\n\nThis is a baby circuits problem once one calculates the net resistance.\n\nRecall that resistance is related to length and area by $R = \\rho l/A$.\n\nThus, the resistance of the thin and long wire is $R_{tl} = 2\\rho L/A$, while the resistance of the fat and short wire is $R_{fs} = \\rho L/(2A)$.\n\nThe resistors are in series, and so the equivalent resistance is $R_{eq} = (\\rho L/A)(2 + 1/2) = 5\\rho L/(2A)$.\n\nPlug that into Ohm’s Law to find the current: $\\Delta V = I R_{tot} = 8 - 1 = 7$. Thus, $I = 14A/(5\\rho L)$.\n\nTo find the potential at the junction, use Ohm’s Law again to get $V_{junction} = 1 + I R_{fs}$. Working through the algebra, one gets 2.4 V, as in choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            23
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-086",
+      "number": 86,
+      "markdown": "86. A coil of 15 turns, each of radius 1 centimeter, is rotating at a constant angular velocity $\\omega = 300$ radians per second in a uniform magnetic field of 0.5 tesla, as shown in the figure above. Assume at time $t = 0$ that the normal $\\hat{n}$ to the coil plane is along the $y$-direction and that the self-inductance of the coil can be neglected. If the coil resistance is 9 ohms, what will be the magnitude of the induced current in milliamperes?\n\n![Coil rotating in a magnetic field](images/f183fb3a2193e01deb820793.jpg)\n\n(A) $225\\pi \\sin \\omega t$  \n(B) $250\\pi \\sin \\omega t$  \n(C) $0.08\\pi \\cos \\omega t$  \n(D) $1.7\\pi \\cos \\omega t$  \n(E) $25\\pi \\cos \\omega t$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/f183fb3a2193e01deb820793.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          54
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 86\n\n## Subject Type\n\n*Electromagnetism* → *Faraday Law*\n\nThe voltage induced is equal to the change in magnetic flux, $\\epsilon = -\\frac{d\\Phi}{dt}$, where $\\Phi = \\int \\vec{B}\\cdot d\\vec{A}$.\n\nNoting the initial condition $\\Phi(t=0)=0$, since the field and area normal are perpendicular, one finds that $\\vec{B}\\cdot d\\vec{A} = B\\sin(\\omega t)\\,\\pi r^2$. Thus, $d\\Phi/dt = \\omega B\\cos(\\omega t)\\,\\pi r^2$.\n\nNow, to find the current, one uses Ohm’s Law in Faraday’s Law to get $IR/N = \\dot{\\Phi}$, where $N$ is the number of turns. Thus, $I = N\\dot{\\Phi}/R = NB\\omega\\pi r^2\\cos(\\omega t)/R = (15/9)(0.5)(300)\\pi(1/100)^2\\cos(\\omega t) = 250\\times10^{-4}\\cos(\\omega t)$. This is choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            23
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-087",
+      "number": 87,
+      "markdown": "87. Two spherical, nonconducting, and very thin shells of uniformly distributed positive charge $Q$ and radius $d$ are located a distance $10d$ from each other. A positive point charge $q$ is placed inside one of the shells at a distance $d/2$ from the center, on the line connecting the centers of the two shells, as shown in the figure above. What is the net force on the charge $q$?\n\n![Two charged spherical shells, with the point charge inside the left shell](images/6068ec0921b8d5617f9b0ea9.jpg)\n\n![Second charged spherical shell](images/2f5ddfdd159f5b1305d2fedd.jpg)\n\n(A) $\\frac{qQ}{361\\pi\\epsilon_0 d^2}$ to the left  \n(B) $\\frac{qQ}{361\\pi\\epsilon_0 d^2}$ to the right  \n(C) $\\frac{qQ}{441\\pi\\epsilon_0 d^2}$ to the left  \n(D) $\\frac{qQ}{441\\pi\\epsilon_0 d^2}$ to the right  \n(E) $\\frac{360qQ}{361\\pi\\epsilon_0 d^2}$ to the left",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/6068ec0921b8d5617f9b0ea9.jpg",
+        "images/2f5ddfdd159f5b1305d2fedd.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 87\n\n## Subject Type\n\n*Electromagnetism* → *Potential*\n\nSince the potential is constant inside the sphere, one has the field inside to be 0—even though it is not a conductor.\n\nThus, the force contribution comes from the other sphere. By Gauss’ Law, the other sphere acts just like a point charge, and thus its field contribution is $E = \\frac{Q}{4\\pi\\epsilon_0(10d-d/2)^2} = \\frac{4Q}{4\\pi\\epsilon_0 361d^2}$.\n\nThe force on the test charge is thus $F=qE=\\frac{qQ}{\\pi\\epsilon_0 361d^2}$, which is just choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            23,
+            24
+          ]
+        },
+        "notes": [
+          "The derivation assumes each thin shell has uniformly distributed charge, as stated in the original question. The solution’s wording “the potential is constant inside the sphere” is imprecise for a nonconducting shell, but its conclusion that the shell’s own field is zero inside follows from spherical symmetry and Gauss’ law."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-088",
+      "number": 88,
+      "markdown": "88. A segment of wire is bent into an arc of radius $R$ and subtended angle $\\theta$, as shown in the figure above. Point $P$ is at the center of the circular segment. The wire carries current $I$. What is the magnitude of the magnetic field at $P$?\n\n![Current-carrying wire bent into an arc](images/d616d4a82d174a4ba8e2d9e8.jpg)\n\n(A) $0$  \n(B) $\\frac{\\mu_0 I\\theta}{(2\\pi)^2 R}$  \n(C) $\\frac{\\mu_0 I\\theta}{4\\pi R}$  \n(D) $\\frac{\\mu_0 I\\theta}{4\\pi R^2}$  \n(E) $\\frac{\\mu_0 I}{2\\theta R^2}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/d616d4a82d174a4ba8e2d9e8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          58
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 88\n\n## Subject Type\n\n*Magnetism* → *Biot-Savart Law*\n\nThe Biot-Savart law is $d\\vec{B} = \\frac{\\mu_0 I}{4\\pi}\\frac{d\\vec{l}\\times\\hat{r}}{r^2}$.\n\nOne notes that the non-bent wires have $d\\vec{l}\\parallel\\vec{r}$, and thus their cross-products go to 0.\n\nThe only contribution to the field is from the curved segment. Its field is $B = \\frac{\\mu_0 I}{4\\pi}\\frac{\\theta R}{R^2}$, where $dl=\\theta R$ is just the arc length. Simplifying, one gets choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            24
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-089",
+      "number": 89,
+      "markdown": "89. A child is standing on the edge of a merry-go-round that has the shape of a solid disk, as shown in the figure above. The mass of the child is 40 kilograms. The merry-go-round has a mass of 200 kilograms and a radius of 2.5 meters, and it is rotating with an angular velocity of $\\omega = 2.0$ radians per second. The child then walks slowly toward the center of the merry-go-round. What will be the final angular velocity of the merry-go-round when the child reaches the center? (The size of the child can be neglected.)\n\n![Child standing on a rotating merry-go-round](images/0079df0512508c905d7aff00.jpg)\n\n(A) 2.0 rad/s  \n(B) 2.2 rad/s  \n(C) 2.4 rad/s  \n(D) 2.6 rad/s  \n(E) 2.8 rad/s",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/0079df0512508c905d7aff00.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          58
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 89\n\n## Subject Type\n\n*Mechanics* → *Conservation of Angular Momentum*\n\nThe initial angular momentum is $L_0 = (MR^2/2 + mR^2)\\omega = (M/2 + m)R^2\\omega$.\n\nThe final angular momentum is $L_f = (MR^2/2)\\omega'$, since the radius of gyration of the young padawan is now 0.\n\nConservation of angular momentum requires that $L_0=L_f$, so $\\omega' = (M/2+m)/(M/2)\\,\\omega = 2.8\\,\\mathrm{rad/s}$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            24
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-090",
+      "number": 90,
+      "markdown": "90. Two identical springs with spring constant $k$ are connected to an identical mass of mass $M$, as shown in the figures above. The ratio of the period for the springs connected in parallel (Figure 1) to the period for the springs connected in series (Figure 2) is\n\n![Two springs connected in parallel](images/2cf52367da987e8c6b4c1a6c.jpg)\n\n![Two springs connected in series](images/e52306e9b1707bd6bcd7c763.jpg)\n\n(A) $\\frac{1}{2}$  \n(B) $\\frac{1}{\\sqrt{2}}$  \n(C) $1$  \n(D) $\\sqrt{2}$  \n(E) $2$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/2cf52367da987e8c6b4c1a6c.jpg",
+        "images/e52306e9b1707bd6bcd7c763.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          60
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 90\n\n## Subject Type\n\n*Mechanics* → *Normal Modes*\n\nNote that $\\omega = \\sqrt{\\frac{k_{eff}}{m_{eff}}}$.\n\nFor figure 1, the potential energy is $U = 2\\times\\frac12kx^2=kx^2$. The kinetic energy is just $T=\\frac12m\\dot{x}^2$. Thus, $k_{eff}=2k$ and $m_{eff}=m$. Thus, $\\omega_1=\\sqrt{2k/m}$.\n\nFor figure 2, the potential energy is $U=2\\times\\frac12k(x/2)^2$, since each spring travels only half as far. The kinetic energy is the same as in figure 1. Thus, $k_{eff}=k/2$ and $m_{eff}=m$. So, one has $\\omega_2=\\sqrt{k/(2m)}$.\n\nSince $\\omega=2\\pi f=2\\pi/T$, the period ratio $T_1/T_2=\\omega_2/\\omega_1=\\sqrt{(1/2)/2}=1/2$, as in choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            24
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-091",
+      "number": 91,
+      "markdown": "91. The cylinder shown above, with mass $M$ and radius $R$, has a radially dependent density. The cylinder starts from rest and rolls without slipping down an inclined plane of height $H$. At the bottom of the plane its translational speed is $(8gH/7)^{1/2}$. Which of the following is the rotational inertia of the cylinder?\n\n![Cylinder rolling down an inclined plane](images/7008fabbf2d15ebd5533d702.jpg)\n\n(A) $\\frac{1}{2}MR^2$\n\n(B) $\\frac{3}{4}MR^2$\n\n(C) $\\frac{7}{8}MR^2$\n\n(D) $MR^2$\n\n(E) $\\frac{7}{4}MR^2$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/7008fabbf2d15ebd5533d702.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          62
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 91\n\n## Subject Type\n\n*Mechanics* → Conservation of Energy\n\nConservation of energy gives\n\n$$MgH=\\frac{1}{2}Mv^2+\\frac{1}{2}I\\omega^2.$$\n\nSince $v=R\\omega$, this becomes\n\n$$MgH=\\frac{1}{2}Mv^2+\\frac{1}{2}I(v/R)^2.$$\n\nThus,\n\n$$I=\\frac{2(MgH-Mv^2/2)R^2}{v^2}.$$\n\n(Note that the height of the center of mass is the same at both the end and the start, so the extra bit of the potential energy $MgR$ cancels out. Thanks to the user keflavich for this correction.)\n\nGiven $v^2=8gH/7$, substituting into the equation above gives\n\n$$I=\\frac{2(MgH-4MgH/7)R^2}{8gH/7}=\\frac{2(3MgH/7)R^2}{8gH/7}=\\frac{3}{4}MR^2,$$\n\nas in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            24,
+            25
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-092",
+      "number": 92,
+      "markdown": "92. Two small equal masses $m$ are connected by an ideal massless spring that has equilibrium length $\\ell_0$ and force constant $k$, as shown in the figure above. The system is free to move without friction in the plane of the page. If $p_1$ and $p_2$ represent the magnitudes of the momenta of the two masses, a Hamiltonian for this system is\n\n![Two masses connected by a spring](images/9001b926b3da9ffb211772cd.jpg)\n\n(A) $\\frac{1}{2}\\left\\{\\frac{p_1^2}{m}+\\frac{p_2^2}{m}-2k(\\ell-\\ell_0)\\right\\}$\n\n(B) $\\frac{1}{2}\\left\\{\\frac{p_1^2}{m}+\\frac{p_2^2}{m}+2k(\\ell-\\ell_0)^2\\right\\}$\n\n(C) $\\frac{1}{2}\\left\\{\\frac{p_1^2}{m}+\\frac{p_2^2}{m}-k(\\ell-\\ell_0)\\right\\}$\n\n(D) $\\frac{1}{2}\\left\\{\\frac{p_1^2}{m}+\\frac{p_2^2}{m}-k(\\ell-\\ell_0)^2\\right\\}$\n\n(E) $\\frac{1}{2}\\left\\{\\frac{p_1^2}{m}+\\frac{p_2^2}{m}+k(\\ell-\\ell_0)^2\\right\\}$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/9001b926b3da9ffb211772cd.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          62
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 92\n\n## Subject Type\n\n*Mechanics* → Hamiltonian\n\nThe Hamiltonian is the sum of the kinetic and potential energies, $H=T+V$. The kinetic energy due to each mass is $T_i=p_i^2/(2m)$. The potential energy is $U=\\frac{1}{2}k(\\Delta l)^2$, where $\\Delta l=l-l_0$. Factoring out $1/2$, one arrives at choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            25
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-093",
+      "number": 93,
+      "markdown": "93. The solution to the Schrödinger equation for the ground state of hydrogen is\n\n$$\n\\psi_0=\\frac{1}{\\sqrt{\\pi a_0^3}}e^{-r/a_0},\n$$\n\nwhere $a_0$ is the Bohr radius and $r$ is the distance from the origin. Which of the following is the most probable value for $r$?\n\n(A) $0$\n\n(B) $a_0/2$\n\n(C) $a_0$\n\n(D) $2a_0$\n\n(E) $\\infty$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 93\n\n## Subject Type\n\n*Quantum Mechanics* → Most probable value\n\nRecall the definition of probability, $dP=|\\psi|^2dV=|\\psi|^2 4\\pi r^2dr$. The radial probability distribution $P_r$ is related to the probability by $P=\\int P_r\\,dr$. The most probable value is given by the maximum of the probability. Taking the derivative with respect to $r$, the condition for a maximum is\n\n$$\\frac{dP_r}{dr}=4\\pi r^2\\frac{d|\\psi|^2}{dr}+8\\pi r|\\psi|^2=0.$$\n\nThe problem gives\n\n$$\\psi=\\frac{1}{\\sqrt{\\pi a_0^3}}e^{-r/a_0}.$$\n\nThus,\n\n$$|\\psi|^2=\\frac{1}{\\pi a_0^3}e^{-2r/a_0},\\qquad \\frac{d|\\psi|^2}{dr}=-\\frac{2}{\\pi a_0^4}e^{-2r/a_0}.$$\n\nSubstituting into the expression for $dP_r/dr$ and solving for $r$ shows that the most probable distance is the Bohr radius, as in choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            25
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-094",
+      "number": 94,
+      "markdown": "94. The raising and lowering operators for the quantum harmonic oscillator satisfy\n\n$$\na^{\\dagger}|n\\rangle=\\sqrt{n+1}|n+1\\rangle,\\qquad a|n\\rangle=\\sqrt{n}|n-1\\rangle\n$$\n\nfor energy eigenstates $|n\\rangle$ with energy $E_n$. Which of the following gives the first-order shift in the $n=2$ energy level due to the perturbation\n\n$$\n\\Delta H=V(a+a^{\\dagger})^2,\n$$\n\nwhere $V$ is a constant?\n\n(A) $0$\n\n(B) $V$\n\n(C) $\\sqrt{2}V$\n\n(D) $2\\sqrt{2}V$\n\n(E) $5V$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 94\n\n## Subject Type\n\n*Quantum Mechanics* → Perturbation Theory\n\nThe first-order energy shift for $H=H_0+\\Delta H$, where $H_0$ is the known Hamiltonian and $\\Delta H$ is the perturbation, is given by $E_1=\\langle\\psi_0|\\Delta H|\\psi_0\\rangle$, where the wave functions are unperturbed.\n\nThus, the problem amounts to calculating\n\n$$E_1=\\langle n|V(a+a^\\dagger)^2|n\\rangle.$$\n\nThis is just raising and lowering operator mechanics:\n\n$$(a+a^\\dagger)^2=a^2+(a^\\dagger)^2+aa^\\dagger+a^\\dagger a.$$\n\nAfter taking the expectation value, the terms involving $a^2$ and $(a^\\dagger)^2$ vanish, since the states with quantum numbers $n$ and $n\\pm2$ are orthogonal. Thus,\n\n$$E_1=V\\langle n|(aa^\\dagger+a^\\dagger a)|n\\rangle=(2n+1)V.$$\n\nFor $n=2$, one finds $E_1=5V$, as in choice (E).\n\n(Note that $a^\\dagger a|n\\rangle=a^\\dagger\\sqrt{n}|n-1\\rangle=n|n\\rangle$, $aa^\\dagger|n\\rangle=a\\sqrt{n+1}|n+1\\rangle=(n+1)|n\\rangle$, and $a^2|n\\rangle=a\\sqrt{n}|n-1\\rangle=\\sqrt{n}\\sqrt{n-1}|n-2\\rangle$.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            25
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-095",
+      "number": 95,
+      "markdown": "95. An infinite slab of insulating material with dielectric constant $K$ and permittivity $\\epsilon=K\\epsilon_0$ is placed in a uniform electric field of magnitude $E_0$. The field is perpendicular to the surface of the material, as shown in the figure above. The magnitude of the electric field inside the material is\n\n![Insulating slab in an electric field](images/edc4eef2d73c1eb36e986507.jpg)\n\n(A) $\\frac{E_0}{K}$\n\n(B) $\\frac{E_0}{K\\epsilon_0}$\n\n(C) $E_0$\n\n(D) $K\\epsilon_0E_0$\n\n(E) $KE_0$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/edc4eef2d73c1eb36e986507.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 95\n\n## Subject Type\n\n*Electromagnetism* → Dielectric\n\nNo real calculations are involved here. Since $E\\propto1/\\epsilon$, adding a dielectric gives $\\epsilon=K\\epsilon_0$. Since $E_0\\propto1/\\epsilon_0$, this means that $E'=E_0/K$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            25,
+            26
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-096",
+      "number": 96,
+      "markdown": "96. A uniformly charged sphere of total charge $Q$ expands and contracts between radii $R_1$ and $R_2$ at a frequency $f$. The total power radiated by the sphere is\n\n(A) proportional to $Q$\n\n(B) proportional to $f^2$\n\n(C) proportional to $f^4$\n\n(D) proportional to $(R_2/R_1)$\n\n(E) zero",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 96\n\n## Subject Type\n\n*Electromagnetism* → Symmetry\n\nBy symmetry, the total power radiated is 0. It expands inwards and outwards at the same frequency.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            26
+          ]
+        },
+        "notes": [
+          "The sentence “It expands inwards and outwards at the same frequency” is retained as printed, though its intended meaning is unclear. The accompanying question image indicates a sphere that expands and contracts. "
+        ]
+      }
+    },
+    {
+      "id": "gr0177-097",
+      "number": 97,
+      "markdown": "97. ![Diagram of refraction at a glass surface](images/67df4364508e08cea97905de.jpg)\n\nA beam of light has a small wavelength spread $\\delta\\lambda$ about a central wavelength $\\lambda$. The beam travels in vacuum until it enters a glass plate at an angle $\\theta$ relative to the normal to the plate, as shown in the figure above. The index of refraction of the glass is given by $n(\\lambda)$. The angular spread $\\delta\\theta'$ of the refracted beam is given by\n\n(A) $\\delta\\theta' = \\left|\\frac{1}{n}\\,\\delta\\lambda\\right|$\n\n(B) $\\delta\\theta' = \\left|\\frac{dn(\\lambda)}{d\\lambda}\\,\\delta\\lambda\\right|$\n\n(C) $\\delta\\theta' = \\left|\\frac{1}{\\lambda}\\frac{d\\lambda}{dn}\\,\\delta\\lambda\\right|$\n\n(D) $\\delta\\theta' = \\left|\\frac{\\sin\\theta}{\\sin\\theta'}\\frac{\\delta\\lambda}{\\lambda}\\right|$\n\n(E) $\\delta\\theta' = \\left|\\frac{\\tan\\theta'}{n}\\frac{dn(\\lambda)}{d\\lambda}\\,\\delta\\lambda\\right|$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/67df4364508e08cea97905de.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 97\n\n## Subject Type\n\n*Optics* → Refraction\n\nFrom Snell’s law, one obtains $\\sin\\theta = n(\\lambda)\\sin\\theta'$, since the index of refraction of air is about 1. Now, differentiate both sides with respect to $\\lambda$.\n\n$$\n\\frac{d}{d\\lambda}\\sin\\theta = \\frac{d}{d\\lambda}\\bigl(n(\\lambda)\\sin\\theta'\\bigr) \\tag{3}\n$$\n\n$$\n0 = \\frac{dn(\\lambda)}{d\\lambda}\\sin\\theta' + n(\\lambda)\\cos\\theta'\\frac{d\\theta'}{d\\lambda} \\tag{4}\n$$\n\n$$\n\\delta\\theta' = \\left|\\frac{\\tan\\theta'}{n}\\frac{dn(\\lambda)}{d\\lambda}\\,\\delta\\lambda\\right| \\tag{5}\n$$\n\nwhich gives choice (E) to be the angular spread.\n\nThis solution is due to ShyamSunder Regunathan.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            26
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-098",
+      "number": 98,
+      "markdown": "98. Suppose that a system in quantum state $i$ has energy $E_i$. In thermal equilibrium, the expression\n\n$$\n\\frac{\\sum_i E_i e^{-E_i/kT}}{\\sum_i e^{-E_i/kT}}\n$$\n\nrepresents which of the following?\n\n(A) The average energy of the system\n\n(B) The partition function\n\n(C) Unity\n\n(D) The probability to find the system with energy $E_i$\n\n(E) The entropy of the system",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 98\n\n## Subject Type\n\n*Statistical Mechanics* → Average Energy\n\nThe average energy is given by\n\n$$\n\\frac{\\sum_i E_i e^{-E_i/kT}}{Z},\n$$\n\nwhere\n\n$$\nZ = \\sum_i e^{-E_i/kT}\n$$\n\nis the partition function.\n\nThe above is just the statistical mechanics generalization of the baby-averaging $\\bar{u} = \\sum_i U_i/N$, where $N$ is the number of energies summed over. $Z$ is like a generalized $N$.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            26
+          ]
+        },
+        "notes": []
+      }
+    },
+    {
+      "id": "gr0177-099",
+      "number": 99,
+      "markdown": "99. A photon strikes an electron of mass $m$ that is initially at rest, creating an electron-positron pair. The photon is destroyed and the positron and two electrons move off at equal speeds along the initial direction of the photon. The energy of the photon was\n\n(A) $mc^2$\n\n(B) $2mc^2$\n\n(C) $3mc^2$\n\n(D) $4mc^2$\n\n(E) $5mc^2$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 99\n\n## Subject Type\n\n*Special Relativity* → Conservation of Energy\n\nThe tricky part of this problem is to note that the momentum of the photon is shared equally among all three final particles. (This insight was supplied by Felipe Birk.) Thus, $p_e = p/3$, where $p$ is the momentum of the photon and $p_e$ is the momentum of the final electron or positron.\n\nThe initial energy before the photon strikes the electron is $E_0 = pc + m_e c^2$, which is just the energy of the photon plus the rest energy of the electron.\n\nThe final energy after the collision is $E_f = 3\\sqrt{(pc/3)^2 + (m_e c^2)^2}$, which is the sum total energy of all three final particles, i.e., the positron and two electrons. (A positron is the electron’s antiparticle, and thus they have the same mass.) Note that the momentum split relation mentioned above is used to equate the final particle momentum with the initial photon momentum.\n\nConjure up the good conservation of energy idea. Equating $E_0 = E_f$, one gets\n\n$$\n(pc)^2 + (m_e c^2)^2 + 2pc\\,m_e c^2 = 9\\left((pc/3)^2 + (m_e c^2)^2\\right).\n$$\n\nCanceling the $(pc)^2$ terms on both sides, then solving, one arrives at $pc = 4m_e c^2$, which is choice (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            26,
+            27
+          ]
+        },
+        "notes": [
+          "The solution’s equal momentum sharing among the three final particles follows from the stated equal-speed, collinear motion; the original wording is retained."
+        ]
+      }
+    },
+    {
+      "id": "gr0177-100",
+      "number": 100,
+      "markdown": "100. ![Michelson interferometer diagram](images/67a8475ae87bc5d743e59cc3.jpg)\n\nA Michelson interferometer is configured as a wavemeter, as shown in the figure above, so that a ratio of fringe counts may be used to compare the wavelengths of two lasers with high precision. When the mirror in the right arm of the interferometer is translated through a distance $d$, 100,000 interference fringes pass across the detector for green light and 85,865 fringes pass across the detector for red ($\\lambda = 632.82$ nanometers) light. The wavelength of the green laser light is\n\n(A) 500.33 nm\n\n(B) 543.37 nm\n\n(C) 590.19 nm\n\n(D) 736.99 nm\n\n(E) 858.65 nm",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/67a8475ae87bc5d743e59cc3.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          68
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": {
+        "markdown": "Problem 100\n\n## Subject Type\n\n*Optics* → Interferometer\n\nThis is a nice problem.\n\nAn interferometer, as its name suggests, has to do with interference. It splits light beams through the beam splitters (BS) half and half, then recombines them at the end. The result shows interference that varies depending on whether the movable mirror is placed a quarter of a wavelength away (so that the path difference, which is twice that, is half a wavelength).\n\nA fringe shift occurs whenever $d = \\lambda$. Thus $m = 2d/\\lambda$, where $m$ is the number of fringes and $\\lambda$ is the wavelength.\n\nUsing the information for the red beam, one can find $d = m\\lambda/2 = 85{,}865\\times632.82/2$. Applying the same equation for the green beam, one finds that\n\n$$\n\\lambda = \\frac{2d}{m} = \\frac{85{,}865\\times632.82}{100{,}000} \\approx 540\\,\\mathrm{nm},\n$$\n\nas in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            27
+          ]
+        },
+        "notes": []
+      }
+    }
+  ]
+}
