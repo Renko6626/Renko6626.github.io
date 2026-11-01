@@ -1,0 +1,2615 @@
+{
+  "id": "specialtopics",
+  "title": "粒子、光学、实验与材料精选（杂项子集，建议时长）",
+  "year": 2026,
+  "questionCount": 83,
+  "durationMinutes": 125,
+  "sourcePdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+  "sourcePdfs": [
+    "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+    "PGRE_Preparation_2026/GR1777_2017.pdf",
+    "PGRE_Preparation_2026/GR0877_2008.pdf",
+    "PGRE_Preparation_2026/GR0177_2001.pdf",
+    "PGRE_Preparation_2026/GR9677_1996.pdf",
+    "PGRE_Preparation_2026/GR9277_1992.pdf",
+    "PGRE_Preparation_2026/GR8677_1986.pdf",
+    "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf"
+  ],
+  "answerSource": {
+    "type": "official",
+    "note": "逐题沿用 sourceQuestionId 对应原卷的官方答案。"
+  },
+  "scoredCount": 83,
+  "solutionCount": 37,
+  "notes": [
+    "严格从原198题边角概念卷挑选子集，不从其他题目补题，原卷保留。",
+    "保留粒子分类与相互作用、核衰变知识、实验与仪器、误差与统计、材料性质、光谱和光学器件知识，以及少量原子与天体常识。",
+    "剔除波函数、算符、势阱、量子数与角动量耦合、一般交换对称性等常规量子力学题。",
+    "剔除电磁场与边界条件、洛伦兹力、电路波形与滤波分析，以及驻波、波的叠加、干涉衍射条件、一般偏振和色散曲线题。",
+    "按实际考点而非原分类筛选：超导体表面场边界题删去，BCS、比热跃变和载流子性质保留；仪器或实验现象有量子/电磁背景不等于理论习题。",
+    "建议时长按每题1.5分钟估算并向上取整到5分钟，不是官方时限。"
+  ],
+  "questions": [
+    {
+      "id": "specialtopics-001",
+      "number": 1,
+      "markdown": "1. The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\n\n(A) exactly 10 times\n\n(B) an average of 10 times, with an rms deviation of about 0.1\n\n(C) an average of 10 times, with an rms deviation of about 1\n\n(D) an average of 10 times, with an rms deviation of about 2\n\n(E) an average of 10 times, with an rms deviation of about 3",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 35 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-035",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-001"
+    },
+    {
+      "id": "specialtopics-002",
+      "number": 2,
+      "markdown": "2. Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball’s mass is negligibly small.)\n\n(A) 5%\n\n(B) 10%\n\n(C) 15%\n\n(D) 20%\n\n(E) 40%",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 36 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-036",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-002"
+    },
+    {
+      "id": "specialtopics-003",
+      "number": 3,
+      "markdown": "3. Low-energy electrons are accelerated between electrodes in a tube filled with a gas in the Franck-Hertz apparatus represented below. A plot of current collected versus accelerating voltage is also shown. The data provide evidence for which of the following?\n\n![Franck-Hertz apparatus](images/a911e7e4b24bcf3713a99ce6.jpg)\n\n![Current versus voltage plot](images/3d9c94a810f3541ffb986bd7.jpg)\n\n(A) Electronic energy losses due only to elastic collisions\n\n(B) Excitation energies of the gas atoms of 4.9, 9.8, and 14.7 eV\n\n(C) Excitation energy of the gas atoms of 4.9 eV only\n\n(D) Atomic energy levels of $-4.9$, $-9.8$, and $-14.7$ eV\n\n(E) Atomic energy levels of $-4.9$ and $-9.8$ eV only",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/a911e7e4b24bcf3713a99ce6.jpg",
+        "images/3d9c94a810f3541ffb986bd7.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 48 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-048",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-004"
+    },
+    {
+      "id": "specialtopics-004",
+      "number": 4,
+      "markdown": "4. The best type of laser with which to do spectroscopy over a range of visible wavelengths is\n\n(A) a dye laser  \n(B) a helium-neon laser  \n(C) an excimer laser  \n(D) a ruby laser  \n(E) a neodymium-YAG laser",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR1777_2017.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR1777_2017.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1777 第 33 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1777-033",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-005"
+    },
+    {
+      "id": "specialtopics-005",
+      "number": 5,
+      "markdown": "5. Two experimental techniques determine the mass of an object to be $11\\pm1\\ \\mathrm{kg}$ and $10\\pm2\\ \\mathrm{kg}$. These two measurements can be combined to give a weighted average. The uncertainty of the weighted average is equal to which of the following?\n\n(A) $\\frac{1}{2}\\ \\mathrm{kg}$  \n(B) $\\frac{2}{\\sqrt{5}}\\ \\mathrm{kg}$  \n(C) $\\frac{2}{\\sqrt{3}}\\ \\mathrm{kg}$  \n(D) $2\\ \\mathrm{kg}$  \n(E) $\\sqrt{5}\\ \\mathrm{kg}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 14 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-014",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-006"
+    },
+    {
+      "id": "specialtopics-006",
+      "number": 6,
+      "markdown": "6. Two sinusoidal waveforms of the same frequency are displayed on an oscilloscope screen, as indicated in the figure below. The horizontal sweep of the oscilloscope is set to $100\\,\\mathrm{ns/cm}$ and the vertical gains of channels 1 and 2 are each set to $2\\,\\mathrm{V/cm}$. The zero-voltage level of each channel is given at the right in the figure. The phase difference between the two waveforms is most nearly\n\n![Oscilloscope display showing two sinusoidal waveforms of the same frequency](images/0cac43545d55f28d5c89fc45.jpg)\n\n(A) $30^\\circ$  \n(B) $45^\\circ$  \n(C) $60^\\circ$  \n(D) $90^\\circ$  \n(E) $120^\\circ$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/0cac43545d55f28d5c89fc45.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 42 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-042",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-007"
+    },
+    {
+      "id": "specialtopics-007",
+      "number": 7,
+      "markdown": "7. Five classes of students measure the height of a building. Each class uses a different method and each measures the height many different times. The data for each class are plotted below. Which class made the most precise measurement?\n\n(A)\n\n![Plot for choice A](images/3c93d370bcae563971ed5f76.jpg)\n\n(B)\n\n![Plot for choice B](images/1499371e5dd93dd16c9dacbb.jpg)\n\n(C)\n\n![Plot for choice C](images/b50f418335614329827cda8b.jpg)\n\n(D)\n\n![Plot for choice D](images/52fdef53cf544074a3d13d13.jpg)\n\n(E)\n\n![Plot for choice E](images/28b79b7c7289d27b55195077.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/3c93d370bcae563971ed5f76.jpg",
+        "images/1499371e5dd93dd16c9dacbb.jpg",
+        "images/b50f418335614329827cda8b.jpg",
+        "images/52fdef53cf544074a3d13d13.jpg",
+        "images/28b79b7c7289d27b55195077.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 15 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 15\n\n## Subject Type\n\nLab Methods → Precision\n\nThe most precise measurement might be the wrong value, as long as after many measurements, each measurement is very close to the mean. Thus, the width of the height vs. number of trials graph must be as thin as possible. The only choice that shows this characteristic is choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            5
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-015",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-008"
+    },
+    {
+      "id": "specialtopics-008",
+      "number": 8,
+      "markdown": "8. A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obtains the following values.\n\n3, 0, 2, 1, 2, 4, 0, 1, 2, 5\n\nHow long should the student count to establish the rate to an uncertainty of 1 percent?\n\n(A) 80 s  \n(B) 160 s  \n(C) 2,000 s  \n(D) 5,000 s  \n(E) 6,400 s",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 16 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 16\n\n## Subject Type\n\nLab Methods → Sample\n\nThe mean of the ten numbers is $\\bar{x} = 2$. Thus, the standard deviation of the sample is $\\sqrt{\\bar{x}} \\approx 1.44$. If the student wants to obtain an uncertainty of 1 percent, then\n\n$$\n\\frac{\\sigma}{\\bar{x}'} = \\frac{1}{100} = \\frac{\\sqrt{2C}}{2C} = \\frac{1}{\\sqrt{2C}},\n$$\n\nwhere one assumes the average scales uniformly and $C$ is the time to count.\n\nThus, one has $\\sqrt{2C} \\approx 100$. Thus the student should count $C=5000\\,\\mathrm{s}$.\n\n## A Sneak Peek of *The Not-So-Boring Review of Undergrad Physics*\n\nPerhaps an alternate description of the Poisson Distribution might help you remember it better. (Note: this section also contains a quick review of the operators of the algebraic approach to the quantum mechanical simple harmonic oscillator.)\n\nThe Poisson Distribution is intimately related to the raising and lowering operators of the (quantum mechanical) simple harmonic oscillator (SHO). When you hear the phrase “simple harmonic oscillator,” you should immediately recall the number operator $N = a^\\dagger a$, as well as the characteristic relations for the raising $a^\\dagger$ and lowering $a$ operators, $a|n\\rangle = \\sqrt{n}|n-1\\rangle$ and $a^\\dagger|n\\rangle = \\sqrt{n+1}|n+1\\rangle$. And, don’t forget the commutation relation that you should know by heart by now, $[a,a^\\dagger]=1$. (That’s all part of the collective consciousness of being a physics major.)\n\nNow, here’s some quasi-quantum magic applied to the Poisson Distribution. I’m going to show you how to arrive at the result for standard deviation, i.e., $\\Delta n \\equiv \\sqrt{\\bar{n}}$, using the SHO operators.\n\nLet’s start with something easy to help jog your memory: The mean or average number in the distribution is just the expectation value of the Number operator, $\\langle N\\rangle = \\langle n|N|n\\rangle = \\langle n|a^\\dagger a|n\\rangle \\equiv \\bar{n}$.\n\nOkay! So, on with the fun stuff: the standard deviation is given by the usual definition, $(\\Delta n)^2 = \\langle N^2\\rangle - \\langle N\\rangle^2$.\n\nThe second term is already determined from the above expression for the mean, $\\langle N\\rangle^2 = \\bar{n}^2$.\n\nThe first term can be calculated from $\\langle N^2\\rangle = \\langle n|a^\\dagger aa^\\dagger a|n\\rangle$. Now, the commutation relation gives $[a,a^\\dagger]=1=aa^\\dagger-a^\\dagger a$, so $aa^\\dagger=a^\\dagger a+1$. Replacing the middle two of the four $a$’s with that result, the expression becomes\n\n$$\n\\begin{aligned}\n\\langle N^2\\rangle &= \\langle n|a^\\dagger(a^\\dagger a+1)a|n\\rangle \\\\\n&= \\langle n|a^\\dagger a^\\dagger aa + a^\\dagger a|n\\rangle \\\\\n&= \\langle N^2\\rangle_{\\text{normally ordered}} + \\langle N\\rangle \\\\\n&= \\bar{n}^2 + \\bar{n}.\n\\end{aligned}\n$$\n\nPlugging the above results into the standard deviation, I present to you this: $(\\Delta n)^2 = \\bar{n}^2 + \\bar{n} - \\bar{n}^2 = \\bar{n}$, so $\\Delta n = \\sqrt{\\bar{n}}$.\n\nIt’s no coincidence that the above works.\n\nThe Poisson Distribution is given by $P(\\lambda) \\propto e^{-m}m^\\lambda/\\lambda!$. But, wait, doesn’t that look a wee bit too familiar? The energy eigenfunctions of the SHO are given by $|n\\rangle = (a^\\dagger)^n/(n!)^{1/2}|0\\rangle$, where $|0\\rangle \\propto e^{-a}$. Making the following associations, $m\\to a$ and $\\lambda\\to n$, you carve the first etchings in the Rosetta Stone between probability and quantum mechanics.\n\nHmmm... so are you beginning to see the greater meaning of the magic math of quantum mechanics that you might have learned by rote? Yes, my padawan, I see the force in you.\n\n*Book To Be Published on GREPhysics.NET in December 2005*",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            5,
+            6
+          ]
+        },
+        "notes": [
+          "The source derivation contains garbled intermediate expectation-value lines. They have been condensed to the standard normal-ordering result that supports the source’s stated Poisson variance. The final result agrees with the stated official answer D."
+        ]
+      },
+      "sourceQuestionId": "gr0177-016",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-009"
+    },
+    {
+      "id": "specialtopics-009",
+      "number": 9,
+      "markdown": "9. In laboratory experiments, graphs are employed to determine how one measured variable depends on another. These graphs generally fall into three categories: linear, semilog (logarithmic versus linear), and log-log. Which type of graph listed in the third column below would NOT be the best for plotting data to test the relationship given in the first and second columns?\n\n| Relation | Variables Plotted | Type of Graph |\n|---|---|---|\n| (A) $dN/dt \\propto e^{-2t}$ | Activity vs. time for a radioactive isotope | Semilog |\n| (B) $eV_s = hf - W$ | Stopping potential vs. frequency for the photoelectric effect | Linear |\n| (C) $s \\propto t^2$ | Distance vs. time for an object undergoing constant acceleration | Log-log |\n| (D) $V_{\\mathrm{out}}/V_{\\mathrm{in}} \\propto 1/\\omega$ | Gain vs. frequency for a low-pass filter | Linear |\n| (E) $P \\propto T^4$ | Power radiated vs. temperature for blackbody radiation | Log-log |",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 27 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 27\n\n## Subject Type\n\nLab Methods → Log Graphs\n\nLog graphs are good for exponential-related phenomena. Thus (A), (C), and (E) are appropriate, and are eliminated. The stopping potential has a linear relation to the frequency, and thus choice (B) is eliminated. The remaining choice is (D).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-027",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-010"
+    },
+    {
+      "id": "specialtopics-010",
+      "number": 10,
+      "markdown": "10. In a voltage amplifier, which of the following is NOT usually a result of introducing negative feedback?\n\n(A) Increased amplification  \n(B) Increased bandwidth  \n(C) Increased stability  \n(D) Decreased distortion  \n(E) Decreased voltage gain",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 72 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "## Problem 72\n\nFor typo alerts, alternate solutions, and questions pertaining to this problem—check out this link! ↑\n\n## Subject Type\n\nLab Methods → Negative Feedback\n\nNegative feedback, according to Horowitz’s *The Art of Electronics*, has to do with canceling out some of the input in the output. Although that might seem like redundantly adding noise to the system, it actually reduces the amplifier’s gain and increases stability (by decreasing nonlinearity and distortion).\n\nFrom that bit of info, two choices remain: choice (A) and (B). Choose (A) because negating the feedback should not increase the amplitude.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            21
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-072",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-011"
+    },
+    {
+      "id": "specialtopics-011",
+      "number": 11,
+      "markdown": "11. In transmitting high frequency signals on a coaxial cable, it is important that the cable be terminated at an end with its characteristic impedance in order to avoid\n\n(A) leakage of the signal out of the cable\n(B) overheating of the cable\n(C) reflection of signals from the terminated end of the cable\n(D) attenuation of the signal propagating in the cable\n(E) production of image currents in the outer conductor",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 18 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-018",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-012"
+    },
+    {
+      "id": "specialtopics-012",
+      "number": 12,
+      "markdown": "12. The magnitude of the force $F$ on an object can be determined by measuring both the mass $m$ of an object and the magnitude of its acceleration $a$, where $F=ma$. Assume that these measurements are uncorrelated and normally distributed. If the standard deviations of the measurements of the mass and the acceleration are $\\sigma_m$ and $\\sigma_a$, respectively, then $\\sigma_F/F$ is\n\n(A) $\\left(\\frac{\\sigma_m}{m}\\right)^2+\\left(\\frac{\\sigma_a}{a}\\right)^2$  \n(B) $\\left(\\frac{\\sigma_m}{m}+\\frac{\\sigma_a}{a}\\right)^{1/2}$  \n(C) $\\left[\\left(\\frac{\\sigma_m}{m}\\right)^2+\\left(\\frac{\\sigma_a}{a}\\right)^2\\right]^{1/2}$  \n(D) $\\frac{\\sigma_m\\sigma_a}{ma}$  \n(E) $\\frac{\\sigma_m}{m}+\\frac{\\sigma_a}{a}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 48 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-048",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-013"
+    },
+    {
+      "id": "specialtopics-013",
+      "number": 13,
+      "markdown": "13. Two horizontal scintillation counters are located near the Earth's surface. One is 3.0 meters directly above the other. Of the following, which is the largest scintillator resolving time that can be used to distinguish downward-going relativistic muons from upward-going relativistic muons using the relative time of the scintillator signals?\n\n(A) 1 picosecond  \n(B) 1 nanosecond  \n(C) 1 microsecond  \n(D) 1 millisecond  \n(E) 1 second",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 49 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-049",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-014"
+    },
+    {
+      "id": "specialtopics-014",
+      "number": 14,
+      "markdown": "14. The circuit shown above is used to measure the size of the capacitance $C$. The $y$-coordinate of the spot on the oscilloscope screen is proportional to the potential difference across $R$, and the $x$-coordinate of the spot is swept at a constant speed $s$. The switch is closed and then opened. One can then calculate $C$ from the shape and the size of the curve on the screen plus a knowledge of which of the following?\n\n![Circuit diagram](images/180fab95f3738de1d062b009.jpg)\n\n(A) $V_0$ and $R$  \n(B) $s$ and $R$  \n(C) $s$ and $V_0$  \n(D) $R$ and $R'$  \n(E) The sensitivity of the oscilloscope",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/180fab95f3738de1d062b009.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 86 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-086",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-015"
+    },
+    {
+      "id": "specialtopics-015",
+      "number": 15,
+      "markdown": "15. An experimenter measures 9934 counts during one hour from a radioactive sample. From this number the counting rate of the sample can be estimated with a standard deviation of most nearly\n\n(A) 100  \n(B) 200  \n(C) 300  \n(D) 400  \n(E) 500",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 40 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 40\n\n## Subject Type\n\nAdvanced Topics → Radioactivity\n\nRadioactive counting rates (number of decays per unit time) follow the Poisson distribution. (Recall that the Poisson distribution describes the results of experiments in which one counts events that occur independently, thus at random, but at a definite average rate.) In the Poisson distribution, $\\sigma = \\sqrt{\\bar{x}}$, i.e., the standard deviation is approximately the square root of the average.\n\nSuppose 9934 $\\approx$ 10000 is the average. The square root of that is 100, hence (A) is the answer.\n\n(Depending on whether one is in the mood for rolling the celestial self-loaded 5-sided dice, one can look for the most obvious relationship between numbers in problems. $\\sqrt{x}$ and $x^2$ are two commonly used relationships.)\n\nThe normal (Gaussian) distribution describes the distribution of values for any measurement subject to many sources of error that are all random and small. But the Poisson distribution fits this case more closely.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-040",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-016"
+    },
+    {
+      "id": "specialtopics-016",
+      "number": 16,
+      "markdown": "16. The exponent in Coulomb's inverse square law has been found to differ from two by less than one part in a billion by measuring which of the following?\n\n(A) The charge on an oil drop in the Millikan experiment  \n(B) The deflection of an electron beam in an electric field  \n(C) The neutrality of charge of an atom  \n(D) The electric force between two charged objects  \n(E) The electric field inside a charged conducting shell",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 86 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 86\n\n## Subject Type\n\nElectromagnetism → Coulomb’s Law\n\n(Better classified as the Cavendish-Maxwell Experiment to determine the exponent in Coulomb’s Law.)\n\nOne wonders why the common sense (and much too trivial) answer, choice (D), isn’t right. In searching through one’s lower level textbook, one would find accounts of Cavendish’s torsion experiment, which seems to also support choice (D). However, reading up on papers, one finds that the precise determination of the exponent is actually done via a whole different method—which, although it is an experimental technique, actually serves to illuminate the necessity of the inverse square law—and thus, this problem is not classified as a Lab Technique problem.\n\nCharge up a conducting shell. Put a charge inside, distinctly asymmetrically far from the center but not touching the outer shell. One finds that the charge will not move.\n\nThis suggests that the field is 0.\n\nSuppose that the field contribution to the test charge can be broken down into two unequal parts, set apart by a plane through the test charge. $\\vec{E} \\propto dS_1/r_1^n - dS_2/r_2^n$. Substituting the solid angle $d\\Omega = dS\\cos\\theta/r^2$, one finds that\n\n$$\n\\vec{E} \\propto \\frac{d\\Omega}{\\cos\\theta}\\left(\\frac{1}{r_1^{n-2}}-\\frac{1}{r_2^{n-2}}\\right).\n$$\n\nSince the field vanishes for any $r_1, r_2$, one deduces that $n=2$.\n\nFor other and more modern methods, see page 95f, especially page 100 of http://yosunism.com/inverseSquare.pdf",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            28
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-086",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-017"
+    },
+    {
+      "id": "specialtopics-017",
+      "number": 17,
+      "markdown": "17. In order to observe a ring diffraction pattern on the screen shown above, which of the following conditions must be met?\n\n![Electron beam, thin copper foil, and fluorescent screen](images/b08aa6696602a0ac0cdc44d8.jpg)\n\n(A) The electron beam must be polarized.\n\n(B) The electron beam must be approximately monoenergetic.\n\n(C) The copper foil must be a single crystal specimen.\n\n(D) The copper foil must be of uniform thickness.\n\n(E) The electron beam must strike the foil at normal incidence.",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/b08aa6696602a0ac0cdc44d8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 13 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-013",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-018"
+    },
+    {
+      "id": "specialtopics-018",
+      "number": 18,
+      "markdown": "18. Which of the following is most useful for measuring temperatures of about $3{,}000\\,\\mathrm{K}$?\n\n(A) Optical pyrometer\n\n(B) Carbon resistor\n\n(C) Gas-bulb thermometer\n\n(D) Mercury thermometer\n\n(E) Thermocouple",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 23 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-023",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-019"
+    },
+    {
+      "id": "specialtopics-019",
+      "number": 19,
+      "markdown": "19. In an experimental observation of the photoelectric effect, the stopping potential was plotted versus the light frequency, as shown in the figure below. The best straight line was fitted to the experimental points. Which of the following gives the slope of the line? (The work function of the metal is $\\phi$.)\n\n![Stopping potential versus frequency graph for the photoelectric effect](images/50a24f90b68ddc3c48278fdd.jpg)\n\n(A) $\\frac{h}{\\phi}$  \n(B) $\\frac{h}{e}$  \n(C) $\\frac{e}{h}$  \n(D) $\\frac{e}{\\phi}$  \n(E) $\\frac{\\phi}{e}$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/50a24f90b68ddc3c48278fdd.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 41 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-041",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-059"
+    },
+    {
+      "id": "specialtopics-020",
+      "number": 20,
+      "markdown": "20. A beam of neutral hydrogen atoms in their ground state is moving into the plane of this page and passes through a region of a strong inhomogeneous magnetic field that is directed upward in the plane of the page. After the beam passes through this field, a detector would find that it has been\n\n(A) deflected upward\n\n(B) deflected to the right\n\n(C) undeviated\n\n(D) split vertically into two beams\n\n(E) split horizontally into three beams",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 11 题；共享材料及已有解析中的题号沿用原卷。",
+          "已有第三方解析把银原子未配对电子写成p轨道，正确应为5s；不影响本题氢原子自旋分束的官方答案。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 11\n\n## Subject Type\n\n*Atomic → Stern-Gerlach*\n\nRecall the Stern-Gerlach experiment, where (in its original set-up) a beam of neutral silver atoms are sent through an inhomogeneous magnetic field. The beam splits into two—classically, from the Lorentz force, one wouldn’t expect anything to happen since all the atoms are neutral, but if one accounts for the Larmor precession, one would expect the beam to be deflected into a smear. Instead, however, the beam deflects into $2s+1$ beams, and thus this supports the idea that electrons are of spin-$1/2$. (Ag has one unpaired electron in its $p$ orbital.)\n\nWith a beam of hydrogen atoms, one should also get a split into two, since $s=1/2$ from the electron.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            5
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-011",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-069"
+    },
+    {
+      "id": "specialtopics-021",
+      "number": 21,
+      "markdown": "21. Original GR8677 questions 31–33 refer to the following apparatus used to study the photoelectric effect.\n\n![Photoelectric-effect apparatus](images/0fc57c4cbfc2149aa6068f79.jpg)\n\nIn this apparatus, the photocathode and the collector are made from the same material. The potential $V$ of the collector, measured relative to ground, is initially zero and is then increased or decreased monotonically. The effect is described by Einstein’s photoelectric equation:\n\n$$|eV|=h\\nu-W.$$\n\nWhen the photoelectric equation is satisfied and applicable to this situation, $V$ is the\n\n(A) negative value at which the current stops  \n(B) negative value at which the current starts  \n(C) positive value at which the current stops  \n(D) positive value at which the current starts  \n(E) voltage induced when the light is on",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/0fc57c4cbfc2149aa6068f79.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 31 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 31\n\n## Subject Type\n\nQuantum Mechanics → Photoelectric Effect\n\nPerhaps one recalls the “hot phrase” stopping potential. The $|eV|$ used in the photoelectric equation is essentially the stopping potential (energy). This memory recall immediately narrows the choices down to just (A) and (C). Now, to find out if the potential is positive or negative.\n\nFYI: The photoelectric effect equation is basically just conservation of energy. One has $eV + W = hf$, where $eV$ is the kinetic energy of the electron as it accelerates through the medium between the cathode and collector, $W$ is the energy to free the electron from the metal, and $hf$ is the energy given by the light source. Essentially, the energy from the photon first frees the electron from a sort of (valence) electron sea it lives in while in the metal, and then the excess energy propels it from cathode to collector in order to keep the current running. The minimum kinetic energy required to get the current going is the stopping potential (energy) $eV$. (According to the fight analogy below, the photon is the one who starts the fight, socking the electron off and away across the currents...)\n\nThe electron charge is negative and the potential $V$ must be a negative quantity in order to make $eV$ positive overall.\n\n(On the lighter side... The photoelectric effect is also related to the Compton Effect. The effects can be seen as an arena fight. Think WWWF, but with electrons and photons. In PEE, the photon knocks the electron out, while in CE, the electron retaliates! It knocks the photon off course.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            11,
+            12
+          ]
+        },
+        "notes": [
+          "The source explanation describes $eV$ as the electron’s kinetic energy and calls it a stopping potential; this wording is physically imprecise, but has been retained without changing the explanation’s meaning."
+        ]
+      },
+      "sourceQuestionId": "gr8677-031",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-081"
+    },
+    {
+      "id": "specialtopics-022",
+      "number": 22,
+      "markdown": "22. The outputs of two electrical oscillators are compared on an oscilloscope screen. The oscilloscope spot is initially at the center of the screen. Oscillator $Y$ is connected to the vertical terminals of the oscilloscope and oscillator $X$ to the horizontal terminals. Which of the following patterns could appear on the oscilloscope screen, if the frequency of oscillator $Y$ is twice that of oscillator $X$?\n\n(A) ![image](images/315bb552bcdff75dba912c49.jpg)\n\n(B) ![image](images/67c8ad54a4520f6f5158971a.jpg)\n\n(C) ![image](images/5235f8146a0f7c81fa408537.jpg)\n\n(D) ![image](images/937117c23b5d3f1cce9d72f2.jpg)\n\n(E) ![image](images/0b40d9a82f98dfdd099403b8.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/315bb552bcdff75dba912c49.jpg",
+        "images/67c8ad54a4520f6f5158971a.jpg",
+        "images/5235f8146a0f7c81fa408537.jpg",
+        "images/937117c23b5d3f1cce9d72f2.jpg",
+        "images/0b40d9a82f98dfdd099403b8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 17 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-017",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-137"
+    },
+    {
+      "id": "specialtopics-023",
+      "number": 23,
+      "markdown": "23. A counter near a long-lived radioactive source measures an average of 100 counts per minute. The probability that more than 110 counts will be recorded in a given one-minute interval is most nearly\n\n(A) zero\n\n(B) 0.001\n\n(C) 0.025\n\n(D) 0.15\n\n(E) 0.5",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 24 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-024",
+      "topic": "实验与仪器",
+      "parentQuestionId": "concepts-177"
+    },
+    {
+      "id": "specialtopics-024",
+      "number": 24,
+      "markdown": "24. Light of variable frequency $\\nu$ shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric effect predicts that the\n\n(A) work function of the metal is proportional to the frequency\n\n(B) work function of the metal is proportional to the wavelength\n\n(C) current in the tube is a linear function of the wavelength\n\n(D) potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency\n\n(E) potential difference necessary to stop the emitted electrons is equal to the work function",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 8 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-008",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-020"
+    },
+    {
+      "id": "specialtopics-025",
+      "number": 25,
+      "markdown": "25. Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bombard a metal target. Which of the following processes results in the characteristic X rays?\n\n(A) Electrons producing Čerenkov radiation\n\n(B) Electrons colliding with phonons in the metal\n\n(C) Electrons filling inner shell vacancies that are created in the metal atoms\n\n(D) Electrons combining with protons to form neutrons\n\n(E) Electrons undergoing Coulomb scattering with nuclei",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 9 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-009",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-021"
+    },
+    {
+      "id": "specialtopics-026",
+      "number": 26,
+      "markdown": "26. Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\n\n(A) Diode laser\n\n(B) Dye laser\n\n(C) Free-electron laser\n\n(D) Gas laser\n\n(E) Solid-state laser",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 49 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-049",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-027"
+    },
+    {
+      "id": "specialtopics-027",
+      "number": 27,
+      "markdown": "27. True statements about the absorption and emission of energy by an atom include which of the following?\n\nI. An atom can only absorb photons of light that have certain specific energies.\n\nII. An atom can emit photons of light of any energy.\n\nIII. At low temperature, the lines in the absorption spectrum of an atom coincide with the lines in its emission spectrum that represent transitions to the ground state.\n\n(A) I only\n\n(B) III only\n\n(C) I and II only\n\n(D) I and III only\n\n(E) I, II, and III",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 51 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-051",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-028"
+    },
+    {
+      "id": "specialtopics-028",
+      "number": 28,
+      "markdown": "28. In the production of X rays, the term “bremsstrahlung” refers to which of the following?\n\n(A) The cut-off wavelength, $\\lambda_{\\min}$, of the X-ray tube  \n(B) The discrete X-ray lines emitted when an electron in an outer orbit fills a vacancy in an inner orbit of the atoms in the target metal of the X-ray tube  \n(C) The discrete X-ray lines absorbed when an electron in an inner orbit fills a vacancy in an outer orbit of the atoms in the target metal of the X-ray tube  \n(D) The smooth, continuous X-ray spectra produced by high-energy blackbody radiation from the X-ray tube  \n(E) The smooth, continuous X-ray spectra produced by rapidly decelerating electrons in the target metal of the X-ray tube",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 20 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 20\n\nSubject Type\n\nElectromagnetism → Bremsstrahlung\n\nOne might recall the English translation of Bremsstrahlung, which is “braking radiation.” The only choice that has to do with acceleration is choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            7
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-020",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-030"
+    },
+    {
+      "id": "specialtopics-029",
+      "number": 29,
+      "markdown": "29. Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements regarding radiation spectra is NOT correct?\n\n(A) Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.  \n(B) The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.  \n(C) Absorption spectra can be used to determine which elements are present in distant stars.  \n(D) Spectral analysis can be used to identify the composition of galactic dust.  \n(E) Band spectra are due to molecules.",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 64 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 64\n\n**Subject Type**\n\n*Atomic* → Radiation Spectra\n\nChoice-by-choice analysis gives...\n\n(A) The word nuclear sounds questionable, as lines are often due to just spin splitting.\n\n(B) The wavelengths of absorption spectra are often close to those of emission spectra (or overlapping). This is true.\n\n(C) Absorption spectra are often used in astrophysics to determine the contents of stars. Even though mere mostly harmless Earthlings have never visited the sun, the absorption spectra of the sun help determine its component elements.\n\n(D) Same idea as in the previous choice.\n\n(E) A single atom does not have band spectra. So, yes, band spectra are due to molecules. (To wit: it only has, say, $2s$, $3p$, etc., states, and not states that are split in between—molecules have more degrees of freedom, i.e., they can rotate and vibrate, while atoms can’t.)\n\nThe remaining choice is (A). Take that.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            17
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-064",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-032"
+    },
+    {
+      "id": "specialtopics-030",
+      "number": 30,
+      "markdown": "30. Internal conversion is the process whereby an excited nucleus transfers its energy directly to one of the most tightly bound atomic electrons, causing the electron to be ejected from the atom and leaving the atom in an excited state. The most probable process after an internal conversion electron is ejected from an atom with a high atomic number is that the\n\n(A) atom returns to its ground state through inelastic collisions with other atoms\n\n(B) atom emits one or several x-rays\n\n(C) nucleus emits a $\\gamma$-ray\n\n(D) nucleus emits an electron\n\n(E) nucleus emits a positron",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 10 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 10\n\n## Subject Type\n\n*Advanced Topics → Particle Physics*\n\nRecall that in gamma-ray production, the excited nucleus jumps to a lower level and emits a photon $\\gamma$. In internal conversion, however, an orbital electron is absorbed and ejected along with an X-ray.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            4,
+            5
+          ]
+        },
+        "notes": [
+          "The explanation says an orbital electron is absorbed and ejected along with an X-ray; the original exam question describes the electron being ejected and the atom left in an excited state. Preserved the explanation's wording."
+        ]
+      },
+      "sourceQuestionId": "gr9677-010",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-033"
+    },
+    {
+      "id": "specialtopics-031",
+      "number": 31,
+      "markdown": "31. The electronic energy levels of atoms of a certain gas are given by $E_n=E_1n^2$, where $n=1, 2, 3, \\ldots$. Assume that transitions are allowed between all levels. If one wanted to construct a laser from this gas by pumping the $n=1\\rightarrow n=3$ transition, which energy level or levels would have to be metastable?\n\n(A) $n=1$ only\n\n(B) $n=2$ only\n\n(C) $n=1$ and $n=3$ only\n\n(D) $n=1, n=2,$ and $n=3$\n\n(E) None",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          70
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 99 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 99\n\n## Subject Type\n\nQuantum Mechanics → Two-State Systems\n\nRecall the mnemonic for remembering what a LASER is—Light Amplification by Stimulated Emission of Radiation.\n\nA laser consists of two states, with a metastable state in between the top and bottom state. Initially, one has all the atoms in the ground state. But photons come in to excite the atoms (through absorption), and the atoms jump into the top state; this is called a population inversion, as the ground-state atoms are now mostly in the top “inverted” state. More photons come in to excite these already excited atoms, but instead of absorption, emission occurs, and the atoms jump to a lower metastable state while emitting photons (in addition to the incident photons). The atoms stay in this metastable state due to selection rules, where a transition back to the ground state is forbidden.\n\nOne doesn’t need to know all that to solve this problem. Instead, merely the idea of a laser requiring two main states and a metastable state in between would suffice. Since the question gives the bottom state as $n=1$ and top state as $n=3$, one deduces that the metastable state must be $n=2$, as in choice (B).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            30
+          ]
+        },
+        "notes": [
+          "The source's laser mnemonic is commonly expanded as “Light Amplification by Stimulated Emission of Radiation”; this wording correction leaves the explanation and official answer (B) unchanged."
+        ]
+      },
+      "sourceQuestionId": "gr9677-099",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-035"
+    },
+    {
+      "id": "specialtopics-032",
+      "number": 32,
+      "markdown": "32. The emission spectrum of an atomic gas in a magnetic field differs from that of the gas in the absence of a magnetic field. Which of the following is true of the phenomenon?\n\n(A) It is called the Stern-Gerlach effect.\n\n(B) It is called the Stark effect.\n\n(C) It is due primarily to the nuclear magnetic moment of the atoms.\n\n(D) The number of emission lines observed for the gas in a magnetic field is always twice the number observed in the absence of a magnetic field.\n\n(E) The number of emission lines observed for the gas in a magnetic field is either greater than or equal to the number observed in the absence of a magnetic field.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 82 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 82\n\n## Subject Type\n\nAtomic → Emission Lines\n\n(A) The Stern–Gerlach effect has to do with splitting beams of atoms sent through an inhomogeneous magnetic field. It does not have to do with the emission spectrum.\n\n(B) The Stark effect has to do with energy shifts from placing atom(s) in an electric field.\n\n(C) Splitting is often due to electron spin magnetic moments.\n\n(D) The condition is much too rigid.\n\n(E) Splitting of energies means more lines than before. This choice is general enough to be true.\n\n(The effect of energy shifts from placing an atom in a magnetic field is called the Zeeman effect, which isn’t listed.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            27
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-082",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-044"
+    },
+    {
+      "id": "specialtopics-033",
+      "number": 33,
+      "markdown": "33. A spectral line is produced by a gas that is sufficiently dense that the mean time between atomic collisions is much shorter than the mean lives of the atomic states responsible for the line. Compared with the same line produced by a low-density gas, the line produced by the higher-density gas will appear\n\n(A) the same\n\n(B) more highly polarized\n\n(C) broader\n\n(D) shifted toward the blue end of the spectrum\n\n(E) split into a doublet",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 83 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 83\n\n## Subject Type\n\nAtomic → Spectral Line\n\nThe less dense a gas is, the more precise (thin) its emission lines. So, when one has a dense gas, one expects the spectral lines to be broader—as in choice (C).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            27
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-083",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-045"
+    },
+    {
+      "id": "specialtopics-034",
+      "number": 34,
+      "markdown": "34. Original GR8677 questions 31–33 refer to the following apparatus used to study the photoelectric effect.\n\n![Photoelectric-effect apparatus](images/0fc57c4cbfc2149aa6068f79.jpg)\n\nIn this apparatus, the photocathode and the collector are made from the same material. The potential $V$ of the collector, measured relative to ground, is initially zero and is then increased or decreased monotonically. The effect is described by Einstein’s photoelectric equation:\n\n$$|eV|=h\\nu-W.$$\n\nThe photoelectric equation is derived under the assumption that\n\n(A) electrons are restricted to orbits of angular momentum $n\\hbar$, where $n$ is an integer  \n(B) electrons are associated with waves of wavelength $\\lambda=h/p$, where $p$ is momentum  \n(C) light is emitted only when electrons jump between orbits  \n(D) light is absorbed in quanta of energy $E=h\\nu$  \n(E) light behaves like a wave",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/0fc57c4cbfc2149aa6068f79.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 32 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 32\n\n## Subject Type\n\nQuantum Mechanics → Photoelectric Effect\n\n(A) The photoelectric effect was derived before formal quantum mechanics and that angular momentum mess came along. Moreover, electron orbits don’t really apply to the valence electron sea.\n\n(B) This is true, but it doesn’t help derive the photoelectric effect.\n\n(C) Nah, there’s also something weird called electron-electron annihilation. Basically, two electrons crash into each other and a photon is created. (Perhaps some other particles, too.) Also, think of your regular desktop lamp—light is emitted, but the electrons are probably not jumping between orbits.\n\n(D) Right. Einstein won the Nobel Prize about a hundred years ago via his proposal that photons have quantized energy $E = h\\nu$.\n\n(E) As a pure-ideal theory, the photoelectric effect depends on a single photon exciting a single electron. It favors the particle view of light. Choice (E) is out.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": [
+          "The statement in choice (C)'s explanation that two electrons annihilate into a photon is scientifically inaccurate; retained because this is a third-party solution explanation."
+        ]
+      },
+      "sourceQuestionId": "gr8677-032",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-082"
+    },
+    {
+      "id": "specialtopics-035",
+      "number": 35,
+      "markdown": "35. Original GR8677 questions 31–33 refer to the following apparatus used to study the photoelectric effect.\n\n![Photoelectric-effect apparatus](images/0fc57c4cbfc2149aa6068f79.jpg)\n\nIn this apparatus, the photocathode and the collector are made from the same material. The potential $V$ of the collector, measured relative to ground, is initially zero and is then increased or decreased monotonically. The effect is described by Einstein’s photoelectric equation:\n\n$$|eV|=h\\nu-W.$$\n\nThe quantity $W$ in the photoelectric equation is the\n\n(A) energy difference between the two lowest electron orbits in the atoms of the photocathode  \n(B) total light energy absorbed by the photocathode during the measurement  \n(C) minimum energy a photon must have in order to be absorbed by the photocathode  \n(D) minimum energy required to free an electron from its binding to the cathode material  \n(E) average energy of all electrons in the photocathode",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/0fc57c4cbfc2149aa6068f79.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 33 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 33\n\n## Subject Type\n\nQuantum Mechanics → Photoelectric Effect\n\nThe quantity $W$ is also known as the work function, and it’s the minimum amount of work that has to be done to free the electron from the electron sea. If one forgets whether it’s the electron or photon that’s being moved, then here’s a useful mnemonic. Remember that the photoelectric effect has a photon knocking out an electron and the Compton effect has an electron knocking a photon off course. (For the full fight-club analogy, see Problem 32.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-033",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-083"
+    },
+    {
+      "id": "specialtopics-036",
+      "number": 36,
+      "markdown": "36. Fermat’s principle of ray optics states, “A ray of light follows the path between two points which requires the least time.” This principle can be used to derive which of the following?\n\nI. Snell’s law of refraction\n\nII. The law of reflection\n\nIII. Rayleigh’s criterion for resolution\n\n(A) I only\n\n(B) II only\n\n(C) III only\n\n(D) I and II\n\n(E) II and III",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR1777_2017.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR1777_2017.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1777 第 16 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1777-016",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-130"
+    },
+    {
+      "id": "specialtopics-037",
+      "number": 37,
+      "markdown": "37. In an ordinary hologram, coherent monochromatic light produces a 3-dimensional picture because wave information is recorded for which of the following?\n\nI. Amplitude  \nII. Phase  \nIII. Wave-front angular frequency\n\n(A) I only  \n(B) I and II only  \n(C) I and III only  \n(D) II and III only  \n(E) I, II, and III",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 58 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 58\n\n## Subject Type\n\nOptics → Holograms\n\nA hologram is produced from interference of light. Interference of two beams (one going directly to the film, the other bouncing off the object) produced by a beam splitter allows the film to record both intensity and relative phase of the light at each point. Intensity (to wit: $I \\propto E_0^2\\langle\\sin^2\\omega t\\rangle = E_0^2/2$) does not depend on angular frequency, but only on phase and amplitude. Thus, choice (B) is right.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            19
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-058",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-146"
+    },
+    {
+      "id": "specialtopics-038",
+      "number": 38,
+      "markdown": "38. The measured index of refraction of x-rays in rock salt is less than one. This is consistent with the theory of relativity because\n\n(A) relativity deals with light waves traveling in a vacuum only\n(B) x-rays cannot transmit signals\n(C) x-ray photons have imaginary mass\n(D) the theory of relativity predates the development of solid-state physics\n(E) the phase velocity and group velocity are different",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 72 题；共享材料及已有解析中的题号沿用原卷。",
+          "已有第三方解析混淆相速度与群速度；折射率定义 n=c/v相，n<1不表示信号可以超光速。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 72\n\n## Subject Type\n\nWave Phenomenon → Group Velocity\n\nRecall the definition of index of refraction $n$ in terms of the speed of light in vacuum $c$ and the velocity of the light in medium $v$, $n=c/v$. Since the velocity of light in any medium is $v \\leq c$, the condition $n \\geq 1$ usually holds. However, even if rock salt has $n>1$, the wave does not exceed the speed of light. The group velocity can travel faster than the speed of light, and apparently it is the group velocity at work in the equation $n=c/v$.\n\nOne can also arrive at this conclusion via MOE (Method of Elimination):\n\n(A) Relativity is a pretty general theory that supposedly applies everywhere. (Newtonian mechanics can be achieved using the proper approximation technique.) X-out this choice.\n\n(B) An x-ray is a specific frequency in the electromagnetic spectrum. Nothing forbids an electromagnetic wave from transmitting signals, and thus this choice is out.\n\n(C) Imaginary mass? If confused, save for last comparison.\n\n(D) Historical precedence shouldn’t change the correctness of a theory (at least not in the ideal world ETS lives in)... X-this out.\n\n(E) One recalls that there’s a difference between group and phase velocities. Could this difference allow one of them to exceed the speed of light? Probably. In either case, this is a much better choice than the other remaining candidate, choice (C). So, choose this.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            24
+          ]
+        },
+        "notes": [
+          "The explanation's statement that group velocity can exceed the speed of light and its claim that group velocity is used in $n=c/v$ are scientifically imprecise for x-rays in rock salt. Preserved the source's explanation."
+        ]
+      },
+      "sourceQuestionId": "gr8677-072",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-147"
+    },
+    {
+      "id": "specialtopics-039",
+      "number": 39,
+      "markdown": "39. A fast charged particle passes perpendicularly through a thin glass sheet of index of refraction 1.5. The particle emits light in the glass. The minimum speed of the particle is\n\n(A) $\\frac{1}{3}c$\n\n(B) $\\frac{4}{9}c$\n\n(C) $\\frac{5}{9}c$\n\n(D) $\\frac{2}{3}c$\n\n(E) $c$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 69 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-069",
+      "topic": "光学与光谱",
+      "parentQuestionId": "concepts-155"
+    },
+    {
+      "id": "specialtopics-040",
+      "number": 40,
+      "markdown": "40. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\n\n(A) Specific heat  \n(B) Thermal conductivity  \n(C) Electrical resistivity  \n(D) Magnetic susceptibility  \n(E) Hall coefficient",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          23
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 66 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-066",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-093"
+    },
+    {
+      "id": "specialtopics-041",
+      "number": 41,
+      "markdown": "41. The magnetic field inside a long coil of wire (solenoid) has a certain magnitude and direction when the coil is air filled. If a diamagnetic material is inserted in the coil, how do the magnitude and direction of the magnetic field change?\n\n| Choice | Magnitude | Direction |\n|---|---|---|\n| (A) | Increases | Same |\n| (B) | Increases | Opposite |\n| (C) | Decreases | Same |\n| (D) | Decreases | Opposite |\n| (E) | No change | Opposite |",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR1777_2017.pdf",
+        "pages": [
+          78
+        ],
+        "markdown": "data/mineru/markdown/GR1777_2017.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1777 第 96 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1777-096",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-094"
+    },
+    {
+      "id": "specialtopics-042",
+      "number": 42,
+      "markdown": "42. In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a\n\n(A) square  \n(B) hexagon  \n(C) cube  \n(D) tetrahedron  \n(E) octahedron",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 43 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-043",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-095"
+    },
+    {
+      "id": "specialtopics-043",
+      "number": 43,
+      "markdown": "43. According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\n\n(A) the weak nuclear force  \n(B) the strong nuclear force  \n(C) vacuum polarization  \n(D) interactions with the ionic lattice  \n(E) the Casimir effect",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 44 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-044",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-096"
+    },
+    {
+      "id": "specialtopics-044",
+      "number": 44,
+      "markdown": "44. Which of the following ions CANNOT be used as a dopant in germanium to make an $n$-type semiconductor?\n\n(A) As\n\n(B) P\n\n(C) Sb\n\n(D) B\n\n(E) N",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 96 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-096",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-097"
+    },
+    {
+      "id": "specialtopics-045",
+      "number": 45,
+      "markdown": "45. The conventional unit cell of a body-centered cubic Bravais lattice is shown in the figure below. The conventional cell has volume $a^3$. What is the volume of the primitive unit cell?\n\n![Body-centered cubic unit cell](images/2c31985fdf63237d47d2b654.jpg)\n\n(A) $a^3/8$  \n(B) $a^3/4$  \n(C) $a^3/2$  \n(D) $a^3$  \n(E) $2a^3$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/2c31985fdf63237d47d2b654.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 52 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 52\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nRecall the definition of a primitive cell to be the unit cell divided by the number of lattice points in a Bravais lattice. A Bravais lattice is just a lattice that looks isotropic from any point—everywhere the same no matter the point-perspective.\n\nSimple cubic has 1 lattice point to generate its Bravais lattice.\n\nBody-centered cubic has 2 lattice points to generate its Bravais lattice. (One can keep on tessellating a lattice point on one corner and the lattice point on the body center to generate the whole BCC lattice.)\n\nFace-centered cubic has 4 lattice points to generate its Bravais lattice. (One can keep on tessellating the lattice point on each face surrounding a corner lattice point.)\n\nSo, anyway, from the above, one finds choice (C) for BCC’s unit cell.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-052",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-098"
+    },
+    {
+      "id": "specialtopics-046",
+      "number": 46,
+      "markdown": "46. Which of the following best represents the temperature dependence of the resistivity of an undoped semiconductor?\n\n(A) ![Option A](images/a2b664a35f45785dbe1430f1.jpg)\n\n(B) ![Option B](images/1b0315f2c1fd4962b0328436.jpg)\n\n(C) ![Option C](images/8910fc625f3f5bac27e94e71.jpg)\n\n(D) ![Option D](images/002e63cb943084f3fded4bb6.jpg)\n\n(E) ![Option E](images/bcd6e81cfd389e18e9dfb487.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/a2b664a35f45785dbe1430f1.jpg",
+        "images/1b0315f2c1fd4962b0328436.jpg",
+        "images/8910fc625f3f5bac27e94e71.jpg",
+        "images/002e63cb943084f3fded4bb6.jpg",
+        "images/bcd6e81cfd389e18e9dfb487.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 53 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 53\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nFrom Ibach and Luch, one finds that the resistivity of a semiconductor varies as $1/T$.\n\n(Also, from elementary electrodynamics, one recalls the resistivity equation $\\rho(T_2) = \\rho(T_1)(1 + \\alpha \\Delta T)$. Semiconductors have a negative coefficient of resistivity $\\alpha$, and thus the resistivity should decrease with increasing $T$. The only graph that shows this behavior of decreasing resistivity with $T$ is (B).)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            14
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-053",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-099"
+    },
+    {
+      "id": "specialtopics-047",
+      "number": 47,
+      "markdown": "47. The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than $kT$ because\n\n(A) electrons have many more degrees of freedom than atoms do  \n(B) the electrons and the lattice are not in thermal equilibrium  \n(C) the electrons form a degenerate Fermi gas  \n(D) electrons in metals are highly relativistic  \n(E) electrons interact strongly with phonons",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 76 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 76\n\n**Subject Type**\n\nAdvanced Topics → Solid State Physics\n\nElimination time:\n\n(A) Electrons have fewer degrees of freedom than free atoms, since electrons are bound to potential wells.\n\n(B) Why not?\n\n(C) The electrons do indeed form a degenerate Fermi gas, since the ratio of the fraction of electrons in the ground state is given by $N_0/N=1-(T/T_F)^{3/2}$, where $T_F\\approx30{,}000\\,\\mathrm{K}$ for most metals.\n\n(D) The electrons in metal travel at a drift velocity of about $10^{-6}\\,\\mathrm{m/s}$. Not quite fast enough to be relativistic.\n\n(E) Electron interaction with phonons has nothing to do with their mean kinetic energy.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            20,
+            21
+          ]
+        },
+        "notes": [
+          "The original solution’s wording “the ratio of the fraction of electrons in the ground-state” is unclear; it is retained in a minimally repaired form without changing the stated formula or claim."
+        ]
+      },
+      "sourceQuestionId": "gr0177-076",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-100"
+    },
+    {
+      "id": "specialtopics-048",
+      "number": 48,
+      "markdown": "48. In an $n$-type semiconductor, which of the following is true of impurity atoms?\n\n(A) They accept electrons from the filled valence band into empty energy levels just above the valence band.\n\n(B) They accept electrons from the filled valence band into empty energy levels just below the valence band.\n\n(C) They accept electrons from the conduction band into empty energy levels just below the conduction band.\n\n(D) They donate electrons to the filled valence band from donor levels just above the valence band.\n\n(E) They donate electrons to the conduction band from filled donor levels just below the conduction band.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 78 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 78\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nA n-type semiconductor is a material with negative-charge carriers, such as electrons. A p-type semiconductor is a material with positive-charge carriers, such as holes (positrons).\n\nIn band theory, n-type semiconductor impurities are (electron) donors, while p-type semiconductor impurities are (electron) acceptors.\n\nThe setup is as follows:\n\nImpurities add more levels to the energy bands. Without impurities, one has just a valence band and a conduction band with an energy gap in between. The impurities supply an extra energy level between the conduction and valence bands. In an n-type semiconductor, the material becomes conducting when there are electrons in the conduction band; the impurity helps the material become conducting by supplying it with electrons.\n\nEssentially, one starts with a lattice of pure semiconductor atoms, say silicon. Silicon has four valence electrons and forms a decent crystal lattice. Pluck out a few silicon atoms and replace them with impurities, like arsenic, which has five valence electrons. The extra electron from each impurity atom is free to roam around. In fact, these extra electrons act as donors to the conduction band. This is choice (E).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        "notes": [
+          "The explanation incorrectly describes holes as positrons; retained as written because this is a conceptual claim in the source, not an OCR error."
+        ]
+      },
+      "sourceQuestionId": "gr9677-078",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-101"
+    },
+    {
+      "id": "specialtopics-049",
+      "number": 49,
+      "markdown": "49. Which of the following curves is characteristic of the specific heat $C_v$ of a metal such as lead, tin, or aluminum in the temperature region where it becomes superconducting?\n\n(A)\n\n![Option A: specific heat curve](images/8db275554dd49b8d5fe0c021.jpg)\n\n(B)\n\n![Option B: specific heat curve](images/440312f4df4338955edea7d1.jpg)\n\n(C)\n\n![Option C: specific heat curve](images/d0d563f15ce8a2663f38cbc7.jpg)\n\n(D)\n\n![Option D: specific heat curve](images/bd9d7ea657b5d3833aa7e0b4.jpg)\n\n(E)\n\n![Option E: specific heat curve](images/e20a4e76260a85f8ff5ddbb7.jpg)",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/8db275554dd49b8d5fe0c021.jpg",
+        "images/440312f4df4338955edea7d1.jpg",
+        "images/d0d563f15ce8a2663f38cbc7.jpg",
+        "images/bd9d7ea657b5d3833aa7e0b4.jpg",
+        "images/e20a4e76260a85f8ff5ddbb7.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 95 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 95\n\n## Subject Type\n\nAdvanced Topics → Solid State Physics\n\nThe specific heat of a superconductor jumps at the critical temperature (c.f. with its resistivity jump).\n\nOrdinarily, the specific heat of a metal is $c=aT+bT^3$. When it is superconducting, the first term, the electronic contribution, is replaced by approximately $e^{-c/T}$. The revised plot of the specific heat has a jump from an exponentially increasing specific heat to a much lower value somewhere in the range for positive $T$.\n\nReference: Ibach and Luth p. 270f.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            28
+          ]
+        },
+        "notes": [
+          "The source writes the superconducting electronic contribution as approximately $e^{-cT}$, which appears physically suspect; it has been corrected to the conventional low-temperature activated form $e^{-c/T}$. The source’s wording about the direction of the jump is retained."
+        ]
+      },
+      "sourceQuestionId": "gr9677-095",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-102"
+    },
+    {
+      "id": "specialtopics-050",
+      "number": 50,
+      "markdown": "50. Solid argon is held together by which of the following bonding mechanisms?\n\n(A) Ionic bond only\n(B) Covalent bond only\n(C) Partly covalent and partly ionic bond\n(D) Metallic bond\n(E) van der Waals bond",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 24 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-024",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-103"
+    },
+    {
+      "id": "specialtopics-051",
+      "number": 51,
+      "markdown": "51. Lattice forces affect the motion of electrons in a metallic crystal, so that the relationship between the energy $E$ and wave number $k$ is not the classical equation $E = \\hbar^2 k^2/2m$, where $m$ is the electron mass. Instead, it is possible to use an effective mass $m^*$ given by which of the following?\n\n(A) $m^* = \\frac{1}{2}\\hbar^2 k\\left(\\frac{dk}{dE}\\right)$\n\n(B) $m^* = \\frac{\\hbar^2 k}{\\left(\\frac{dk}{dE}\\right)}$\n\n(C) $m^* = \\hbar^2 k\\left(\\frac{d^2 k}{dE^2}\\right)^{1/3}$\n\n(D) $m^* = \\frac{\\hbar^2}{\\left(\\frac{d^2 E}{dk^2}\\right)}$\n\n(E) $m^* = \\frac{1}{2}\\hbar^2 m^2\\left(\\frac{d^2 E}{dk^2}\\right)$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          27
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 97 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-097",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-104"
+    },
+    {
+      "id": "specialtopics-052",
+      "number": 52,
+      "markdown": "52. Which of the following statements concerning the electrical conductivities at room temperature of a pure copper sample and a pure silicon sample is NOT true?\n\n(A) The conductivity of the copper sample is many orders of magnitude greater than that of the silicon sample.\n(B) If the temperature of the copper sample is increased, its conductivity will decrease.\n(C) If the temperature of the silicon sample is increased, its conductivity will increase.\n(D) The addition of an impurity in the copper sample always decreases its conductivity.\n(E) The addition of an impurity in the silicon sample always decreases its conductivity.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          6
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 23 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 23\n\n## Subject Type\n\nAdvanced Topics → Solid State\n\nActually, one can figure this one out with only knowledge of lower-division physics.\n\n(A) Electrical conductivities for conductors, semiconductors, and insulators go (in general), like this: $k_c>k_s>k_i$. Thus, copper should be more conductive than silicon. This is true (but one is trying to find a false statement).\n\n(B) The resistivity $\\rho=\\rho_0(1+\\alpha\\Delta T)$, thus the conductivity, $\\sigma=1/\\rho\\propto1/(\\Delta T)$. As $T$ increases, $\\sigma$ decreases. This is true.\n\n(C) Silicon is a semiconductor, and thus it probably does not follow the same relations as (B). In fact, semiconductors have negative temperature coefficient of resistivity, $\\alpha$. Thus, $\\rho<\\rho_0$, which implies that $\\sigma>\\sigma_0$ for a temperature increase.\n\n(D) Doping a conductor like copper will just make it cheap. Think of cheap wire.\n\n(E) Doping a semiconductor, however, can make it more conductive.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            9
+          ]
+        },
+        "notes": [
+          "The solution’s proportionality $\\sigma\\propto1/(\\Delta T)$ omits the factor $\\rho_0$ and treats a linear resistivity relation as a proportionality; retained the source’s explanation without changing its intended claim."
+        ]
+      },
+      "sourceQuestionId": "gr8677-023",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-105"
+    },
+    {
+      "id": "specialtopics-053",
+      "number": 53,
+      "markdown": "53. Materials that are good electrical conductors also tend to be good thermal conductors because\n\n(A) they have highly elastic lattice structures\n\n(B) they have energy gaps between the allowed electron energy bands\n\n(C) impurities aid both processes\n\n(D) surface states are important in both processes\n\n(E) conduction electrons contribute to both processes",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 25 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-025",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-106"
+    },
+    {
+      "id": "specialtopics-054",
+      "number": 54,
+      "markdown": "54. One feature common to both the Debye theory and the Einstein theory of the specific heat of a crystal composed of $N$ identical atoms is that the\n\n(A) average energy of each atom is $3kT$\n\n(B) vibrational energy of the crystal is equivalent to the energy of $3N$ independent harmonic oscillators\n\n(C) crystal is assumed to be continuous for all elastic waves\n\n(D) speed of the longitudinal elastic waves is less than the speed of the transverse elastic waves\n\n(E) upper cutoff frequency of the elastic waves is the same",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 51 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 51\n\n## Subject Type\n\nStatistical Mechanics → Specific Heat\n\nBoth Debye and Einstein assumed that there are $3N$ oscillators. (In fact, one can argue that the core of condensed matter begins with the assumption that a continuum piece of matter is basically a tiny mattress—a bunch of springs laden together.) Answer is thus (B).\n\nHowever, Einstein was too lazy, and he decided that all $3N$ oscillators have the same frequency. Debye assigned a spectrum of frequencies (phonons).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            17
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-051",
+      "topic": "材料与凝聚态",
+      "parentQuestionId": "concepts-172"
+    },
+    {
+      "id": "specialtopics-055",
+      "number": 55,
+      "markdown": "55. Consider a heavy nucleus with spin $\\frac{1}{2}$. The magnitude of the ratio of the intrinsic magnetic moment of this nucleus to that of an electron is\n\n(A) zero, because the nucleus has no intrinsic magnetic moment\n\n(B) greater than 1, because the nucleus contains many protons\n\n(C) greater than 1, because the nucleus is so much larger in diameter than the electron\n\n(D) less than 1, because of the strong interactions among the nucleons in a nucleus\n\n(E) less than 1, because the nucleus has a mass much larger than that of the electron",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 77 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-077",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-040"
+    },
+    {
+      "id": "specialtopics-056",
+      "number": 56,
+      "markdown": "56. The binding energy per nucleon is greatest for which of the following nuclei?\n\n(A) $^3_2\\mathrm{He}$\n\n(B) $^4_2\\mathrm{He}$\n\n(C) $^{56}_{26}\\mathrm{Fe}$\n\n(D) $^{235}_{92}\\mathrm{U}$\n\n(E) $^{238}_{92}\\mathrm{U}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 56 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-056",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-107"
+    },
+    {
+      "id": "specialtopics-057",
+      "number": 57,
+      "markdown": "57. The negative muon, $\\mu^-$, has properties most similar to which of the following?\n\n(A) Quark\n\n(B) Boson\n\n(C) Photon\n\n(D) Meson\n\n(E) Electron",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 57 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-057",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-108"
+    },
+    {
+      "id": "specialtopics-058",
+      "number": 58,
+      "markdown": "58. Which of the following correctly gives the quark and antiquark content of a lepton and a baryon?\n\n|  | Lepton: Quarks | Lepton: Antiquarks | Baryon: Quarks | Baryon: Antiquarks |\n|---|---:|---:|---:|---:|\n| (A) | 0 | 0 | 3 | 0 |\n| (B) | 0 | 0 | 1 | 1 |\n| (C) | 1 | 0 | 1 | 1 |\n| (D) | 1 | 1 | 2 | 0 |\n| (E) | 1 | 1 | 3 | 0 |",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/ETS_Current_GR1775_70Q.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/ETS_Current_GR1775_70Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1775 第 58 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1775-058",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-109"
+    },
+    {
+      "id": "specialtopics-059",
+      "number": 59,
+      "markdown": "59. Electromagnetic radiation emitted from a nucleus is most likely to be in the form of\n\n(A) gamma rays\n\n(B) microwaves\n\n(C) ultraviolet radiation\n\n(D) visible light\n\n(E) infrared radiation",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR1777_2017.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR1777_2017.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR1777 第 27 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr1777-027",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-110"
+    },
+    {
+      "id": "specialtopics-060",
+      "number": 60,
+      "markdown": "60. The nuclear decay above is an example of a process induced by the\n\n$$\n{}^{13}\\mathrm{N}\\rightarrow{}^{13}\\mathrm{C}+e^{+}+\\nu_e\n$$\n\n(A) Mössbauer effect\n\n(B) Casimir effect\n\n(C) photoelectric effect\n\n(D) weak interaction\n\n(E) strong interaction",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 63 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-063",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-111"
+    },
+    {
+      "id": "specialtopics-061",
+      "number": 61,
+      "markdown": "61. The discovery of the $J/\\psi$ particle was especially significant because it provided evidence for which of the following?\n\n(A) Parity violation in weak interactions  \n(B) Massive neutrinos  \n(C) Higgs bosons  \n(D) Charmed quarks  \n(E) Strange quarks",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 73 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-073",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-113"
+    },
+    {
+      "id": "specialtopics-062",
+      "number": 62,
+      "markdown": "62. Which of the following is the principal decay mode of the positive muon $\\mu^+$?\n\n(A) $\\mu^+ \\to e^+ + \\nu_e$\n\n(B) $\\mu^+ \\to p + \\nu_\\mu$\n\n(C) $\\mu^+ \\to n + e^+ + \\nu_e$\n\n(D) $\\mu^+ \\to e^+ + \\nu_e + \\bar{\\nu}_\\mu$\n\n(E) $\\mu^+ \\to \\pi^+ + \\bar{\\nu}_e + \\nu_\\mu$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 98 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-098",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-114"
+    },
+    {
+      "id": "specialtopics-063",
+      "number": 63,
+      "markdown": "63. The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is $c^2$ times the mass difference between\n\n(A) two hydrogen atoms and one helium atom  \n(B) four hydrogen atoms and one helium atom  \n(C) six hydrogen atoms and two helium atoms  \n(D) three helium atoms and one carbon atom  \n(E) two hydrogen atoms plus two helium atoms and one carbon atom",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 19 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 19\n\nSubject Type\n\nAdvanced Topics → Astrophysics\n\nIt takes 4 H’s to create a Helium nucleus in the sun’s primary thermonuclear reactions. One either remembers this or can derive it from conservation of mass. The atomic mass of Hydrogen is 1 (since it has just 1 proton), while the atomic mass of Helium is 4 (2 protons, 2 neutrons).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            6,
+            7
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-019",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-115"
+    },
+    {
+      "id": "specialtopics-064",
+      "number": 64,
+      "markdown": "64. When $^{7}_{4}\\mathrm{Be}$ transforms into $^{7}_{3}\\mathrm{Li}$, it does so by\n\n(A) emitting an alpha particle only  \n(B) emitting an electron only  \n(C) emitting a neutron only  \n(D) emitting a positron only  \n(E) electron capture by the nucleus with emission of a neutrino",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 68 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 68\n\n## Subject Type\n\nAdvanced Topics → Decay\n\nSince Lithium has one less electron than Be, one might think this decay is just beta-decay. However, beta-decay always occurs with a neutrino or anti-neutrino, and none of the choices show this.\n\nBeta-decay emits either an electron or positron with an antineutrino or neutrino:\n\n$$\n{}^{A}_{Z}N \\rightarrow {}^{A}_{Z-1}M + \\beta^{+} + \\nu\n$$\n\n$$\n{}^{A}_{Z}N \\rightarrow {}^{A}_{Z+1}M + \\beta^{-} + \\bar{\\nu}\n$$\n\n(The bit on antineutrinos and neutrinos has to do with conservation of Electron Lepton number $L_e$. Namely, electrons and neutrinos have $L_e = 1$, while positrons and antineutrinos have $L_e = -1$.)\n\n(Also, $\\alpha$-decay emits a Helium atom with 4 neutrons and 2 protons, so the numbers won’t work out here.)\n\nThe remaining choice is (E). One can check that it’s right by noting that it is the only choice that conserves the electron-lepton number.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            18
+          ]
+        },
+        "notes": [
+          "The explanation’s statement that alpha decay emits a Helium atom is imprecise; preserved the original wording and particle counts."
+        ]
+      },
+      "sourceQuestionId": "gr0177-068",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-116"
+    },
+    {
+      "id": "specialtopics-065",
+      "number": 65,
+      "markdown": "65. The muon decays with a characteristic lifetime of about $10^{-6}$ second into an electron, a muon neutrino, and an electron antineutrino. The muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of\n\n(A) charge  \n(B) mass  \n(C) energy and momentum  \n(D) baryon number  \n(E) lepton number",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 78 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 78\n\n**Subject Type**\n\nAdvanced Topics → Particle Physics\n\nA few lines from the Particle Physics chapter of my upcoming book (title tentative, to be publicized on this website eventually), *Reviewing Forgotten Physics for the GRE, Prelim’s and Qualifier’s*:\n\nBaryons and mesons are hadrons. (Hadrons are particles that interact with the strong nuclear force.) Baryons have a baryon number of $B=\\pm1$, while mesons have $B=0$. Nucleons (which are baryons) have $B=1$, while antinucleons (antineutrons and antiprotons) have $B=-1$.\n\nLeptons (electrons, neutrinos, muons, and tau’s) interact with the weak nuclear force. There are three kinds of lepton numbers. There is the electron lepton number $L_e$ and there is a muon lepton number, as well as a neutrino lepton number.\n\nElectrons $\\beta^-$ and the electron neutrino $\\nu_e$ have $L_e=1$, while positrons (antielectrons) $\\beta^+$ and the electron antineutrino $\\bar\\nu_e$ have $L_e=-1$. All other particles have $L_e=0$.\n\nConservation of baryon number or lepton number is just summing up either the baryon number or the lepton number on both sides of the reaction.\n\nConservation of the numbers above explains why a reaction like $\\mu\\to\\beta^-+\\nu_\\mu+\\bar\\nu_e$ must occur in lieu of $\\mu\\to\\beta^-+\\bar\\nu_e$, $\\mu\\to\\beta^-+\\nu_e$, $\\mu\\to\\beta^-+\\bar\\nu_\\mu$, or $\\mu\\to\\beta^-+\\nu_\\mu$.\n\nFor the first reaction, the electron lepton numbers are $0\\to1+0-1$, and thus $L_e$ is conserved. (Muon lepton numbers are $1\\to0+1+0$.)\n\nFor the second reaction, the muon lepton numbers are $1\\to0+0$, but that does not add up, and so $L_\\mu$ is not conserved.\n\nFor the third reaction, the electron lepton numbers are $0\\to1+1$, but that does not add up, and so $L_e$ is not conserved.\n\nAs an exercise, one can calculate the fourth and fifth reaction.\n\n(If you’re beginning to feel like this is more alchemy than physics, then note that the Standard Model of particle physics is just a transitory theory, like alchemy was to chemistry. It is to be replaced soon with a less ad-hoc theory, perhaps by you.)\n\nWith respect to this question on the GRE exam, one sees that lepton number would not be conserved for any of the possible cases of the latter reactions.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            21
+          ]
+        },
+        "notes": [
+          "The prose says there are three kinds of lepton numbers but then names electron and muon lepton numbers plus a “neutrino lepton number”; modern flavor lepton numbers are conventionally electron, muon, and tau. Preserved as written because this is the source author’s explanation, not the question stem."
+        ]
+      },
+      "sourceQuestionId": "gr0177-078",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-117"
+    },
+    {
+      "id": "specialtopics-066",
+      "number": 66,
+      "markdown": "66. When the beta decay of ${}^{60}\\mathrm{Co}$ nuclei is observed at low temperatures in a magnetic field that aligns the spins of the nuclei, it is found that the electrons are emitted preferentially in a direction opposite to the ${}^{60}\\mathrm{Co}$ spin direction. Which of the following invariances is violated by this decay?\n\n(A) Gauge invariance\n(B) Time invariance\n(C) Translation invariance\n(D) Reflection invariance\n(E) Rotation invariance",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 34 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 34\n\n## Subject Type\n\nAdvanced Topics → Particle Physics\n\nRegularly, electrons are emitted in any direction. Thus, there is infinite symmetry. In the case of a magnetic field, electrons are more likely to be emitted in a direction opposite to the spin direction of the decaying atom. Place the atom in an x-y plane, with its spin-direction pointing along the z-axis. If the electron is mostly emitted in the -z axis, then reflection symmetry is violated since it’s not (mostly) emitted in the +z axis, i.e., not mirrored across the x-y plane. Choice (D). (This is due to Joe Bradley.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            11
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-034",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-118"
+    },
+    {
+      "id": "specialtopics-067",
+      "number": 67,
+      "markdown": "67. Positronium is the bound state of an electron and a positron. Consider only the states of zero orbital angular momentum ($\\ell=0$). The most probable decay product of any such state of positronium with spin zero (singlet) is\n\n(A) 0 photons\n\n(B) 1 photon\n\n(C) 2 photons\n\n(D) 3 photons\n\n(E) 4 photons",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 53 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 53\n\n**Subject Type**\n\n*Advanced Topics → Particle Physics*\n\nOne can ignore baryon numbers and lepton numbers and all that and just deal with spin conservation. For the positronium-electron spin singlet state, one has, initially, $s_i=0$. The decay must conserve spin. Thus, one must have the final spin as $s_f=0$. Since a photon is its own antiparticle (and antiparticles have the negation of the usual particle’s quantum number), the photon has spin $s_p=1$ and the ant photon (just another photon) has spin $s_{\\bar p}=-1$. Thus, two photons are emitted to conserve spin.\n\n(Wheee... can one get more ad hoc than the Standard Model?)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            16
+          ]
+        },
+        "notes": [
+          "The source's spin-conservation explanation is simplified and potentially misleading: photon spin projections and angular-momentum conservation require more care. Preserved the original reasoning rather than rewriting the explanation."
+        ]
+      },
+      "sourceQuestionId": "gr9677-053",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-119"
+    },
+    {
+      "id": "specialtopics-068",
+      "number": 68,
+      "markdown": "68. According to the Standard Model of elementary particles, which of the following is NOT a composite object?\n\n(A) Muon\n(B) Pi-meson\n(C) Neutron\n(D) Deuteron\n(E) Alpha particle",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 63 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 63\n\n## Subject Type\n\nAdvanced Topics → Particle Physics\n\nIf one knows little about particle physics, one can make (at least) the following deductions by recalling the constituents of each particle:\n\n(A) A muon is a lepton. Leptons, along with quarks, are considered fundamental particles.\n\n(B) A pi meson consists of a quark and its antiparticle. (Contribution to this part of the solution is due to user danty.) Moreover, a pi meson is a hadron. Hadrons interact via the strong force, and all of them are composed of combinations of quarks. (The fundamental particles are classified as quarks and leptons.)\n\n(C) A neutron is made up of three quarks.\n\n(D) A deuteron consists of a proton and a neutron. (Tritium consists of two neutrons and a proton, while ordinary hydrogen consists of an electron and a proton.)\n\n(E) An alpha particle consists of two protons and two neutrons.\n\nChoice (A) remains. Choose that.\n\nIf one has some time, one might want to remember the elementary particles involved in the Standard Model. There are six quarks and six leptons. Three of the leptons are neutrinos, and the other three are the electron, the tau, and the muon. (Also, in a decay similar to beta decay, a muon is emitted instead of an electron. Charge conservation works since a muon is like an electron except it is about 200 times more massive.)\n\nWikipedia has a good reference on this:\n\nhttp://en.wikipedia.org/wiki/Fundamental_particle\n\nProblem 78 in GR0177 also has a good extended review of this:\n\nhttp://grephysics.net/disp.php?yload=prob&serial=3&prob=78&Submit=Go%21",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            18,
+            19
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-063",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-120"
+    },
+    {
+      "id": "specialtopics-069",
+      "number": 69,
+      "markdown": "69. In experiments located deep underground, the two types of cosmic rays that most commonly reach the experimental apparatus are\n\n(A) alpha particles and neutrons  \n(B) protons and electrons  \n(C) iron nuclei and carbon nuclei  \n(D) muons and neutrinos  \n(E) positrons and electrons",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 25 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-025",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-121"
+    },
+    {
+      "id": "specialtopics-070",
+      "number": 70,
+      "markdown": "70. The particle decay $\\Lambda \\rightarrow p + \\pi^{-}$ must be a weak interaction because\n\n(A) the $\\pi^{-}$ is a lepton  \n(B) the $\\Lambda$ has spin zero  \n(C) no neutrino is produced in the decay  \n(D) it does not conserve angular momentum  \n(E) it does not conserve strangeness",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 91 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-091",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-123"
+    },
+    {
+      "id": "specialtopics-071",
+      "number": 71,
+      "markdown": "71. Suppose that ${}^{A}_{Z}X$ decays by natural radioactivity in two stages to ${}^{A-4}_{Z-1}Y$. The two stages would most likely be which of the following?\n\n| First Stage | Second Stage |\n|---|---|\n| (A) $\\beta^{-}$ emission with an antineutrino | $\\alpha$ emission |\n| (B) $\\beta^{-}$ emission | $\\alpha$ emission with a neutrino |\n| (C) $\\beta^{-}$ emission | $\\gamma$ emission |\n| (D) Emission of a deuteron | Emission of two neutrons |\n| (E) $\\alpha$ emission | $\\gamma$ emission |",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          6
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 17 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 17\n\n## Subject Type\n\nAdvanced Topics → Radioactivity\n\n$X_Z^A\\longrightarrow ?\\longrightarrow ?\\;Y_{Z-1}^{A-4}$ by natural decay\n\nRecall the following decay processes, and recall that the subscripts and superscripts have to balance on both sides of the arrow.\n\nBeta ($\\beta^-$) decay:\n\n$$X_Z^A\\rightarrow X_{Z+1}^{\\prime A}+\\beta_{-1}^{0}+\\bar{\\nu}\\tag{12}$$\n\nwhere $\\bar{\\nu}$ is the symbol of an antineutrino. (The $\\beta^+$ decay is accompanied by a neutrino, $\\nu$, instead of an antineutrino.)\n\nAlpha decay:\n\n$$X_Z^A\\rightarrow X_{Z-2}^{\\prime A-4}+He_2^4\\tag{13}$$\n\nGamma decay (no change in $A$ or $Z$):\n\n$$X_Z^A\\rightarrow X_Z^A+\\gamma\\tag{14}$$\n\nDeuteron decay (rare):\n\n$$X_Z^A\\rightarrow X_{Z-1}^{A-2}+H_1^2\\tag{15}$$\n\n(A) $X_Z^A\\to X_{Z+1}^{A}+\\beta_{-1}^{0}\\to X_{Z-1}^{\\prime A-4}+He_2^4\\to Y_{Z-1}^{A-4}$. This works out.\n\n(B) $\\beta^-$ decay always occurs with an antineutrino.\n\n(C) $\\gamma$ emission doesn’t change the atomic number.\n\n(D) Although the numbers work out here, deuteron decay is rare, thus not natural.\n\n(E) The subscripts and superscripts don’t add up.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            7
+          ]
+        },
+        "notes": [
+          "The source’s general beta-decay equation includes an antineutrino, while option (A) omits it in its intermediate step. Both are retained as printed in the source; the option is not silently corrected."
+        ]
+      },
+      "sourceQuestionId": "gr8677-017",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-124"
+    },
+    {
+      "id": "specialtopics-072",
+      "number": 72,
+      "markdown": "72. The ratio of the nuclear radius to the atomic radius of an element near the middle of the periodic table is most nearly\n\n(A) $10^{-2}$\n(B) $10^{-5}$\n(C) $10^{-8}$\n(D) $10^{-11}$\n(E) $10^{-14}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 11 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-011",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-125"
+    },
+    {
+      "id": "specialtopics-073",
+      "number": 73,
+      "markdown": "73. The nonconservation of parity in the decay $\\pi^+ \\to \\mu^+ + \\nu$ can be verified by measuring the\n\n(A) $Q$-value of the decay\n\n(B) longitudinal polarization of the $\\mu^+$\n\n(C) longitudinal polarization of the $\\pi^+$\n\n(D) angular correlation between the $\\mu^+$ and the $\\nu$\n\n(E) time dependence of the decay process",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 26 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-026",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-126"
+    },
+    {
+      "id": "specialtopics-074",
+      "number": 74,
+      "markdown": "74. Which of the following reasons explains why a photon cannot decay to an electron and a positron ($\\gamma \\rightarrow e^{+} + e^{-}$) in free space?\n\n(A) Linear momentum and energy are not both conserved.\n\n(B) Linear momentum and angular momentum are not both conserved.\n\n(C) Angular momentum and parity are not both conserved.\n\n(D) Parity and strangeness are not both conserved.\n\n(E) Charge and lepton number are not both conserved.",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          68
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 96 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 96\n\n## Subject Type\n\nSpecial Relativity → Maximal Velocity\n\nConservation of momentum yields $p=2\\gamma m_e v$, where $p$ is the momentum of the photon.\n\nConservation of energy yields $pc=2\\gamma m_ec^2$. Plug in the above equation for momentum to get $2\\gamma m_evc=2\\gamma m_ec^2$. This occurs when $v=c$. Since $v$ is the velocity of the electron, and since according to relativity, only a photon (to wit: a massless particle) can move at the speed of light—one of the conservation laws is not conserved!\n\nThis is choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            28
+          ]
+        },
+        "notes": [
+          "The source solution’s phrasing about conservation is imprecise: the kinematic contradiction shows the proposed decay cannot satisfy both energy and momentum conservation. The original explanation and stated choice (A) are retained."
+        ]
+      },
+      "sourceQuestionId": "gr9677-096",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-153"
+    },
+    {
+      "id": "specialtopics-075",
+      "number": 75,
+      "markdown": "75. If a newly discovered particle $X$ moves with a speed equal to the speed of light in vacuum, then which of the following must be true?\n\n(A) The rest mass of $X$ is zero.\n(B) The spin of $X$ equals the spin of a photon.\n(C) The charge of $X$ is carried on its surface.\n(D) $X$ does not spin.\n(E) $X$ cannot be detected.",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR8677_1986.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR8677_1986.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR8677 第 68 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 68\n\n## Subject Type\n\nSpecial Relativity → Relativistic Energy\n\nThe relativistic energy relation is,\n\n$$\nE = \\sqrt{p^2c^2 + m^2c^4}.\\tag{72}\n$$\n\nAs the speed of a particle $v \\to c$, $E \\to pc$, since by the de Broglie relation, $p = h/\\lambda = h\\nu/c = E/c$. Plug in the requirement into the energy relation to find that $m \\to 0$, as in choice (A).",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR8677_Yosun.pdf",
+          "pages": [
+            22,
+            23
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr8677-068",
+      "topic": "核与粒子",
+      "parentQuestionId": "concepts-159"
+    },
+    {
+      "id": "specialtopics-076",
+      "number": 76,
+      "markdown": "76. An atom has filled $n = 1$ and $n = 2$ levels. How many electrons does the atom have?\n\n(A) 2  \n(B) 4  \n(C) 6  \n(D) 8  \n(E) 10",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 6 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-006",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-026"
+    },
+    {
+      "id": "specialtopics-077",
+      "number": 77,
+      "markdown": "77. The ground state electron configuration for phosphorus, which has 15 electrons, is\n\n(A) $1s^2 2s^2 2p^6 3s^1 3p^4$  \n(B) $1s^2 2s^2 2p^6 3s^2 3p^3$  \n(C) $1s^2 2s^2 2p^6 3s^2 3d^3$  \n(D) $1s^2 2s^2 2p^6 3s^1 3d^4$  \n(E) $1s^2 2s^2 2p^6 3p^2 3d^3$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0177_2001.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0177_2001.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0177 第 17 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 17\n\n## Subject Type\n\nAtomic → Orbital Config\n\nFirst, check that all choices have superscripts that add to 15. That’s apparently so, so one can’t easily eliminate choices based on that.\n\nSince the problem has electrons in the ground state, choices (D) and (A) cannot be it—no electrons are promoted from the s to higher orbitals. s has to be filled first.\n\nChoice (E) skips the 3s states completely, so that’s out.\n\nOne should have an approximate idea of what the periodic table looks like. The transitional (d-state) elements do not occur until after 4s. Even so, the first row of transitional elements is labeled 3d. Since phosphorus does not have enough electrons to qualify for a 4s or higher state, choice (B) must be right.",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR0177_Yosun.pdf",
+          "pages": [
+            6
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr0177-017",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-029"
+    },
+    {
+      "id": "specialtopics-078",
+      "number": 78,
+      "markdown": "78. Which of the following atoms has the lowest ionization potential?\n\n(A) $^{2}_{4}\\mathrm{He}$\n(B) $^{7}_{14}\\mathrm{N}$\n(C) $^{8}_{16}\\mathrm{O}$\n(D) $^{18}_{40}\\mathrm{Ar}$\n(E) $^{55}_{133}\\mathrm{Cs}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          32
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 39 题；共享材料及已有解析中的题号沿用原卷。",
+          "The nuclide labels appear to have mass number and atomic number reversed relative to standard isotope notation; they are retained as printed."
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 39\n\n## Subject Type\n\n*Atomic* → Ionization Potential\n\nAtoms with full shells have high ionization potentials—they would hardly want to lose an electron, and thus it would take a great amount of energy to ionize them. Atoms with close-to-full shells have similarly high potentials, as compared to atoms that are in the middle of the spectrum. Take Cs, with atomic number 55, for example.\n\n(A) He has a full orbital, and thus its ionization potential must be high.\n\n(B) N has a close-to-full orbital.\n\n(C) O has a close-to-full orbital.\n\n(D) Ar is a noble gas, and thus its orbital is full.\n\n(E) This is it. Cs has the lowest IP of all (of the above).\n",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            12
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-039",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-034"
+    },
+    {
+      "id": "specialtopics-079",
+      "number": 79,
+      "markdown": "79. The ground state configuration of a neutral sodium atom ($Z = 11$) is\n\n(A) $1s^2 2s^2 2p^5 3s^2$  \n(B) $1s^2 2s^3 2p^6$  \n(C) $1s^2 2s^2 2p^6 3s$  \n(D) $1s^2 2s^2 2p^6 3p$  \n(E) $1s^2 2s^2 2p^5$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9277 第 58 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr9277-058",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-037"
+    },
+    {
+      "id": "specialtopics-080",
+      "number": 80,
+      "markdown": "80. Which of the following properties of the hydrogen atom can be predicted most accurately from the simple Bohr model?\n\n(A) Energy differences between states\n(B) Angular momentum of the ground state\n(C) Degeneracy of states\n(D) Transition probabilities\n(E) Selection rules for transitions",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 HMC31 第 10 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "hmc31-010",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-047"
+    },
+    {
+      "id": "specialtopics-081",
+      "number": 81,
+      "markdown": "81. At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the temperature was 12 K, typical objects in the universe, such as galaxies, were\n\n(A) one-quarter as distant as they are today  \n(B) one-half as distant as they are today  \n(C) separated by about the same distances as they are today  \n(D) two times as distant as they are today  \n(E) four times as distant as they are today",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 20 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-020",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-150"
+    },
+    {
+      "id": "specialtopics-082",
+      "number": 82,
+      "markdown": "82. If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. What effect, if any, would this change have on the orbits of the planets?\n\n(A) The planets would move directly toward the Sun.\n\n(B) The planets would move in spiral orbits.\n\n(C) The planets would oscillate about their former elliptical orbits.\n\n(D) The orbits would precess much more rapidly.\n\n(E) The orbits would remain unchanged.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR0877 第 54 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": null,
+      "sourceQuestionId": "gr0877-054",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-151"
+    },
+    {
+      "id": "specialtopics-083",
+      "number": 83,
+      "markdown": "83. An experimenter needs to heat a small sample to 900 K, but the only available oven has a maximum temperature of 600 K. Could the experimenter heat the sample to 900 K by using a large lens to concentrate the radiation from the oven onto the sample, as shown above?\n\n![Oven, lens, and sample diagram](images/df43a33565be92df171f579c.jpg)\n\n(A) Yes, if the volume of the oven is at least 3/2 the volume of the sample.\n\n(B) Yes, if the area of the front of the oven is at least 3/2 the area of the front of the sample.\n\n(C) Yes, if the sample is placed at the focal point of the lens.\n\n(D) No, because it would violate conservation of energy.\n\n(E) No, because it would violate the second law of thermodynamics.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/df43a33565be92df171f579c.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9677_1996.pdf",
+        "pages": [
+          62
+        ],
+        "markdown": "data/mineru/markdown/GR9677_1996.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "选自 GR9677 第 91 题；共享材料及已有解析中的题号沿用原卷。"
+        ]
+      },
+      "solution": {
+        "markdown": "Problem 91\n\n## Subject Type\n\nThermodynamics → Second Law\n\nThe Second Law of thermodynamics has to do with entropy; that entropy can never decrease in the universe. One form of it states that from hot to cold things flow. A cooler body can thus never heat a hotter body. Since the oven is at a much lower temperature than the wanted sample temperature, the oven can only heat the sample to a maximum of 600 K without violating the Second Law. (This solution is due to David Latchman.)\n\n(Also, since the exam is presumably written by theorists, one can narrow down the choices to either (D) or (E), since the typical theorist’s stereotype of experimenters usually involves experimenters attempting to violate existing laws of physics—usually due to naivety.)",
+        "source": {
+          "pdf": "PGRE_Preparation_2026/Solutions_GR9677_Yosun.pdf",
+          "pages": [
+            27
+          ]
+        },
+        "notes": []
+      },
+      "sourceQuestionId": "gr9677-091",
+      "topic": "原子常识与杂项",
+      "parentQuestionId": "concepts-167"
+    }
+  ],
+  "parentExamId": "concepts"
+}

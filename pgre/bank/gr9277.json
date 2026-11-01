@@ -1,0 +1,2206 @@
+{
+  "id": "gr9277",
+  "title": "GRE Physics Test, Form GR9277",
+  "year": 1992,
+  "questionCount": 100,
+  "durationMinutes": 170,
+  "sourcePdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+  "answerSource": {
+    "page": 30,
+    "type": "official"
+  },
+  "scoredCount": 100,
+  "solutionCount": 0,
+  "questions": [
+    {
+      "id": "gr9277-001",
+      "number": 1,
+      "markdown": "1. The wave function of a particle is $e^{i(kx-\\omega t)}$, where $x$ is distance, $t$ is time, and $k$ and $\\omega$ are positive real numbers. The $x$-component of the momentum of the particle is\n\n(A) 0  \n(B) $\\hbar\\omega$  \n(C) $\\hbar k$  \n(D) $\\frac{\\hbar\\omega}{c}$  \n(E) $\\frac{\\hbar k}{\\omega}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          5
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-002",
+      "number": 2,
+      "markdown": "2. The longest wavelength x-ray that can undergo Bragg diffraction in a crystal for a given family of planes of spacing $d$ is\n\n(A) $\\frac{d}{4}$  \n(B) $\\frac{d}{2}$  \n(C) $d$  \n(D) $2d$  \n(E) $4d$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          5
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-003",
+      "number": 3,
+      "markdown": "3. The ratio of the energies of the $K$ characteristic x-rays of carbon ($Z = 6$) to those of magnesium ($Z = 12$) is most nearly\n\n(A) $\\frac{1}{4}$  \n(B) $\\frac{1}{2}$  \n(C) 1  \n(D) 2  \n(E) 4",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          5
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-004",
+      "number": 4,
+      "markdown": "## Questions 4–5\n\nThe magnitude of the Earth's gravitational force on a point mass is $F(r)$, where $r$ is the distance from the Earth's center to the point mass. Assume the Earth is a homogeneous sphere of radius $R$.\n\n4. What is $\\frac{F(R)}{F(2R)}$?\n\n(A) 32  \n(B) 8  \n(C) 4  \n(D) 2  \n(E) 1",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          5
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-005",
+      "number": 5,
+      "markdown": "## Questions 4–5\n\nThe magnitude of the Earth's gravitational force on a point mass is $F(r)$, where $r$ is the distance from the Earth's center to the point mass. Assume the Earth is a homogeneous sphere of radius $R$.\n\n5. Suppose there is a very small shaft in the Earth such that the point mass can be placed at a radius of $R/2$. What is $\\frac{F(R)}{F\\left(\\frac{R}{2}\\right)}$?\n\n(A) 8  \n(B) 4  \n(C) 2  \n(D) $\\frac{1}{2}$  \n(E) $\\frac{1}{4}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          5
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-006",
+      "number": 6,
+      "markdown": "6. ![Diagram of two wedges supporting a cube](images/7ddcdfde2251f8ca298351e9.jpg)\n\nTwo wedges, each of mass $m$, are placed next to each other on a flat floor. A cube of mass $M$ is balanced on the wedges as shown above. Assume no friction between the cube and the wedges, but a coefficient of static friction $\\mu < 1$ between the wedges and the floor. What is the largest $M$ that can be balanced as shown without motion of the wedges?\n\n(A) $\\frac{m}{\\sqrt{2}}$  \n(B) $\\frac{\\mu m}{\\sqrt{2}}$  \n(C) $\\frac{\\mu m}{1 - \\mu}$  \n(D) $\\frac{2\\mu m}{1 - \\mu}$  \n(E) All $M$ will balance.",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/7ddcdfde2251f8ca298351e9.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          6
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-007",
+      "number": 7,
+      "markdown": "7. A cylindrical tube of mass $M$ can slide on a horizontal wire. Two identical pendulums, each of mass $m$ and length $\\ell$, hang from the ends of the tube, as shown above. For small oscillations of the pendulums in the plane of the paper, the eigenfrequencies of the normal modes of oscillation of this system are $0$, $\\sqrt{\\frac{g(M+2m)}{\\ell M}}$, and\n\n(A) $\\sqrt{\\frac{g}{\\ell}}$\n\n(B) $\\sqrt{\\frac{g}{\\ell}\\frac{M+m}{M}}$\n\n(C) $\\sqrt{\\frac{g}{\\ell}\\frac{m}{M}}$\n\n(D) $\\sqrt{\\frac{g}{\\ell}\\frac{m}{M+m}}$\n\n(E) $\\sqrt{\\frac{g}{\\ell}\\frac{m}{M+2m}}$\n\n![Diagram of the tube and two pendulums](images/cceab8be98a5c03fc6fc8bfc.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/cceab8be98a5c03fc6fc8bfc.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          6
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-008",
+      "number": 8,
+      "markdown": "8. A solid cone hangs from a frictionless pivot at the origin $O$, as shown above. If $\\hat{i}$, $\\hat{j}$, and $\\hat{k}$ are unit vectors, and $a$, $b$, and $c$ are positive constants, which of the following forces $\\mathbf{F}$ applied to the rim of the cone at a point $P$ results in a torque $\\boldsymbol{\\tau}$ on the cone with a negative component $\\tau_z$?\n\n(A) $\\mathbf{F}=a\\hat{k}$, $P$ is $(0,b,-c)$\n\n(B) $\\mathbf{F}=-a\\hat{k}$, $P$ is $(0,-b,-c)$\n\n(C) $\\mathbf{F}=a\\hat{j}$, $P$ is $(-b,0,-c)$\n\n(D) $\\mathbf{F}=a\\hat{j}$, $P$ is $(b,0,-c)$\n\n(E) $\\mathbf{F}=-a\\hat{k}$, $P$ is $(-b,0,-c)$\n\n![Diagram of the cone, pivot, and coordinate axes](images/b5ca80a7346bd3ef18523e98.jpg)",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/b5ca80a7346bd3ef18523e98.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          7
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-009",
+      "number": 9,
+      "markdown": "9. A coaxial cable having radii $a$, $b$, and $c$ carries equal and opposite currents of magnitude $i$ on the inner and outer conductors. What is the magnitude of the magnetic induction at point $P$ outside of the cable at a distance $r$ from the axis?\n\n(A) Zero\n\n(B) $\\frac{\\mu_0 i r}{2\\pi a^2}$\n\n(C) $\\frac{\\mu_0 i}{2\\pi r}$\n\n(D) $\\frac{\\mu_0 i}{2\\pi r}\\frac{c^2-r^2}{c^2-b^2}$\n\n(E) $\\frac{\\mu_0 i}{2\\pi r}\\frac{r^2-b^2}{c^2-b^2}$\n\n![Cross section of the coaxial cable and point P](images/63d67ee802fb6f9a4e50fa7d.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/63d67ee802fb6f9a4e50fa7d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          7
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-010",
+      "number": 10,
+      "markdown": "10. Two positive charges of $q$ and $2q$ coulombs are located on the $x$-axis at $x=0.5a$ and $1.5a$, respectively, as shown above. There is an infinite, grounded conducting plane at $x=0$. What is the magnitude of the net force on the charge $q$?\n\n(A) $\\frac{1}{4\\pi\\epsilon_0}\\frac{q^2}{a^2}$\n\n(B) $\\frac{1}{4\\pi\\epsilon_0}\\frac{3q^2}{2a^2}$\n\n(C) $\\frac{1}{4\\pi\\epsilon_0}\\frac{2q^2}{a^2}$\n\n(D) $\\frac{1}{4\\pi\\epsilon_0}\\frac{3q^2}{a^2}$\n\n(E) $\\frac{1}{4\\pi\\epsilon_0}\\frac{7q^2}{2a^2}$\n\n![Charge positions and grounded conducting plane](images/38ec5952ffdb30e5fdacddad.jpg)",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/38ec5952ffdb30e5fdacddad.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-011",
+      "number": 11,
+      "markdown": "11. The capacitor in the circuit shown above is initially charged. After closing the switch, how much time elapses until one-half of the capacitor's initial stored energy is dissipated?\n\n(A) $RC$\n\n(B) $\\frac{RC}{2}$\n\n(C) $\\frac{RC}{4}$\n\n(D) $2RC\\ln(2)$\n\n(E) $\\frac{RC\\ln(2)}{2}$\n\n![Circuit containing a capacitor, switch, and resistor](images/67955598884683a30ec22451.jpg)",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/67955598884683a30ec22451.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-012",
+      "number": 12,
+      "markdown": "12. Two large conducting plates form a wedge of angle $\\alpha$ as shown in the diagram above. The plates are insulated from each other; one has a potential $V_0$ and the other is grounded. Assuming that the plates are large enough so that the potential difference between them is independent of the cylindrical coordinates $z$ and $\\rho$, the potential anywhere between the plates as a function of the angle $\\varphi$ is\n\n(A) $\\frac{V_0}{\\alpha}$\n\n(B) $\\frac{V_0\\varphi}{\\alpha}$\n\n(C) $\\frac{V_0\\alpha}{\\varphi}$\n\n(D) $\\frac{V_0\\varphi^2}{\\alpha}$\n\n(E) $\\frac{V_0\\alpha}{\\varphi^2}$\n\n![Conducting plates forming a wedge](images/b8d994a2a2236c942dc30376.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/b8d994a2a2236c942dc30376.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          8
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-013",
+      "number": 13,
+      "markdown": "13. Listed below are Maxwell's equations of electromagnetism. If magnetic monopoles exist, which of these equations would be INCORRECT?\n\nI. $\\operatorname{curl}\\mathbf{H} = \\mathbf{J} + \\frac{\\partial\\mathbf{D}}{\\partial t}$\n\nII. $\\operatorname{curl}\\mathbf{E} = -\\frac{\\partial\\mathbf{B}}{\\partial t}$\n\nIII. $\\operatorname{div}\\mathbf{D} = \\rho$\n\nIV. $\\operatorname{div}\\mathbf{B} = 0$\n\n(A) I only\n(B) I and II\n(C) I and III\n(D) II and IV\n(E) III and IV",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-014",
+      "number": 14,
+      "markdown": "14. The total energy of a blackbody radiation source is collected for one minute and used to heat water. The temperature of the water increases from $20.0\\ ^\\circ\\mathrm{C}$ to $20.5\\ ^\\circ\\mathrm{C}$. If the absolute temperature of the blackbody is doubled and the experiment repeated, which of the following statements would be most nearly correct?\n\n(A) The temperature of the water would increase from $20\\ ^\\circ\\mathrm{C}$ to a final temperature of $21\\ ^\\circ\\mathrm{C}$.\n\n(B) The temperature of the water would increase from $20\\ ^\\circ\\mathrm{C}$ to a final temperature of $24\\ ^\\circ\\mathrm{C}$.\n\n(C) The temperature of the water would increase from $20\\ ^\\circ\\mathrm{C}$ to a final temperature of $28\\ ^\\circ\\mathrm{C}$.\n\n(D) The temperature of the water would increase from $20\\ ^\\circ\\mathrm{C}$ to a final temperature of $36\\ ^\\circ\\mathrm{C}$.\n\n(E) The water would boil within the one-minute time period.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-015",
+      "number": 15,
+      "markdown": "15. A classical model of a diatomic molecule is a springy dumbbell, as shown above, where the dumbbell is free to rotate about axes perpendicular to the spring. In the limit of high temperature, what is the specific heat per mole at constant volume?\n\n![image](images/8a909e951228e1a85e8e2546.jpg)\n\n(A) $\\frac{3}{2}R$\n(B) $\\frac{5}{2}R$\n(C) $\\frac{7}{2}R$\n(D) $\\frac{9}{2}R$\n(E) $\\frac{11}{2}R$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/8a909e951228e1a85e8e2546.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-016",
+      "number": 16,
+      "markdown": "16. An engine absorbs heat at a temperature of $727^\\circ\\mathrm{C}$ and exhausts heat at a temperature of $527^\\circ\\mathrm{C}$. If the engine operates at maximum possible efficiency, for 2000 joules of heat input the amount of work the engine performs is most nearly\n\n(A) 400 J\n(B) 1450 J\n(C) 1600 J\n(D) 2000 J\n(E) 2760 J",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-017",
+      "number": 17,
+      "markdown": "17. The outputs of two electrical oscillators are compared on an oscilloscope screen. The oscilloscope spot is initially at the center of the screen. Oscillator $Y$ is connected to the vertical terminals of the oscilloscope and oscillator $X$ to the horizontal terminals. Which of the following patterns could appear on the oscilloscope screen, if the frequency of oscillator $Y$ is twice that of oscillator $X$?\n\n(A) ![image](images/315bb552bcdff75dba912c49.jpg)\n\n(B) ![image](images/67c8ad54a4520f6f5158971a.jpg)\n\n(C) ![image](images/5235f8146a0f7c81fa408537.jpg)\n\n(D) ![image](images/937117c23b5d3f1cce9d72f2.jpg)\n\n(E) ![image](images/0b40d9a82f98dfdd099403b8.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/315bb552bcdff75dba912c49.jpg",
+        "images/67c8ad54a4520f6f5158971a.jpg",
+        "images/5235f8146a0f7c81fa408537.jpg",
+        "images/937117c23b5d3f1cce9d72f2.jpg",
+        "images/0b40d9a82f98dfdd099403b8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          9
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-018",
+      "number": 18,
+      "markdown": "18. In transmitting high frequency signals on a coaxial cable, it is important that the cable be terminated at an end with its characteristic impedance in order to avoid\n\n(A) leakage of the signal out of the cable\n(B) overheating of the cable\n(C) reflection of signals from the terminated end of the cable\n(D) attenuation of the signal propagating in the cable\n(E) production of image currents in the outer conductor",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-019",
+      "number": 19,
+      "markdown": "19. Which of the following is most nearly the mass of the Earth? (The radius of the Earth is about $6.4 \\times 10^{6}$ meters.)\n\n(A) $6 \\times 10^{24}\\,\\mathrm{kg}$\n(B) $6 \\times 10^{27}\\,\\mathrm{kg}$\n(C) $6 \\times 10^{30}\\,\\mathrm{kg}$\n(D) $6 \\times 10^{33}\\,\\mathrm{kg}$\n(E) $6 \\times 10^{36}\\,\\mathrm{kg}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-020",
+      "number": 20,
+      "markdown": "20. In a double-slit interference experiment, $d$ is the distance between the centers of the slits and $w$ is the width of each slit, as shown in the figure above. For incident plane waves, an interference maximum on a distant screen will be “missing” when\n\n![Slit diagram](images/8a909e951228e1a85e8e2546.jpg)\n\n(A) $d = \\sqrt{2}w$\n(B) $d = \\sqrt{3}w$\n(C) $2d = w$\n(D) $2d = 3w$\n(E) $3d = 2w$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/8a909e951228e1a85e8e2546.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-021",
+      "number": 21,
+      "markdown": "21. A soap film with index of refraction greater than air is formed on a circular wire frame that is held in a vertical plane. The film is viewed by reflected light from a white-light source. Bands of color are observed at the lower parts of the soap film, but the area near the top appears black. A correct explanation for this phenomenon would involve which of the following?\n\nI. The top of the soap film absorbs all of the light incident on it; none is transmitted.\n\nII. The thickness of the top part of the soap film has become much less than a wavelength of visible light.\n\nIII. There is a phase change of $180^\\circ$ for all wavelengths of light reflected from the front surface of the soap film.\n\nIV. There is no phase change for any wavelength of light reflected from the back surface of the soap film.\n\n(A) I only\n(B) II and III only\n(C) III and IV only\n(D) I, II, and III\n(E) II, III, and IV",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-022",
+      "number": 22,
+      "markdown": "22. A simple telescope consists of two convex lenses, the objective and the eyepiece, which have a common focal point $P$, as shown in the figure above. If the focal length of the objective is 1.0 meter and the angular magnification of the telescope is 10, what is the optical path length between objective and eyepiece?\n\n![Telescope diagram](images/d4c2d3ca82b7731b571edbcf.jpg)\n![Convex lens](images/d7af7736012457020bc161ef.jpg)\n\n(A) 0.1 m\n(B) 0.9 m\n(C) 1.0 m\n(D) 1.1 m\n(E) 10 m",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/d4c2d3ca82b7731b571edbcf.jpg",
+        "images/d7af7736012457020bc161ef.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-023",
+      "number": 23,
+      "markdown": "23. The Fermi temperature of Cu is about 80,000 K. Which of the following is most nearly equal to the average speed of a conduction electron in Cu?\n\n(A) $2 \\times 10^{-2}\\,\\mathrm{m/s}$\n(B) $2\\,\\mathrm{m/s}$\n(C) $2 \\times 10^{2}\\,\\mathrm{m/s}$\n(D) $2 \\times 10^{4}\\,\\mathrm{m/s}$\n(E) $2 \\times 10^{6}\\,\\mathrm{m/s}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-024",
+      "number": 24,
+      "markdown": "24. Solid argon is held together by which of the following bonding mechanisms?\n\n(A) Ionic bond only\n(B) Covalent bond only\n(C) Partly covalent and partly ionic bond\n(D) Metallic bond\n(E) van der Waals bond",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-025",
+      "number": 25,
+      "markdown": "25. In experiments located deep underground, the two types of cosmic rays that most commonly reach the experimental apparatus are\n\n(A) alpha particles and neutrons  \n(B) protons and electrons  \n(C) iron nuclei and carbon nuclei  \n(D) muons and neutrinos  \n(E) positrons and electrons",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-026",
+      "number": 26,
+      "markdown": "26. A radioactive nucleus decays, with the activity shown in the graph above. The half-life of the nucleus is\n\n![Radioactive decay activity versus time graph](images/6d487a933dd4c5f226ce9f27.jpg)\n\n(A) 2 min  \n(B) 7 min  \n(C) 11 min  \n(D) 18 min  \n(E) 23 min",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/6d487a933dd4c5f226ce9f27.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-027",
+      "number": 27,
+      "markdown": "27. If a freely moving electron is localized in space to within $\\Delta x_0$ of $x_0$, its wave function can be described by a wave packet\n\n$$\\psi(x,t)=\\int_{-\\infty}^{\\infty} e^{i(kx-\\omega t)} f(k)\\,dk,$$\n\nwhere $f(k)$ is peaked around a central value $k_0$. Which of the following is most nearly the width of the peak in $k$?\n\n(A) $\\Delta k=\\frac{1}{x_0}$  \n(B) $\\Delta k=\\frac{1}{\\Delta x_0}$  \n(C) $\\Delta k=\\frac{\\Delta x_0}{x_0^2}$  \n(D) $\\Delta k=\\left(\\frac{\\Delta x_0}{x_0}\\right)k_0$  \n(E) $\\Delta k=\\sqrt{k_0^2+\\left(\\frac{1}{x_0}\\right)^2}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-028",
+      "number": 28,
+      "markdown": "28. A system is known to be in the normalized state described by the wave function\n\n$$\\psi(\\theta,\\varphi)=\\frac{1}{\\sqrt{30}}\\left(5Y_4^3+Y_6^3-2Y_6^0\\right),$$\n\nwhere the $Y_\\ell^m(\\theta,\\varphi)$ are the spherical harmonics. The probability of finding the system in a state with azimuthal orbital quantum number $m=3$ is\n\n(A) $0$  \n(B) $\\frac{1}{15}$  \n(C) $\\frac{1}{6}$  \n(D) $\\frac{1}{3}$  \n(E) $\\frac{13}{15}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-029",
+      "number": 29,
+      "markdown": "29. An attractive, one-dimensional square well has depth $V_0$ as shown above. Which of the following best shows a possible wave function for a bound state?\n\n![One-dimensional square-well potential](images/bd685152f6637dd52e399f34.jpg)\n\n(A)\n\n![Choice A](images/b1930f0e1bcfdd1e438d229a.jpg)\n\n(B)\n\n![Choice B](images/cd6e2c010b461bb7c6278c75.jpg)\n\n(C)\n\n![Choice C](images/b8af7a1c6bcb8e19c6e4758b.jpg)\n\n(D)\n\n![Choice D](images/8c7a09cd729d927adcef847b.jpg)\n\n(E)\n\n![Choice E](images/43f2ed59157fc174b495bcdb.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/bd685152f6637dd52e399f34.jpg",
+        "images/b1930f0e1bcfdd1e438d229a.jpg",
+        "images/cd6e2c010b461bb7c6278c75.jpg",
+        "images/b8af7a1c6bcb8e19c6e4758b.jpg",
+        "images/8c7a09cd729d927adcef847b.jpg",
+        "images/43f2ed59157fc174b495bcdb.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-030",
+      "number": 30,
+      "markdown": "30. Given that the binding energy of the hydrogen atom ground state is $E_0=13.6\\,\\mathrm{eV}$, the binding energy of the $n=2$ state of positronium (positron-electron system) is\n\n(A) $8E_0$  \n(B) $4E_0$  \n(C) $E_0$  \n(D) $\\frac{E_0}{4}$  \n(E) $\\frac{E_0}{8}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-031",
+      "number": 31,
+      "markdown": "31. In a $^{3}S$ state of the helium atom, the possible values of the total electronic angular momentum quantum number are\n\n(A) 0 only\n(B) 1 only\n(C) 0 and 1 only\n(D) 0, $\\frac{1}{2}$, and 1\n(E) 0, 1, and 2",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-032",
+      "number": 32,
+      "markdown": "Questions 32–33\n\n![Circuit](images/a3d22a7d8d027589e9c0d6f6.jpg)\n\nIn the circuit shown above, the resistances are given in ohms and the battery is assumed ideal with emf equal to 3.0 volts.\n\n32. The resistor that dissipates the most power is\n\n(A) $R_1$\n(B) $R_2$\n(C) $R_3$\n(D) $R_4$\n(E) $R_5$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/a3d22a7d8d027589e9c0d6f6.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-033",
+      "number": 33,
+      "markdown": "Questions 32–33\n\n![Circuit](images/a3d22a7d8d027589e9c0d6f6.jpg)\n\nIn the circuit shown above, the resistances are given in ohms and the battery is assumed ideal with emf equal to 3.0 volts.\n\n33. The voltage across resistor $R_4$ is\n\n(A) 0.4 V\n(B) 0.6 V\n(C) 1.2 V\n(D) 1.5 V\n(E) 3.0 V",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/a3d22a7d8d027589e9c0d6f6.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-034",
+      "number": 34,
+      "markdown": "34. A conducting cavity is driven as an electromagnetic resonator. If perfect conductivity is assumed, the transverse and normal field components must obey which of the following conditions at the inner cavity walls?\n\n(A) $E_n = 0$, $B_n = 0$\n(B) $E_n = 0$, $B_t = 0$\n(C) $E_t = 0$, $B_t = 0$\n(D) $E_t = 0$, $B_n = 0$\n(E) None of the above",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-035",
+      "number": 35,
+      "markdown": "35. Light of wavelength 5200 angstroms is incident normally on a transmission diffraction grating with 2000 lines per centimeter. The first-order diffraction maximum is at an angle, with respect to the incident beam, that is most nearly\n\n(A) $3^{\\circ}$\n(B) $6^{\\circ}$\n(C) $9^{\\circ}$\n(D) $12^{\\circ}$\n(E) $15^{\\circ}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-036",
+      "number": 36,
+      "markdown": "36. A plane-polarized electromagnetic wave is incident normally on a flat, perfectly conducting surface. Upon reflection at the surface, which of the following is true?\n\n(A) Both the electric vector and magnetic vector are reversed.\n(B) Neither the electric vector nor the magnetic vector is reversed.\n(C) The electric vector is reversed; the magnetic vector is not.\n(D) The magnetic vector is reversed; the electric vector is not.\n(E) The directions of the electric and magnetic vectors are interchanged.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-037",
+      "number": 37,
+      "markdown": "37. A $\\pi^0$ meson (rest-mass energy 135 MeV) is moving with velocity $0.8c\\hat{\\mathbf{k}}$ in the laboratory rest frame when it decays into two photons, $\\gamma_1$ and $\\gamma_2$. In the $\\pi^0$ rest frame, $\\gamma_1$ is emitted forward and $\\gamma_2$ is emitted backward relative to the $\\pi^0$ direction of flight. The velocity of $\\gamma_2$ in the laboratory rest frame is\n\n![Neutral pion moving in the laboratory frame](images/98a53e3862bd6cebfc73a744.jpg)\n\n(A) $-1.0c\\hat{\\mathbf{k}}$\n(B) $-0.2c\\hat{\\mathbf{k}}$\n(C) $+0.8c\\hat{\\mathbf{k}}$\n(D) $+1.0c\\hat{\\mathbf{k}}$\n(E) $+1.8c\\hat{\\mathbf{k}}$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/98a53e3862bd6cebfc73a744.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-038",
+      "number": 38,
+      "markdown": "38. Tau leptons are observed to have an average half-life of $\\Delta t_1$ in the frame $S_1$ in which the leptons are at rest. In an inertial frame $S_2$, which is moving at a speed $v_{12}$ relative to $S_1$, the leptons are observed to have an average half-life of $\\Delta t_2$. In another inertial reference frame $S_3$, which is moving at a speed $v_{13}$ relative to $S_1$ and $v_{23}$ relative to $S_2$, the leptons have an observed half-life of $\\Delta t_3$. Which of the following is a correct relationship among two of the half-lives, $\\Delta t_1$, $\\Delta t_2$, and $\\Delta t_3$?\n\n(A) $\\Delta t_2 = \\Delta t_1\\sqrt{1 - (v_{12})^2/c^2}$\n(B) $\\Delta t_1 = \\Delta t_3\\sqrt{1 - (v_{13})^2/c^2}$\n(C) $\\Delta t_2 = \\Delta t_3\\sqrt{1 - (v_{23})^2/c^2}$\n(D) $\\Delta t_3 = \\Delta t_2\\sqrt{1 - (v_{23})^2/c^2}$\n(E) $\\Delta t_1 = \\Delta t_2\\sqrt{1 - (v_{23})^2/c^2}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-039",
+      "number": 39,
+      "markdown": "39. If $n$ is an integer ranging from 1 to infinity, $\\omega$ is an angular frequency, and $t$ is time, then the Fourier series for a square wave, as shown above, is given by which of the following?\n\n![Square-wave graph](images/8a1e5f8af0931085a3a67548.jpg)\n\n(A) $V(t) = \\frac{4}{\\pi}\\sum_{n=1}^{\\infty}\\frac{1}{n}\\sin(n\\omega t)$\n(B) $V(t) = \\frac{4}{\\pi}\\sum_{n=0}^{\\infty}\\frac{1}{2n+1}\\sin((2n+1)\\omega t)$\n(C) $V(t) = \\frac{4}{\\pi}\\sum_{n=1}^{\\infty}\\frac{1}{n}\\cos(n\\omega t)$\n(D) $V(t) = \\frac{4}{\\pi}\\sum_{n=0}^{\\infty}\\frac{1}{2n+1}\\cos((2n+1)\\omega t)$\n(E) $V(t) = -\\frac{4}{\\pi} + \\frac{4}{\\pi}\\sum_{n=1}^{\\infty}\\frac{1}{n^2}\\cos(n\\omega t)$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/8a1e5f8af0931085a3a67548.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-040",
+      "number": 40,
+      "markdown": "40. A rigid cylinder rolls at constant speed without slipping on top of a horizontal plane surface. The acceleration of a point on the circumference of the cylinder at the moment when the point touches the plane is\n\n(A) directed forward\n(B) directed backward\n(C) directed up\n(D) directed down\n(E) zero",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-041",
+      "number": 41,
+      "markdown": "## Questions 41–42\n\nA cylinder with moment of inertia $4\\,\\mathrm{kg\\cdot m^2}$ about a fixed axis initially rotates at 80 radians per second about this axis. A constant torque is applied to slow it down to 40 radians per second.\n\n41. The kinetic energy lost by the cylinder is\n\n(A) 80 J\n(B) 800 J\n(C) 4000 J\n(D) 9600 J\n(E) 19,200 J",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-042",
+      "number": 42,
+      "markdown": "## Questions 41–42\n\nA cylinder with moment of inertia $4\\,\\mathrm{kg\\cdot m^2}$ about a fixed axis initially rotates at 80 radians per second about this axis. A constant torque is applied to slow it down to 40 radians per second.\n\n42. If the cylinder takes 10 seconds to reach 40 radians per second, the magnitude of the applied torque is\n\n(A) $80\\,\\mathrm{N\\cdot m}$\n(B) $40\\,\\mathrm{N\\cdot m}$\n(C) $32\\,\\mathrm{N\\cdot m}$\n(D) $16\\,\\mathrm{N\\cdot m}$\n(E) $8\\,\\mathrm{N\\cdot m}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-043",
+      "number": 43,
+      "markdown": "43. If $\\frac{\\partial L}{\\partial q_n}=0$, where $L$ is the Lagrangian for a conservative system without constraints and $q_n$ is a generalized coordinate, then the generalized momentum $p_n$ is\n\n(A) an ignorable coordinate  \n(B) constant  \n(C) undefined  \n(D) equal to $\\frac{d}{dt}\\left(\\frac{\\partial L}{\\partial q_n}\\right)$  \n(E) equal to the Hamiltonian for the system",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-044",
+      "number": 44,
+      "markdown": "44. A particle of mass $m$ on the Earth's surface is confined to move on the parabolic curve $y=ax^2$, where $y$ is up. Which of the following is a Lagrangian for the particle?\n\n(A) $L=\\frac{1}{2}m\\dot{y}^{2}\\left(1+\\frac{1}{4ay}\\right)-mgy$  \n(B) $L=\\frac{1}{2}m\\dot{y}^{2}\\left(1-\\frac{1}{4ay}\\right)-mgy$  \n(C) $L=\\frac{1}{2}m\\dot{x}^{2}\\left(1+\\frac{1}{4ax}\\right)-mgx$  \n(D) $L=\\frac{1}{2}m\\dot{x}^{2}(1+4a^{2}x^{2})+mgx$  \n(E) $L=\\frac{1}{2}m\\dot{x}^{2}+\\frac{1}{2}m\\dot{y}^{2}+mgy$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-045",
+      "number": 45,
+      "markdown": "45. A ball is dropped from a height $h$. As it bounces off the floor, its speed is 80 percent of what it was just before it hit the floor. The ball will then rise to a height of most nearly\n\n(A) $0.94h$  \n(B) $0.80h$  \n(C) $0.75h$  \n(D) $0.64h$  \n(E) $0.50h$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-046",
+      "number": 46,
+      "markdown": "Questions 46–47\n\n![pV diagram showing isotherms and coexistence curves](images/a73244969d4d4a52165a16e6.jpg)\n\nIsotherms and coexistence curves are shown in the $pV$ diagram above for a liquid-gas system. The dashed lines are the boundaries of the labeled regions.\n\n46. Which numbered curve is the critical isotherm?\n\n(A) 1  \n(B) 2  \n(C) 3  \n(D) 4  \n(E) 5",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/a73244969d4d4a52165a16e6.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-047",
+      "number": 47,
+      "markdown": "Questions 46–47\n\n![pV diagram showing isotherms and coexistence curves](images/a73244969d4d4a52165a16e6.jpg)\n\nIsotherms and coexistence curves are shown in the $pV$ diagram above for a liquid-gas system. The dashed lines are the boundaries of the labeled regions.\n\n47. In which region are the liquid and the vapor in equilibrium with each other?\n\n(A) $A$  \n(B) $B$  \n(C) $C$  \n(D) $D$  \n(E) $E$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/a73244969d4d4a52165a16e6.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-048",
+      "number": 48,
+      "markdown": "48. The magnitude of the force $F$ on an object can be determined by measuring both the mass $m$ of an object and the magnitude of its acceleration $a$, where $F=ma$. Assume that these measurements are uncorrelated and normally distributed. If the standard deviations of the measurements of the mass and the acceleration are $\\sigma_m$ and $\\sigma_a$, respectively, then $\\sigma_F/F$ is\n\n(A) $\\left(\\frac{\\sigma_m}{m}\\right)^2+\\left(\\frac{\\sigma_a}{a}\\right)^2$  \n(B) $\\left(\\frac{\\sigma_m}{m}+\\frac{\\sigma_a}{a}\\right)^{1/2}$  \n(C) $\\left[\\left(\\frac{\\sigma_m}{m}\\right)^2+\\left(\\frac{\\sigma_a}{a}\\right)^2\\right]^{1/2}$  \n(D) $\\frac{\\sigma_m\\sigma_a}{ma}$  \n(E) $\\frac{\\sigma_m}{m}+\\frac{\\sigma_a}{a}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-049",
+      "number": 49,
+      "markdown": "49. Two horizontal scintillation counters are located near the Earth's surface. One is 3.0 meters directly above the other. Of the following, which is the largest scintillator resolving time that can be used to distinguish downward-going relativistic muons from upward-going relativistic muons using the relative time of the scintillator signals?\n\n(A) 1 picosecond  \n(B) 1 nanosecond  \n(C) 1 microsecond  \n(D) 1 millisecond  \n(E) 1 second",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-050",
+      "number": 50,
+      "markdown": "50. The state of a quantum mechanical system is described by a wave function $\\psi$. Consider two physical observables that have discrete eigenvalues: observable $A$ with eigenvalues $\\{\\alpha\\}$, and observable $B$ with eigenvalues $\\{\\beta\\}$. Under what circumstances can all wave functions be expanded in a set of basis states, each of which is a simultaneous eigenfunction of both $A$ and $B$?\n\n(A) Only if the values $\\{\\alpha\\}$ and $\\{\\beta\\}$ are nondegenerate  \n(B) Only if $A$ and $B$ commute  \n(C) Only if $A$ commutes with the Hamiltonian of the system  \n(D) Only if $B$ commutes with the Hamiltonian of the system  \n(E) Under all circumstances",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-051",
+      "number": 51,
+      "markdown": "## Questions 51–53\n\nA particle of mass $m$ is confined to an infinitely deep square-well potential:\n\n$$\nV(x)=\\begin{cases}\n\\infty, & x\\leq 0,\\ x\\geq a,\\\\\n0, & 0<x<a.\n\\end{cases}\n$$\n\nThe normalized eigenfunctions, labeled by the quantum number $n$, are\n\n$$\n\\psi_n=\\sqrt{\\frac{2}{a}}\\sin\\frac{n\\pi x}{a}.\n$$\n\n51. For any state $n$, the expectation value of the momentum of the particle is\n\n(A) $0$  \n(B) $\\frac{\\hbar n\\pi}{a}$  \n(C) $\\frac{2\\hbar n\\pi}{a}$  \n(D) $\\frac{\\hbar n\\pi}{a}(\\cos n\\pi-1)$  \n(E) $\\frac{-i\\hbar n\\pi}{a}(\\cos n\\pi-1)$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-052",
+      "number": 52,
+      "markdown": "## Questions 51–53\n\nA particle of mass $m$ is confined to an infinitely deep square-well potential:\n\n$$\nV(x)=\\begin{cases}\n\\infty, & x\\leq 0,\\ x\\geq a,\\\\\n0, & 0<x<a.\n\\end{cases}\n$$\n\nThe normalized eigenfunctions, labeled by the quantum number $n$, are\n\n$$\n\\psi_n=\\sqrt{\\frac{2}{a}}\\sin\\frac{n\\pi x}{a}.\n$$\n\n52. The eigenfunctions satisfy the condition\n\n$$\n\\int_0^a \\psi_n^*(x)\\psi_\\ell(x)\\,dx=\\delta_{n\\ell},\\qquad\n\\delta_{n\\ell}=\\begin{cases}1,& n=\\ell,\\\\0,& n\\ne\\ell.\\end{cases}\n$$\n\nThis is a statement that the eigenfunctions are\n\n(A) solutions to the Schrödinger equation  \n(B) orthonormal  \n(C) bounded  \n(D) linearly dependent  \n(E) symmetric",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-053",
+      "number": 53,
+      "markdown": "## Questions 51–53\n\nA particle of mass $m$ is confined to an infinitely deep square-well potential:\n\n$$\nV(x)=\\begin{cases}\n\\infty, & x\\leq 0,\\ x\\geq a,\\\\\n0, & 0<x<a.\n\\end{cases}\n$$\n\nThe normalized eigenfunctions, labeled by the quantum number $n$, are\n\n$$\n\\psi_n=\\sqrt{\\frac{2}{a}}\\sin\\frac{n\\pi x}{a}.\n$$\n\n53. A measurement of energy $E$ will always satisfy which of the following relationships?\n\n(A) $E\\leq\\frac{\\pi^2\\hbar^2}{8ma^2}$  \n(B) $E\\geq\\frac{\\pi^2\\hbar^2}{2ma^2}$  \n(C) $E=\\frac{\\pi^2\\hbar^2}{8ma^2}$  \n(D) $E=\\frac{n^2\\pi^2\\hbar^2}{8ma^2}$  \n(E) $E=\\frac{\\pi^2\\hbar^2}{2ma^2}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-054",
+      "number": 54,
+      "markdown": "54. ![Rectangular loop next to a long current-carrying wire, with dimensions $a$ and $b$, separation $r$, current $I$, and the loop moving to the right](images/f867872536a8e2b71f552602.jpg)\n\nA rectangular loop of wire with dimensions shown above is coplanar with a long wire carrying current $I$. The distance between the wire and the left side of the loop is $r$. The loop is pulled to the right as indicated.\n\nWhat are the directions of the induced current in the loop and the magnetic forces on the left and right sides of the loop as the loop is pulled?\n\n|  | Induced Current | Force on Left Side | Force on Right Side |\n|---|---|---|---|\n| (A) | Counterclockwise | To the left | To the right |\n| (B) | Counterclockwise | To the left | To the left |\n| (C) | Counterclockwise | To the right | To the left |\n| (D) | Clockwise | To the right | To the left |\n| (E) | Clockwise | To the left | To the right |",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/f867872536a8e2b71f552602.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-055",
+      "number": 55,
+      "markdown": "55. A rectangular loop of wire with dimensions shown above is coplanar with a long wire carrying current $I$. The distance between the wire and the left side of the loop is $r$. The loop is pulled to the right as indicated.\n\n![Rectangular loop beside a current-carrying wire](images/f867872536a8e2b71f552602.jpg)\n\nWhat is the magnitude of the net force on the loop when the induced current is $i$?\n\n(A) $\\frac{\\mu_0 i I}{2\\pi}\\ln\\left(\\frac{r+a}{r}\\right)$  \n(B) $\\frac{\\mu_0 i I}{2\\pi}\\ln\\left(\\frac{r}{r+a}\\right)$  \n(C) $\\frac{\\mu_0 i I}{2\\pi}\\frac{b}{a}$  \n(D) $\\frac{\\mu_0 i I}{2\\pi}\\frac{ab}{r(r+a)}$  \n(E) $\\frac{\\mu_0 i I}{2\\pi}\\frac{r(r+a)}{ab}$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/f867872536a8e2b71f552602.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-056",
+      "number": 56,
+      "markdown": "56. If $\\nu$ is frequency and $h$ is Planck’s constant, the ground state energy of a one-dimensional quantum mechanical harmonic oscillator is\n\n(A) $0$  \n(B) $\\frac{1}{3}h\\nu$  \n(C) $\\frac{1}{2}h\\nu$  \n(D) $h\\nu$  \n(E) $\\frac{3}{2}h\\nu$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-057",
+      "number": 57,
+      "markdown": "57. A uniform and constant magnetic field $\\mathbf{B}$ is directed perpendicularly into the plane of the page everywhere within a rectangular region as shown above. A wire circuit in the shape of a semicircle is uniformly rotated counterclockwise in the plane of the page about an axis $A$. The axis $A$ is perpendicular to the page at the edge of the field and directed through the center of the straight-line portion of the circuit. Which of the following graphs best approximates the emf $\\varepsilon$ induced in the circuit as a function of time $t$?\n\n![Rotating semicircular circuit in a magnetic field](images/bbc81f8b089bc795dd510026.jpg)\n\n(A)\n\n![Graph A](images/c5031070318163efba504b64.jpg)\n\n(B)\n\n![Graph B](images/82188651cac3f83a26245792.jpg)\n\n(C)\n\n![Graph C](images/cd612f2eba443f2379aff93d.jpg)\n\n(D)\n\n![Graph D](images/5252b7b0c938d13f4307b29a.jpg)\n\n(E)\n\n![Graph E](images/43fb4b88f845a3f0d26a9cea.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/bbc81f8b089bc795dd510026.jpg",
+        "images/c5031070318163efba504b64.jpg",
+        "images/82188651cac3f83a26245792.jpg",
+        "images/cd612f2eba443f2379aff93d.jpg",
+        "images/5252b7b0c938d13f4307b29a.jpg",
+        "images/43fb4b88f845a3f0d26a9cea.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-058",
+      "number": 58,
+      "markdown": "58. The ground state configuration of a neutral sodium atom ($Z = 11$) is\n\n(A) $1s^2 2s^2 2p^5 3s^2$  \n(B) $1s^2 2s^3 2p^6$  \n(C) $1s^2 2s^2 2p^6 3s$  \n(D) $1s^2 2s^2 2p^6 3p$  \n(E) $1s^2 2s^2 2p^5$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-059",
+      "number": 59,
+      "markdown": "59. The ground state of the helium atom is a spin\n\n(A) singlet  \n(B) doublet  \n(C) triplet  \n(D) quartet  \n(E) quintuplet",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-060",
+      "number": 60,
+      "markdown": "60. An electron in a metal has an effective mass $m^* = 0.1m_e$. If this metal is placed in a magnetic field of magnitude $1$ tesla, the cyclotron resonance frequency, $\\omega_c$, is most nearly\n\n(A) $930\\ \\mathrm{rad/s}$  \n(B) $8.5 \\times 10^6\\ \\mathrm{rad/s}$  \n(C) $2.8 \\times 10^{11}\\ \\mathrm{rad/s}$  \n(D) $1.8 \\times 10^{12}\\ \\mathrm{rad/s}$  \n(E) $7.7 \\times 10^{20}\\ \\mathrm{rad/s}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-061",
+      "number": 61,
+      "markdown": "61. A long, straight, and massless rod pivots about one end in a vertical plane. In configuration I, shown above, two small identical masses are attached to the free end; in configuration II, one mass is moved to the center of the rod. What is the ratio of the frequency of small oscillations of configuration II to that of configuration I?\n\n![Configuration I](images/6dad2b297052f2c2ec218919.jpg)\n\n![Configuration II](images/5c25e260281fd33152df18d4.jpg)\n\n(A) $\\left(\\frac{6}{5}\\right)^{1/2}$\n(B) $\\left(\\frac{3}{2}\\right)^{1/2}$\n(C) $6/5$\n(D) $3/2$\n(E) $5/3$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/6dad2b297052f2c2ec218919.jpg",
+        "images/5c25e260281fd33152df18d4.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-062",
+      "number": 62,
+      "markdown": "62. A mole of ideal gas initially at temperature $T_0$ and volume $V_0$ undergoes a reversible isothermal expansion to volume $V_1$. If the ratio of specific heats is $c_p/c_v=\\gamma$ and if $R$ is the gas constant, the work done by the gas is\n\n(A) zero\n(B) $RT_0(V_1/V_0)^\\gamma$\n(C) $RT_0(V_1/V_0-1)$\n(D) $c_vT_0\\left[1-(V_0/V_1)^{\\gamma-1}\\right]$\n(E) $RT_0\\ln(V_1/V_0)$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-063",
+      "number": 63,
+      "markdown": "63. Which of the following is true if the arrangement of an isolated thermodynamic system is of maximal probability?\n\n(A) Spontaneous change to a lower probability occurs.\n(B) The entropy is a minimum.\n(C) Boltzmann's constant approaches zero.\n(D) No spontaneous change occurs.\n(E) The entropy is zero.",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-064",
+      "number": 64,
+      "markdown": "64. If an electric field is given in a certain region by $E_x=0$, $E_y=0$, $E_z=kz$, where $k$ is a nonzero constant, which of the following is true?\n\n(A) There is a time-varying magnetic field.\n(B) There is charge density in the region.\n(C) The electric field cannot be constant in time.\n(D) The electric field is impossible under any circumstances.\n(E) None of the above",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-065",
+      "number": 65,
+      "markdown": "65. Two point charges with the same charge $+Q$ are fixed along the $x$-axis and are a distance $2R$ apart as shown. A small particle with mass $m$ and charge $-q$ is placed at the midpoint between them. What is the angular frequency $\\omega$ of small oscillations of this particle along the $y$-direction?\n\n![Charge configuration](images/57a5d881bbd51e6e8cdb375d.jpg)\n\n(A) $\\frac{Qq}{2\\pi\\epsilon_0mR^2}$\n(B) $\\frac{Qq}{4\\pi\\epsilon_0mR^2}$\n(C) $\\frac{Qq}{2\\pi\\epsilon_0mR^3}$\n(D) $\\left(\\frac{Qq}{4\\pi\\epsilon_0mR^2}\\right)^{1/2}$\n(E) $\\left(\\frac{Qq}{2\\pi\\epsilon_0mR^3}\\right)^{1/2}$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/57a5d881bbd51e6e8cdb375d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-066",
+      "number": 66,
+      "markdown": "66. A thin uniform steel chain is 10 meters long with a mass density of 2 kilograms per meter. One end of the chain is attached to a horizontal axle having a radius that is small compared to the length of the chain. If the chain initially hangs vertically, the work required to slowly wind it up onto the axle is closest to\n\n(A) 100 J\n(B) 200 J\n(C) 1,000 J\n(D) 2,000 J\n(E) 10,000 J",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-067",
+      "number": 67,
+      "markdown": "67. A steady beam of light is normally incident on a piece of polaroid. As the polaroid is rotated around the beam axis, the transmitted intensity varies as $A+B\\cos 2\\theta$, where $\\theta$ is the angle of rotation, and $A$ and $B$ are constants with $A>B>0$. Which of the following may be correctly concluded about the incident light?\n\n![Light incident on a rotating polaroid](images/5bf47ea7accdfc9c8e560ff3.jpg)\n\n(A) The light is completely unpolarized.\n\n(B) The light is completely plane polarized.\n\n(C) The light is partly plane polarized and partly unpolarized.\n\n(D) The light is partly circularly polarized and partly unpolarized.\n\n(E) The light is completely circularly polarized.",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/5bf47ea7accdfc9c8e560ff3.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-068",
+      "number": 68,
+      "markdown": "68. The angular separation of the two components of a double star is 8 microradians, and the light from the double star has a wavelength of 5500 angstroms. The smallest diameter of a telescope mirror that will resolve the double star is most nearly\n\n(A) 1 mm\n\n(B) 1 cm\n\n(C) 10 cm\n\n(D) 1 m\n\n(E) 100 m",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-069",
+      "number": 69,
+      "markdown": "69. A fast charged particle passes perpendicularly through a thin glass sheet of index of refraction 1.5. The particle emits light in the glass. The minimum speed of the particle is\n\n(A) $\\frac{1}{3}c$\n\n(B) $\\frac{4}{9}c$\n\n(C) $\\frac{5}{9}c$\n\n(D) $\\frac{2}{3}c$\n\n(E) $c$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-070",
+      "number": 70,
+      "markdown": "70. A monoenergetic beam consists of unstable particles with total energies 100 times their rest energy. If the particles have rest mass $m$, their momentum is most nearly\n\n(A) $mc$\n\n(B) $10mc$\n\n(C) $70mc$\n\n(D) $100mc$\n\n(E) $10^{4}mc$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-071",
+      "number": 71,
+      "markdown": "71. A system in thermal equilibrium at temperature $T$ consists of a large number $N_0$ of subsystems, each of which can exist only in two states of energy $E_1$ and $E_2$, where $E_2-E_1=\\epsilon>0$. In the expressions that follow, $k$ is the Boltzmann constant.\n\nFor a system at temperature $T$, the average number of subsystems in the state of energy $E_1$ is given by\n\n(A) $\\frac{N_0}{2}$\n\n(B) $\\frac{N_0}{1+e^{-\\epsilon/kT}}$\n\n(C) $N_0e^{-\\epsilon/kT}$\n\n(D) $\\frac{N_0}{1+e^{\\epsilon/kT}}$\n\n(E) $\\frac{N_0e^{\\epsilon/kT}}{2}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-072",
+      "number": 72,
+      "markdown": "72. A system in thermal equilibrium at temperature $T$ consists of a large number $N_0$ of subsystems, each of which can exist only in two states of energy $E_1$ and $E_2$, where $E_2-E_1=\\epsilon>0$. In the expressions that follow, $k$ is the Boltzmann constant.\n\nThe internal energy of this system at any temperature $T$ is given by $E_1N_0+\\frac{N_0\\epsilon}{1+e^{\\epsilon/kT}}$. The heat capacity of the system is given by which of the following expressions?\n\n(A) $N_0k\\left(\\frac{\\epsilon}{kT}\\right)^2\\frac{e^{\\epsilon/kT}}{(1+e^{\\epsilon/kT})^2}$\n\n(B) $N_0k\\left(\\frac{\\epsilon}{kT}\\right)^2\\frac{1}{(1+e^{\\epsilon/kT})^2}$\n\n(C) $N_0k\\left(\\frac{\\epsilon}{kT}\\right)^2e^{-\\epsilon/kT}$\n\n(D) $\\frac{N_0k}{2}\\left(\\frac{\\epsilon}{kT}\\right)^2$\n\n(E) $\\frac{3}{2}N_0k$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-073",
+      "number": 73,
+      "markdown": "73. Which of the following is true of the entropy of the system?\n\n(A) It increases without limit with $T$ from zero at $T = 0$.\n\n(B) It decreases with increasing $T$.\n\n(C) It increases from zero at $T = 0$ to $N_{0}k\\ln 2$ at arbitrarily high temperatures.\n\n(D) It is given by $N_{0}k\\left[\\frac{5}{2}\\ln T - \\ln p + \\text{constant}\\right]$.\n\n(E) It cannot be calculated from the information given.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-074",
+      "number": 74,
+      "markdown": "74. Two circular hoops, $X$ and $Y$, are hanging on nails in a wall. The mass of $X$ is four times that of $Y$, and the diameter of $X$ is also four times that of $Y$. If the period of small oscillations of $X$ is $T$, the period of small oscillations of $Y$ is\n\n(A) $T$  (B) $T/2$  (C) $T/4$  (D) $T/8$  (E) $T/16$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-075",
+      "number": 75,
+      "markdown": "75. A uranium nucleus decays at rest into a thorium nucleus and a helium nucleus, as shown above.\n\n$$ {}^{235}_{92}\\mathrm{U} \\rightarrow {}^{231}_{90}\\mathrm{Th} + {}^{4}_{2}\\mathrm{He} $$\n\nWhich of the following is true?\n\n(A) Each decay product has the same kinetic energy.\n\n(B) Each decay product has the same speed.\n\n(C) The decay products tend to go in the same direction.\n\n(D) The thorium nucleus has more momentum than the helium nucleus.\n\n(E) The helium nucleus has more kinetic energy than the thorium nucleus.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-076",
+      "number": 76,
+      "markdown": "76. The configuration of three electrons $1s2p3p$ has which of the following as the value of its maximum possible total angular momentum quantum number?\n\n(A) $\\frac{7}{2}$  (B) $3$  (C) $\\frac{5}{2}$  (D) $2$  (E) $\\frac{3}{2}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-077",
+      "number": 77,
+      "markdown": "77. Consider a heavy nucleus with spin $\\frac{1}{2}$. The magnitude of the ratio of the intrinsic magnetic moment of this nucleus to that of an electron is\n\n(A) zero, because the nucleus has no intrinsic magnetic moment\n\n(B) greater than 1, because the nucleus contains many protons\n\n(C) greater than 1, because the nucleus is so much larger in diameter than the electron\n\n(D) less than 1, because of the strong interactions among the nucleons in a nucleus\n\n(E) less than 1, because the nucleus has a mass much larger than that of the electron",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-078",
+      "number": 78,
+      "markdown": "78. One ice skater of mass $m$ moves with speed $2v$ to the right, while another of the same mass $m$ moves with speed $v$ toward the left, as shown in Figure I. Their paths are separated by a distance $b$. At $t = 0$, when they are both at $x = 0$, they grasp a pole of length $b$ and negligible mass. For $t > 0$, consider the system as a rigid body of two masses $m$ separated by distance $b$, as shown in Figure II. Which of the following is the correct formula for the motion after $t = 0$ of the skater initially at $y = b/2$?\n\n![Figure I](images/c4566bd13d55637831c51ba3.jpg)\n\n![Figure II](images/12ee091e5a7b98a9fab1736c.jpg)\n\n(A) $x = 2vt$, $y = b/2$\n\n(B) $x = vt + 0.5b\\sin(3vt/b)$, $y = 0.5b\\cos(3vt/b)$\n\n(C) $x = 0.5vt + 0.5b\\sin(3vt/b)$, $y = 0.5b\\cos(3vt/b)$\n\n(D) $x = vt + 0.5b\\sin(6vt/b)$, $y = 0.5b\\cos(6vt/b)$\n\n(E) $x = 0.5vt + 0.5b\\sin(6vt/b)$, $y = 0.5b\\cos(6vt/b)$\n\n![Dispersion curve](images/a213fce0d1ab676750207cc9.jpg)",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/c4566bd13d55637831c51ba3.jpg",
+        "images/12ee091e5a7b98a9fab1736c.jpg",
+        "images/a213fce0d1ab676750207cc9.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-079",
+      "number": 79,
+      "markdown": "79. The dispersion curve shown above relates the angular frequency $\\omega$ to the wave number $k$. For waves with wave numbers lying in the range $k_1 < k < k_2$, which of the following is true of the phase velocity and the group velocity?\n\n![Dispersion curve](images/a213fce0d1ab676750207cc9.jpg)\n\n(A) They are in opposite directions.\n\n(B) They are in the same direction and the phase velocity is larger.\n\n(C) They are in the same direction and the group velocity is larger.\n\n(D) The phase velocity is infinite and the group velocity is finite.\n\n(E) They are the same in direction and magnitude.",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/a213fce0d1ab676750207cc9.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-080",
+      "number": 80,
+      "markdown": "80. A beam of electrons is accelerated through a potential difference of 25 kilovolts in an x-ray tube. The continuous x-ray spectrum emitted by the target of the tube will have a short wavelength limit of most nearly\n\n(A) $0.1\\,\\text{Å}$\n\n(B) $0.5\\,\\text{Å}$\n\n(C) $2\\,\\text{Å}$\n\n(D) $25\\,\\text{Å}$\n\n(E) $50\\,\\text{Å}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-081",
+      "number": 81,
+      "markdown": "81. In the RLC circuit shown above, the applied voltage is\n\n$$\\varepsilon(t)=\\varepsilon_m\\cos\\omega t.$$\n\nFor a constant $\\varepsilon_m$, at what angular frequency $\\omega$ does the current have its maximum steady-state amplitude after the transients have died out?\n\n![RLC circuit](images/cec7f54e5bd9eae549a52544.jpg)\n\n(A) $\\frac{1}{RC}$\n\n(B) $\\frac{2L}{R}$\n\n(C) $\\frac{1}{\\sqrt{LC}}$\n\n(D) $\\sqrt{\\frac{1}{LC}-\\left(\\frac{R}{2L}\\right)^2}$\n\n(E) $\\sqrt{\\left(\\frac{1}{RC}\\right)^2-\\left(\\frac{L}{R}\\right)^2}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/cec7f54e5bd9eae549a52544.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          23
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-082",
+      "number": 82,
+      "markdown": "82. A thin plate of mass $M$, length $L$, and width $2d$ is mounted vertically on a frictionless axle along the $z$-axis, as shown above. Initially the object is at rest. It is then tapped with a hammer to provide a torque $\\tau$, which produces an angular impulse $H$ about the $z$-axis of magnitude $H=\\int \\tau\\,dt$. What is the angular speed $\\omega$ of the plate about the $z$-axis after the tap?\n\n![Plate and axle](images/e76f35949ede604e65cf64e7.jpg)\n\n(A) $\\frac{H}{2Md^2}$\n\n(B) $\\frac{H}{Md^2}$\n\n(C) $\\frac{2H}{Md^2}$\n\n(D) $\\frac{3H}{Md^2}$\n\n(E) $\\frac{4H}{Md^2}$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/e76f35949ede604e65cf64e7.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          23
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-083",
+      "number": 83,
+      "markdown": "83. Two pith balls of equal mass $M$ and equal charge $q$ are suspended from the same point on long massless threads of length $L$ as shown in the figure above. If $k$ is the Coulomb's law constant, then for small values of $\\theta$, the distance $d$ between the charged pith balls at equilibrium is\n\n![Pith balls and threads](images/c3b5a244d4edf9c9bf245519.jpg)\n\n(A) $\\left(\\frac{2kq^2L}{Mg}\\right)^{1/3}$\n\n(B) $\\left(\\frac{kq^2L}{Mg}\\right)^{1/3}$\n\n(C) $\\left(\\frac{2kq^2L}{Mg}\\right)^{1/2}$\n\n(D) $\\left(\\frac{kq^2L}{Mg}\\right)^{1/2}$\n\n(E) $\\frac{L}{4}$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/c3b5a244d4edf9c9bf245519.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-084",
+      "number": 84,
+      "markdown": "84. An electron oscillates back and forth along the $+$ and $-$ $x$-axes, consequently emitting electromagnetic radiation. Which of the following statements concerning the radiation is NOT true?\n\n(A) The total rate of radiation of energy into all directions is proportional to the square of the electron's acceleration.\n\n(B) The total rate of radiation of energy into all directions is proportional to the square of the electron's charge.\n\n(C) Far from the electron, the rate at which radiated energy crosses a perpendicular unit area decreases as the inverse square of the distance from the electron.\n\n(D) Far from the electron, the rate at which radiated energy crosses a perpendicular unit area is a maximum when the unit area is located on the $+$ or $-$ $x$-axes.\n\n(E) Far from the electron, the radiated energy is carried equally by the transverse electric and the transverse magnetic fields.",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-085",
+      "number": 85,
+      "markdown": "85. A free electron (rest mass $m_e = 0.5\\,\\mathrm{MeV}/c^2$) has a total energy of $1.5\\,\\mathrm{MeV}$. Its momentum $p$ in units of $\\mathrm{MeV}/c$ is about\n\n(A) $0.86$  \n(B) $1.0$  \n(C) $1.4$  \n(D) $1.5$  \n(E) $2.0$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-086",
+      "number": 86,
+      "markdown": "86. The circuit shown above is used to measure the size of the capacitance $C$. The $y$-coordinate of the spot on the oscilloscope screen is proportional to the potential difference across $R$, and the $x$-coordinate of the spot is swept at a constant speed $s$. The switch is closed and then opened. One can then calculate $C$ from the shape and the size of the curve on the screen plus a knowledge of which of the following?\n\n![Circuit diagram](images/180fab95f3738de1d062b009.jpg)\n\n(A) $V_0$ and $R$  \n(B) $s$ and $R$  \n(C) $s$ and $V_0$  \n(D) $R$ and $R'$  \n(E) The sensitivity of the oscilloscope",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/180fab95f3738de1d062b009.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-087",
+      "number": 87,
+      "markdown": "87. A particle of mass $M$ moves in a circular orbit of radius $r$ around a fixed point under the influence of an attractive force $F = \\frac{K}{r^3}$, where $K$ is a constant. If the potential energy of the particle is zero at an infinite distance from the force center, the total energy of the particle in the circular orbit is\n\n(A) $-\\frac{K}{r^2}$  \n(B) $-\\frac{K}{2r^2}$  \n(C) $0$  \n(D) $\\frac{K}{2r^2}$  \n(E) $\\frac{K}{r^2}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-088",
+      "number": 88,
+      "markdown": "88. A parallel-plate capacitor is connected to a battery. $V_0$ is the potential difference between the plates, $Q_0$ the charge on the positive plate, $E_0$ the magnitude of the electric field, and $D_0$ the magnitude of the displacement vector. The original vacuum between the plates is filled with a dielectric and then the battery is disconnected. If the corresponding electrical parameters for the final state of the capacitor are denoted by a subscript $f$, which of the following is true?\n\n(A) $V_f > V_0$  \n(B) $V_f < V_0$  \n(C) $Q_f = Q_0$  \n(D) $E_f > E_0$  \n(E) $D_f > D_0$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-089",
+      "number": 89,
+      "markdown": "89. The energy levels for the one-dimensional harmonic oscillator are $h\\nu\\left(n + \\frac{1}{2}\\right)$, $n = 0, 1, 2, \\ldots$. How will the energy levels for the potential shown in the graph above differ from those for the harmonic oscillator?\n\n![Potential energy graph](images/1e55861d5ef6c8fc574e03c2.jpg)\n\n(A) The term $\\frac{1}{2}$ will be changed to $\\frac{3}{2}$.  \n(B) The energy of each level will be doubled.  \n(C) The energy of each level will be halved.  \n(D) Only those for even values of $n$ will be present.  \n(E) Only those for odd values of $n$ will be present.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/1e55861d5ef6c8fc574e03c2.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-090",
+      "number": 90,
+      "markdown": "90. The spacing of the rotational energy levels for the hydrogen molecule $H_2$ is most nearly\n\n(A) $10^{-9}\\,\\mathrm{eV}$  \n(B) $10^{-3}\\,\\mathrm{eV}$  \n(C) $10\\,\\mathrm{eV}$  \n(D) $10\\,\\mathrm{MeV}$  \n(E) $100\\,\\mathrm{MeV}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-091",
+      "number": 91,
+      "markdown": "91. The particle decay $\\Lambda \\rightarrow p + \\pi^{-}$ must be a weak interaction because\n\n(A) the $\\pi^{-}$ is a lepton  \n(B) the $\\Lambda$ has spin zero  \n(C) no neutrino is produced in the decay  \n(D) it does not conserve angular momentum  \n(E) it does not conserve strangeness",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          25
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-092",
+      "number": 92,
+      "markdown": "92. A flat coil of wire is rotated at a frequency of 10 hertz in the magnetic field produced by three pairs of magnets as shown above. The axis of rotation of the coil lies in the plane of the coil and is perpendicular to the field lines. What is the frequency of the alternating voltage in the coil?\n\n![image](images/71e5b44a23f14f554b8dfdb8.jpg)\n\n(A) $\\frac{10}{6}$ Hz  \n(B) $\\frac{10}{3}$ Hz  \n(C) 10 Hz  \n(D) 30 Hz  \n(E) 60 Hz",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/71e5b44a23f14f554b8dfdb8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-093",
+      "number": 93,
+      "markdown": "93. The figure above shows a small mass connected to a string, which is attached to a vertical post. If the mass is released when the string is horizontal as shown, the magnitude of the total acceleration of the mass as a function of the angle $\\theta$ is\n\n![image](images/91d4168fba09551240353a42.jpg)\n\n(A) $g \\sin \\theta$  \n(B) $2g \\cos \\theta$  \n(C) $2g \\sin \\theta$  \n(D) $g\\sqrt{3\\cos^2\\theta + 1}$  \n(E) $g\\sqrt{3\\sin^2\\theta + 1}$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/91d4168fba09551240353a42.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-094",
+      "number": 94,
+      "markdown": "94. Which of the following is a Lorentz transformation? (Assume a system of units such that the velocity of light is 1.)\n\n(A) $x^{\\prime} = 4x$, $y^{\\prime} = y$, $z^{\\prime} = z$, $t' = .25t$\n\n(B) $x^{\\prime} = x - .75t$, $y^{\\prime} = y$, $z^{\\prime} = z$, $t' = t$\n\n(C) $x^{\\prime} = 1.25x - .75t$, $y^{\\prime} = y$, $z^{\\prime} = z$, $t^\\prime = 1.25t - .75x$\n\n(D) $x^{\\prime} = 1.25x - .75t$, $y^{\\prime} = y$, $z^{\\prime} = z$, $t^\\prime = .75t - 1.25x$\n\n(E) None of the above",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-095",
+      "number": 95,
+      "markdown": "95. A beam of $10^{12}$ protons per second is incident on a target containing $10^{20}$ nuclei per square centimeter. At an angle of 10 degrees, there are $10^{2}$ protons per second elastically scattered into a detector that subtends a solid angle of $10^{-4}$ steradians. What is the differential elastic scattering cross section, in units of square centimeters per steradian?\n\n(A) $10^{-24}$  \n(B) $10^{-25}$  \n(C) $10^{-26}$  \n(D) $10^{-27}$  \n(E) $10^{-28}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-096",
+      "number": 96,
+      "markdown": "96. A gas-filled cell of length 5 centimeters is inserted in one arm of a Michelson interferometer, as shown in the figure above. The interferometer is illuminated by light of wavelength 500 nanometers. As the gas is evacuated from the cell, 40 fringes cross a point in the field of view. The refractive index of this gas is most nearly\n\n![image](images/5ee5aede31b4e72a3bb6fe89.jpg)\n\n(A) 1.02  \n(B) 1.002  \n(C) 1.0002  \n(D) 1.00002  \n(E) 0.98",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/5ee5aede31b4e72a3bb6fe89.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          27
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-097",
+      "number": 97,
+      "markdown": "97. Lattice forces affect the motion of electrons in a metallic crystal, so that the relationship between the energy $E$ and wave number $k$ is not the classical equation $E = \\hbar^2 k^2/2m$, where $m$ is the electron mass. Instead, it is possible to use an effective mass $m^*$ given by which of the following?\n\n(A) $m^* = \\frac{1}{2}\\hbar^2 k\\left(\\frac{dk}{dE}\\right)$\n\n(B) $m^* = \\frac{\\hbar^2 k}{\\left(\\frac{dk}{dE}\\right)}$\n\n(C) $m^* = \\hbar^2 k\\left(\\frac{d^2 k}{dE^2}\\right)^{1/3}$\n\n(D) $m^* = \\frac{\\hbar^2}{\\left(\\frac{d^2 E}{dk^2}\\right)}$\n\n(E) $m^* = \\frac{1}{2}\\hbar^2 m^2\\left(\\frac{d^2 E}{dk^2}\\right)$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          27
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-098",
+      "number": 98,
+      "markdown": "98. The matrix $A = \\begin{bmatrix} 0 & 1 & 0 \\\\ 0 & 0 & 1 \\\\ 1 & 0 & 0 \\end{bmatrix}$ has three eigenvalues $\\lambda_i$ defined by $Av_i = \\lambda_i v_i$. Which of the following statements is NOT true?\n\n(A) $\\lambda_1 + \\lambda_2 + \\lambda_3 = 0$\n\n(B) $\\lambda_1$, $\\lambda_2$, and $\\lambda_3$ are all real numbers.\n\n(C) $\\lambda_2\\lambda_3 = +1$ for some pair of roots.\n\n(D) $\\lambda_1\\lambda_2 + \\lambda_2\\lambda_3 + \\lambda_3\\lambda_1 = 0$\n\n(E) $\\lambda_i^3 = +1$, $i = 1, 2, 3$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          27
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-099",
+      "number": 99,
+      "markdown": "99. In perturbation theory, what is the first order correction to the energy of a hydrogen atom (Bohr radius $a_0$) in its ground state due to the presence of a static electric field $E$?\n\n(A) Zero\n\n(B) $eEa_0$\n\n(C) $3eEa_0$\n\n(D) $\\frac{8e^2Ea_0^3}{3}$\n\n(E) $\\frac{8e^2E^2a_0^3}{3}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr9277-100",
+      "number": 100,
+      "markdown": "100. A uniform rod of length 10 meters and mass 20 kilograms is balanced on a fulcrum with a 40-kilogram mass on one end of the rod and a 20-kilogram mass on the other end, as shown above.\n\n![image](images/1c2b89bf95b423f7e8968b0f.jpg)\n\nHow far is the fulcrum located from the center of the rod?\n\n(A) 0 m\n\n(B) 1 m\n\n(C) 1.25 m\n\n(D) 1.5 m\n\n(E) 2 m",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/1c2b89bf95b423f7e8968b0f.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR9277_1992.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR9277_1992.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    }
+  ]
+}

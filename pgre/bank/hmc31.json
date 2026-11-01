@@ -1,0 +1,705 @@
+{
+  "id": "hmc31",
+  "title": "HMC Physics Sample Questions",
+  "year": 1999,
+  "questionCount": 31,
+  "durationMinutes": 53,
+  "sourcePdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+  "answerSource": {
+    "page": 22,
+    "type": "official"
+  },
+  "scoredCount": 31,
+  "solutionCount": 0,
+  "questions": [
+    {
+      "id": "hmc31-001",
+      "number": 1,
+      "markdown": "1. The weight of an object on the Moon is 1/6 of its weight on the Earth. A pendulum clock that ticks once per second on the Earth is taken to the Moon. On the Moon the clock would tick once every\n\n(A) 1/6 s  (B) $1/\\sqrt{6}$ s  (C) 1 s  (D) $\\sqrt{6}$ s  (E) 6 s",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-002",
+      "number": 2,
+      "markdown": "2. Two springs, $S_1$ and $S_2$, have negligible masses and the spring constant of $S_1$ is 1/3 that of $S_2$. When a block is hung from the springs as shown below and the springs come to equilibrium again, the ratio of the work done in stretching $S_1$ to the work done in stretching $S_2$ is\n\n![Springs in series](images/979bf1152bbf34e4f25e59a3.jpg)\n\n(A) 1/9  (B) 1/3  (C) 1  (D) 3  (E) 9",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/979bf1152bbf34e4f25e59a3.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          10
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-003",
+      "number": 3,
+      "markdown": "Questions 3–4 relate to a particle of mass $M$ that is moving in an attractive central force field. The potential energy function representing the attractive central force field can be written as $V(r)=-k/r$. At a certain time the particle has angular momentum $L$ and total energy $E$.\n\n3. At some later time, which of the following statements will be true of the angular momentum $L$ and total energy $E$ of the particle?\n\n(A) $L$ will have changed, but $E$ will not.\n\n(B) $E$ will have changed, but $L$ will not.\n\n(C) Neither $L$ nor $E$ will have changed.\n\n(D) Both $L$ and $E$ will have changed.\n\n(E) It is not possible to say what will happen to $L$ and $E$.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-004",
+      "number": 4,
+      "markdown": "Questions 3–4 relate to a particle of mass $M$ that is moving in an attractive central force field. The potential energy function representing the attractive central force field can be written as $V(r)=-k/r$. At a certain time the particle has angular momentum $L$ and total energy $E$.\n\n4. For a given nonzero angular momentum, there is a minimum energy for which it is possible to find a solution to the equations of motion. At this minimum energy, the particle is moving in a\n\n(A) circular orbit\n\n(B) noncircular elliptical orbit\n\n(C) parabolic orbit\n\n(D) hyperbolic orbit\n\n(E) straight line",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          11
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-005",
+      "number": 5,
+      "markdown": "Questions 5–6 concern a uniformly charged wire that has the form of a circular loop with radius $b$. Consider two points on the axis of the loop. $P_1$ is at a distance $b$ from the loop’s center, and $P_2$ is at a distance $2b$ from the loop’s center. The potential $V$ is zero very far from the loop. At $P_1$ and $P_2$ the potentials are $V_1$ and $V_2$, respectively.\n\n![Circular loop and points on its axis](images/2ca1777165dea0243525ea54.jpg)\n\n5. What is $V_2$ in terms of $V_1$?\n\n(A) $V_1/3$  (B) $2V_1/5$  (C) $V_1/2$  (D) $\\sqrt{2/5}\\,V_1$  (E) $4\\pi V_1$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/2ca1777165dea0243525ea54.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-006",
+      "number": 6,
+      "markdown": "Questions 5–6 concern a uniformly charged wire that has the form of a circular loop with radius $b$. Consider two points on the axis of the loop. $P_1$ is at a distance $b$ from the loop’s center, and $P_2$ is at a distance $2b$ from the loop’s center. The potential $V$ is zero very far from the loop. At $P_1$ and $P_2$ the potentials are $V_1$ and $V_2$, respectively.\n\n![Circular loop and points on its axis](images/2ca1777165dea0243525ea54.jpg)\n\n6. How much work would be required to move a charge $q$ from $P_1$ to $P_2$?\n\n(A) $qV_2/V_1$  (B) $qV_2$  (C) $q\\log_e(V_2/V_1)$  (D) $qV_1V_2$  (E) $q(V_2-V_1)$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/2ca1777165dea0243525ea54.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-007",
+      "number": 7,
+      "markdown": "7. In electrostatic problems, the electric field always satisfies the equation\n\n(A) $\\nabla \\cdot \\mathbf{E} = \\nabla \\times \\mathbf{E}$\n(B) $\\nabla \\cdot \\mathbf{E} = 0$\n(C) $\\nabla \\times \\mathbf{E} = 0$\n(D) $\\nabla(E^2) = 0$\n(E) $\\nabla(\\nabla \\cdot \\mathbf{E}) = \\nabla \\times \\mathbf{E}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-008",
+      "number": 8,
+      "markdown": "Questions 8–9\n\nThe graphs below represent variables of an electrical circuit as functions of time $t$ after the circuit switch is closed. In each case the circuit specified contains circuit elements connected in series with each other and with a battery. Any capacitor is uncharged at the beginning. Select the graph that most nearly shows the nature of the time dependence of the indicated variable.\n\n![Graph A](images/c9428491389dadeb08acdcf8.jpg)\n\n![Graph B](images/d762ccb28631c4e8db6c36fc.jpg)\n\n![Graph C](images/7dee251db7faf23dc8f7f195.jpg)\n\n![Graph D](images/9fb8a3747c44a0bb7f145ef3.jpg)\n\n![Graph E](images/648abed696db2f4f9a4fa25a.jpg)\n\n8. Which graph represents the potential drop across the resistor as a function of time in an inductance-resistance circuit?\n\n(A) A\n(B) B\n(C) C\n(D) D\n(E) E",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/c9428491389dadeb08acdcf8.jpg",
+        "images/d762ccb28631c4e8db6c36fc.jpg",
+        "images/7dee251db7faf23dc8f7f195.jpg",
+        "images/9fb8a3747c44a0bb7f145ef3.jpg",
+        "images/648abed696db2f4f9a4fa25a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-009",
+      "number": 9,
+      "markdown": "Questions 8–9\n\nThe graphs below represent variables of an electrical circuit as functions of time $t$ after the circuit switch is closed. In each case the circuit specified contains circuit elements connected in series with each other and with a battery. Any capacitor is uncharged at the beginning. Select the graph that most nearly shows the nature of the time dependence of the indicated variable.\n\n![Graph A](images/c9428491389dadeb08acdcf8.jpg)\n\n![Graph B](images/d762ccb28631c4e8db6c36fc.jpg)\n\n![Graph C](images/7dee251db7faf23dc8f7f195.jpg)\n\n![Graph D](images/9fb8a3747c44a0bb7f145ef3.jpg)\n\n![Graph E](images/648abed696db2f4f9a4fa25a.jpg)\n\n9. Which graph represents the charge on the capacitor as a function of time in an underdamped inductance-resistance-capacitance circuit?\n\n(A) A\n(B) B\n(C) C\n(D) D\n(E) E",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/c9428491389dadeb08acdcf8.jpg",
+        "images/d762ccb28631c4e8db6c36fc.jpg",
+        "images/7dee251db7faf23dc8f7f195.jpg",
+        "images/9fb8a3747c44a0bb7f145ef3.jpg",
+        "images/648abed696db2f4f9a4fa25a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          13
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-010",
+      "number": 10,
+      "markdown": "10. Which of the following properties of the hydrogen atom can be predicted most accurately from the simple Bohr model?\n\n(A) Energy differences between states\n(B) Angular momentum of the ground state\n(C) Degeneracy of states\n(D) Transition probabilities\n(E) Selection rules for transitions",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-011",
+      "number": 11,
+      "markdown": "11. The ratio of the nuclear radius to the atomic radius of an element near the middle of the periodic table is most nearly\n\n(A) $10^{-2}$\n(B) $10^{-5}$\n(C) $10^{-8}$\n(D) $10^{-11}$\n(E) $10^{-14}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-012",
+      "number": 12,
+      "markdown": "12. The total energy necessary to remove all three electrons from a lithium atom is most nearly\n\n(A) 2 MeV\n(B) $2\\ \\mathrm{KeV}$\n(C) $200\\ \\mathrm{eV}$\n(D) 20 eV\n(E) 2 eV\n\n![Electron beam, thin copper foil, and fluorescent screen](images/b08aa6696602a0ac0cdc44d8.jpg)",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/b08aa6696602a0ac0cdc44d8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": [
+          "The copper-foil diffraction diagram appears below Question 12 in the source page but belongs to Question 13; excluded here because Question 13 is outside the requested numbers."
+        ]
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-013",
+      "number": 13,
+      "markdown": "13. In order to observe a ring diffraction pattern on the screen shown above, which of the following conditions must be met?\n\n![Electron beam, thin copper foil, and fluorescent screen](images/b08aa6696602a0ac0cdc44d8.jpg)\n\n(A) The electron beam must be polarized.\n\n(B) The electron beam must be approximately monoenergetic.\n\n(C) The copper foil must be a single crystal specimen.\n\n(D) The copper foil must be of uniform thickness.\n\n(E) The electron beam must strike the foil at normal incidence.",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/b08aa6696602a0ac0cdc44d8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-014",
+      "number": 14,
+      "markdown": "14. The speed of sound in an ideal gas is related to the temperature $T$ of the gas. This speed is proportional to\n\n(A) $T^{1/4}$\n\n(B) $T^{1/2}$\n\n(C) $T$\n\n(D) $T^{4/3}$\n\n(E) $T^2$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-015",
+      "number": 15,
+      "markdown": "15. Two harmonic transverse waves of the same frequency with displacements at right angles to each other can be represented by the equations\n\n$$\ny = y_0 \\sin(\\omega t - kx),\n$$\n\n$$\nz = z_0 \\sin(\\omega t - kx + \\phi),\n$$\n\nwhere $y_0$ and $z_0$ are nonzero constants.\n\nThe equations represent a plane-polarized wave if $\\phi$ equals\n\n(A) $\\sqrt{2}$\n\n(B) $3\\pi/2$\n\n(C) $\\pi/2$\n\n(D) $\\pi/4$\n\n(E) $0$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          15
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-016",
+      "number": 16,
+      "markdown": "16. The sketch below shows a one-dimensional potential for an electron. The potential is symmetric about the $V$-axis.\n\n![One-dimensional potential $V(x)$, symmetric about the $V$-axis](images/832a13061ace81db6593e8e5.jpg)\n\nWhich of the following statements correctly describes the ground state of the system with one electron present?\n\n(A) A single electron must be localized in one well.\n\n(B) The ground state will accommodate up to four electrons.\n\n(C) The kinetic energy of the ground state will be one-half its potential energy.\n\n(D) The wave function of the ground state will be antisymmetric with respect to the $V$-axis.\n\n(E) The wave function of the ground state will be symmetric with respect to the $V$-axis.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/832a13061ace81db6593e8e5.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-017",
+      "number": 17,
+      "markdown": "17. The sketch below shows a one-dimensional potential for an electron. The potential is symmetric about the $V$-axis.\n\n![One-dimensional potential $V(x)$, symmetric about the $V$-axis](images/832a13061ace81db6593e8e5.jpg)\n\nA second electron is now added to the system. If the electrons do not interact, which of the following statements is correct?\n\n(A) The second electron must be localized in the well not previously occupied.\n\n(B) In the ground state of the system, each of the two electrons will have the same spatial wave function.\n\n(C) In the ground state of the system, one electron will be in a spatially symmetric state and one will be in a spatially antisymmetric state.\n\n(D) The second electron will not be bound.\n\n(E) Pair annihilation will occur.",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/832a13061ace81db6593e8e5.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-018",
+      "number": 18,
+      "markdown": "18. A particle with rest mass $m$ and momentum $mc/2$ collides with a particle of the same rest mass that is initially at rest. After the collision, the original two particles have disappeared. Two other particles, each with rest mass $m'$, are observed to leave the region of the collision at equal angles of $30^\\circ$ with respect to the direction of the original moving particle, as shown below.\n\n![Collision diagram showing two particles emitted at equal angles of $30^\\circ$](images/b584b8154b794b9f7a1e897f.jpg)\n\nWhat is the speed of the original moving particle?\n\n(A) $c/5$\n\n(B) $c/3$\n\n(C) $c/\\sqrt{7}$\n\n(D) $c/\\sqrt{5}$\n\n(E) $c/2$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/b584b8154b794b9f7a1e897f.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-019",
+      "number": 19,
+      "markdown": "19. A particle with rest mass $m$ and momentum $mc/2$ collides with a particle of the same rest mass that is initially at rest. After the collision, the original two particles have disappeared. Two other particles, each with rest mass $m'$, are observed to leave the region of the collision at equal angles of $30^\\circ$ with respect to the direction of the original moving particle, as shown below.\n\n![Collision diagram](images/b584b8154b794b9f7a1e897f.jpg)\n\nWhat is the momentum of each of the two particles produced by the collision?\n\n(A) $mc/5$\n\n(B) $mc/(2\\sqrt{3})$\n\n(C) $mc/\\sqrt{5}$\n\n(D) $mc/2$\n\n(E) $mc/\\sqrt{3}$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/b584b8154b794b9f7a1e897f.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          17
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-020",
+      "number": 20,
+      "markdown": "20. An ideal diatomic gas is initially at temperature $T$ and volume $V$. The gas is taken through three reversible processes in the following cycle: adiabatic expansion to the volume $2V$, constant-volume process to the temperature $T$, isothermal compression to the original volume $V$.\n\nFor the complete cycle described above, which of the following is true?\n\n(A) Net thermal energy is transferred from the gas to the surroundings.\n\n(B) The net work done by the gas on the surroundings is positive.\n\n(C) The net work done by the gas on the surroundings is zero.\n\n(D) The internal energy of the gas increases.\n\n(E) The internal energy of the gas decreases.",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-021",
+      "number": 21,
+      "markdown": "21. An ideal diatomic gas is initially at temperature $T$ and volume $V$. The gas is taken through three reversible processes in the following cycle: adiabatic expansion to the volume $2V$, constant-volume process to the temperature $T$, isothermal compression to the original volume $V$.\n\nWhich of the following statements about entropy changes in this cycle is true?\n\n(A) The entropy of the gas remains constant during each of the three processes.\n\n(B) The entropy of the surroundings remains constant during each of the three processes.\n\n(C) The combined entropy of the gas and surroundings remains constant during each of the three processes.\n\n(D) For the complete cycle, the combined entropy of the gas and surroundings increases.\n\n(E) For the complete cycle, the entropy of the gas increases.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-022",
+      "number": 22,
+      "markdown": "22. Which of the curves in the graph above best represents the distribution of speeds of the molecules in an ideal gas at thermal equilibrium?\n\n![Speed distribution graph](images/f423f3bc1c1f93fab09e1c57.jpg)\n\n(A) $A$\n\n(B) $B$\n\n(C) $C$\n\n(D) $D$\n\n(E) $E$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/f423f3bc1c1f93fab09e1c57.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-023",
+      "number": 23,
+      "markdown": "23. Which of the following is most useful for measuring temperatures of about $3{,}000\\,\\mathrm{K}$?\n\n(A) Optical pyrometer\n\n(B) Carbon resistor\n\n(C) Gas-bulb thermometer\n\n(D) Mercury thermometer\n\n(E) Thermocouple",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-024",
+      "number": 24,
+      "markdown": "24. A counter near a long-lived radioactive source measures an average of 100 counts per minute. The probability that more than 110 counts will be recorded in a given one-minute interval is most nearly\n\n(A) zero\n\n(B) 0.001\n\n(C) 0.025\n\n(D) 0.15\n\n(E) 0.5",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-025",
+      "number": 25,
+      "markdown": "25. Materials that are good electrical conductors also tend to be good thermal conductors because\n\n(A) they have highly elastic lattice structures\n\n(B) they have energy gaps between the allowed electron energy bands\n\n(C) impurities aid both processes\n\n(D) surface states are important in both processes\n\n(E) conduction electrons contribute to both processes",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          19
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-026",
+      "number": 26,
+      "markdown": "26. The nonconservation of parity in the decay $\\pi^+ \\to \\mu^+ + \\nu$ can be verified by measuring the\n\n(A) $Q$-value of the decay\n\n(B) longitudinal polarization of the $\\mu^+$\n\n(C) longitudinal polarization of the $\\pi^+$\n\n(D) angular correlation between the $\\mu^+$ and the $\\nu$\n\n(E) time dependence of the decay process",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-027",
+      "number": 27,
+      "markdown": "![S-shaped wire diagram](images/9346e44c7ed36df79cd3d89d.jpg)\n\n27. The S-shaped wire shown above has a mass $M$, and the radius of curvature of each half is $R$. The moment of inertia about an axis through $A$ and perpendicular to the plane of the paper is\n\n(A) $\\frac{1}{2}MR^2$\n\n(B) $\\frac{3}{4}MR^2$\n\n(C) $MR^2$\n\n(D) $\\frac{3}{2}MR^2$\n\n(E) $2MR^2$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/9346e44c7ed36df79cd3d89d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-028",
+      "number": 28,
+      "markdown": "Questions 28–29 are based on the following information.\n\nA long, thin, vertical wire has a net positive charge $\\lambda$ per unit length. In addition, there is a current $I$ in the wire. A charged particle moves with speed $u$ in a straight-line trajectory, parallel to the wire and at a distance $r$ from the wire. Assume that the only forces on the particle are those that result from the charge on and the current in the wire and that $u$ is much less than $c$, the speed of light.\n\n28. Suppose that the current in the wire is reduced to $I/2$. Which of the following changes, made simultaneously with the change in the current, is necessary if the same particle is to remain in the same trajectory at the same distance $r$ from the wire?\n\n(A) Doubling the charge per unit length on the wire only\n\n(B) Doubling the charge on the particle only\n\n(C) Doubling both the charge per unit length on the wire and the charge on the particle\n\n(D) Doubling the speed of the particle\n\n(E) Introducing an additional magnetic field parallel to the wire",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-029",
+      "number": 29,
+      "markdown": "Questions 28–29 are based on the following information.\n\nA long, thin, vertical wire has a net positive charge $\\lambda$ per unit length. In addition, there is a current $I$ in the wire. A charged particle moves with speed $u$ in a straight-line trajectory, parallel to the wire and at a distance $r$ from the wire. Assume that the only forces on the particle are those that result from the charge on and the current in the wire and that $u$ is much less than $c$, the speed of light.\n\n29. The particle is later observed to move in a straight-line trajectory, parallel to the wire but at a distance $2r$ from the wire. If the wire carries a current $I$ and the charge per unit length is still $\\lambda$, the speed of the particle is\n\n(A) $4u$\n\n(B) $2u$\n\n(C) $u$\n\n(D) $u/2$\n\n(E) $u/4$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          21
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-030",
+      "number": 30,
+      "markdown": "30. An energy level of a certain isolated atom is split into three components by the hyperfine interaction coupling of the electronic and nuclear angular momenta. The quantum number $j$, specifying the magnitude of the total electronic angular momentum for the level, has the value $j = 3/2$. The quantum number $i$, specifying the magnitude of the nuclear angular momentum, must have the value\n\n(A) $1/2$\n\n(B) $1$\n\n(C) $3/2$\n\n(D) $2$\n\n(E) $3$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "hmc31-031",
+      "number": 31,
+      "markdown": "31. An electron with energy $E$ and momentum $k\\hbar$ is incident from the left on a potential step of height $V > E$ at $x = 0$. For $x > 0$, the space part of the electron’s wave function has the form\n\n![Potential step diagram](images/c5ee9fe149dc7c84ce386087.jpg)\n\n(A) $e^{ikx}$  (B) $e^{-ik'x}$; $k' < k$  (C) $e^{-\\alpha x}$, where $\\alpha$ is real and positive  (D) $\\sin kx$  (E) identically zero",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/c5ee9fe149dc7c84ce386087.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/HMC_Mini_Practice_31Q.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/HMC_Mini_Practice_31Q.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    }
+  ]
+}

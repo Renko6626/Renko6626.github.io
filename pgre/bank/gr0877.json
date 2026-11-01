@@ -1,0 +1,2200 @@
+{
+  "id": "gr0877",
+  "title": "GRE Physics Test Form GR0877",
+  "year": 2008,
+  "questionCount": 100,
+  "durationMinutes": 170,
+  "sourcePdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+  "answerSource": {
+    "page": 90,
+    "type": "official"
+  },
+  "scoredCount": 100,
+  "solutionCount": 0,
+  "questions": [
+    {
+      "id": "gr0877-001",
+      "number": 1,
+      "markdown": "1. A ball is thrown out of the passenger window of a car moving to the right (ignore air resistance). If the ball is thrown out perpendicular to the velocity of the car, which of the following best depicts the path the ball takes, as viewed from above?\n\n(A)\n\n![Option A](images/2ebf98f4b8b2ad306a7c3abc.jpg)\n\n(B)\n\n![Option B](images/8a6db4bf216b1ebad8c930a5.jpg)\n\n(C)\n\n![Option C](images/a15335fa6416e6b99d841113.jpg)\n\n(D)\n\n![Option D](images/d58258146f30d291099cf43d.jpg)\n\n(E)\n\n![Option E](images/11f634a4efdf7b6ea9c1e285.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/2ebf98f4b8b2ad306a7c3abc.jpg",
+        "images/8a6db4bf216b1ebad8c930a5.jpg",
+        "images/a15335fa6416e6b99d841113.jpg",
+        "images/d58258146f30d291099cf43d.jpg",
+        "images/11f634a4efdf7b6ea9c1e285.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-002",
+      "number": 2,
+      "markdown": "2. An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it hits the ground 2.0 s later, from what height was it thrown? (Neglect air resistance and assume the ground is level.)\n\n(A) 4.9 m  \n(B) 9.8 m  \n(C) 10.0 m  \n(D) 19.6 m  \n(E) 39.2 m",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-003",
+      "number": 3,
+      "markdown": "3. A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?\n\n(A) 0.25 W  \n(B) 0.5 W  \n(C) 1 W  \n(D) 2 W  \n(E) 4 W",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          12
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-004",
+      "number": 4,
+      "markdown": "4. An infinitely long, straight wire carrying current $I_1$ passes through the center of a circular loop of wire carrying current $I_2$, as shown above. The long wire is perpendicular to the plane of the loop. Which of the following describes the magnetic force on the loop?\n\n![Diagram](images/e4fc99ec6767f1aff8af5b40.jpg)\n\n(A) Outward, along a radius of the loop.  \n(B) Inward, along a radius of the loop.  \n(C) Upward, along the axis of the loop.  \n(D) Downward, along the axis of the loop.  \n(E) There is no magnetic force on the loop.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/e4fc99ec6767f1aff8af5b40.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-005",
+      "number": 5,
+      "markdown": "5. De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\n\n(A) Planck’s constant  \n(B) Boltzmann’s constant  \n(C) The Rydberg constant  \n(D) The speed of light  \n(E) Avogadro’s number",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-006",
+      "number": 6,
+      "markdown": "6. An atom has filled $n = 1$ and $n = 2$ levels. How many electrons does the atom have?\n\n(A) 2  \n(B) 4  \n(C) 6  \n(D) 8  \n(E) 10",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-007",
+      "number": 7,
+      "markdown": "7. The root-mean-square speed of molecules of mass $m$ in an ideal gas at temperature $T$ is\n\n(A) $0$\n\n(B) $\\sqrt{\\frac{2kT}{m}}$\n\n(C) $\\sqrt{\\frac{3kT}{m}}$\n\n(D) $\\sqrt{\\frac{8kT}{\\pi m}}$\n\n(E) $\\frac{kT}{m}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-008",
+      "number": 8,
+      "markdown": "8. The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of\n\n(A) 2\n\n(B) 4\n\n(C) 8\n\n(D) 16\n\n(E) 32",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          14
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-009",
+      "number": 9,
+      "markdown": "9. ![Orbit diagram](images/0b65d1ff393ab6b1b2c21efc.jpg)\n\nThe figure above represents the orbit of a planet around a star, $S$, and the marks divide the orbit into 14 equal time intervals, $t = T/14$, where $T$ is the orbital period. If the only force acting on the planet is Newtonian gravitation, then true statements about the situation include which of the following?\n\nI. Area $A$ = area $B$\n\nII. The star $S$ is at one focus of an elliptically shaped orbit.\n\nIII. $T^2 = Ca^3$, where $a$ is the semimajor axis of the ellipse and $C$ is a constant.\n\n(A) I only\n\n(B) II only\n\n(C) I and II only\n\n(D) II and III only\n\n(E) I, II, and III",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/0b65d1ff393ab6b1b2c21efc.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-010",
+      "number": 10,
+      "markdown": "10. A massless spring with force constant $k$ launches a ball of mass $m$. In order for the ball to reach a speed $v$, by what displacement $s$ should the spring be compressed?\n\n(A) $s = v\\sqrt{\\frac{k}{m}}$\n\n(B) $s = v\\sqrt{\\frac{m}{k}}$\n\n(C) $s = v\\sqrt{\\frac{2k}{m}}$\n\n(D) $s = v\\frac{m}{k}$\n\n(E) $s = v^2\\frac{m}{2k}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-011",
+      "number": 11,
+      "markdown": "11. A quantum mechanical harmonic oscillator has an angular frequency $\\omega$. The Schrödinger equation predicts that the ground state energy of the oscillator will be\n\n(A) $-\\frac{1}{2}\\hbar\\omega$\n\n(B) $0$\n\n(C) $\\frac{1}{2}\\hbar\\omega$\n\n(D) $\\hbar\\omega$\n\n(E) $\\frac{3}{2}\\hbar\\omega$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-012",
+      "number": 12,
+      "markdown": "12. In the Bohr model of the hydrogen atom, the linear momentum of the electron at radius $r_n$ is given by which of the following? ($n$ is the principal quantum number.)\n\n(A) $n\\hbar$\n\n(B) $nr_n\\hbar$\n\n(C) $\\frac{n\\hbar}{r_n}$\n\n(D) $n^2r_n\\hbar$\n\n(E) $\\frac{n^2\\hbar}{r_n}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          16
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-013",
+      "number": 13,
+      "markdown": "13. The figure above represents a log-log plot of variable $y$ versus variable $x$. The origin represents the point $x=1$ and $y=1$. Which of the following gives the approximate functional relationship between $y$ and $x$?\n\n![Log-log plot of $y$ versus $x$](images/06806d958a35392b0edc89ef.jpg)\n\n(A) $y=6\\sqrt{x}$  \n(B) $y=\\frac{1}{2}x+6$  \n(C) $y=6x+0.5$  \n(D) $y=\\frac{1}{6}x^2$  \n(E) $y=6x^2$",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/06806d958a35392b0edc89ef.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          18
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-014",
+      "number": 14,
+      "markdown": "14. Two experimental techniques determine the mass of an object to be $11\\pm1\\ \\mathrm{kg}$ and $10\\pm2\\ \\mathrm{kg}$. These two measurements can be combined to give a weighted average. The uncertainty of the weighted average is equal to which of the following?\n\n(A) $\\frac{1}{2}\\ \\mathrm{kg}$  \n(B) $\\frac{2}{\\sqrt{5}}\\ \\mathrm{kg}$  \n(C) $\\frac{2}{\\sqrt{3}}\\ \\mathrm{kg}$  \n(D) $2\\ \\mathrm{kg}$  \n(E) $\\sqrt{5}\\ \\mathrm{kg}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-015",
+      "number": 15,
+      "markdown": "15. If the five lenses shown below are made of the same material, which lens has the shortest positive focal length?\n\n(A) ![Lens A](images/cb6214b16e51df32ed0beae7.jpg)\n\n(B) ![Lens B](images/1ce77e526788d17abc7b683d.jpg)\n\n(C) ![Lens C](images/9486d97ed9ad50684e8ea0a7.jpg)\n\n(D) ![Lens D](images/c1c92c5e3c3696ca706e4bb0.jpg)\n\n(E) ![Lens E](images/2c19074afcd509588a2a3e2d.jpg)",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/cb6214b16e51df32ed0beae7.jpg",
+        "images/1ce77e526788d17abc7b683d.jpg",
+        "images/9486d97ed9ad50684e8ea0a7.jpg",
+        "images/c1c92c5e3c3696ca706e4bb0.jpg",
+        "images/2c19074afcd509588a2a3e2d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          20
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-016",
+      "number": 16,
+      "markdown": "16. Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of $45^\\circ$ with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?\n\n(A) $100\\%$  \n(B) $75\\%$  \n(C) $50\\%$  \n(D) $25\\%$  \n(E) $0\\%$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-017",
+      "number": 17,
+      "markdown": "17. A very long, thin, straight wire carries a uniform charge density of $\\lambda$ per unit length. Which of the following gives the magnitude of the electric field at a radial distance $r$ from the wire?\n\n(A) $\\frac{1}{2\\pi\\varepsilon_0}\\frac{\\lambda}{r}$  \n(B) $\\frac{1}{2\\pi\\varepsilon_0}\\frac{r}{\\lambda}$  \n(C) $\\frac{1}{2\\pi\\varepsilon_0}\\frac{\\lambda}{r^2}$  \n(D) $\\frac{1}{4\\pi\\varepsilon_0}\\frac{\\lambda^2}{r^2}$  \n(E) $\\frac{1}{4\\pi\\varepsilon_0}\\lambda\\ln r$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-018",
+      "number": 18,
+      "markdown": "18. The bar magnet shown in the figure above is moved completely through the loop. Which of the following is a true statement about the direction of the current flow between the two points $a$ and $b$ in the circuit?\n\n![Bar magnet moving through a loop circuit with points $a$ and $b$](images/1a3e1e68ebc12f732d098ea8.jpg)\n\n(A) No current flows between $a$ and $b$ as the magnet passes through the loop.  \n(B) Current flows from $a$ to $b$ as the magnet passes through the loop.  \n(C) Current flows from $b$ to $a$ as the magnet passes through the loop.  \n(D) Current flows from $a$ to $b$ as the magnet enters the loop and from $b$ to $a$ as the magnet leaves the loop.  \n(E) Current flows from $b$ to $a$ as the magnet enters the loop and from $a$ to $b$ as the magnet leaves the loop.",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/1a3e1e68ebc12f732d098ea8.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          22
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-019",
+      "number": 19,
+      "markdown": "19. The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maximum near 500 nm. For a body with a surface temperature close to 300 K, at what wavelength would the thermal spectrum reach a maximum?\n\n(A) 10 μm  \n(B) 100 μm  \n(C) 10 mm  \n(D) 100 mm  \n(E) 10 m",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-020",
+      "number": 20,
+      "markdown": "20. At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the temperature was 12 K, typical objects in the universe, such as galaxies, were\n\n(A) one-quarter as distant as they are today  \n(B) one-half as distant as they are today  \n(C) separated by about the same distances as they are today  \n(D) two times as distant as they are today  \n(E) four times as distant as they are today",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-021",
+      "number": 21,
+      "markdown": "21. For an adiabatic process involving an ideal gas having volume $V$ and temperature $T$, which of the following is constant? ($\\gamma = C_P/C_V$)\n\n(A) $TV$  \n(B) $TV^{\\gamma}$  \n(C) $TV^{\\gamma-1}$  \n(D) $T^{\\gamma}V$  \n(E) $T^{\\gamma}V^{-1}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-022",
+      "number": 22,
+      "markdown": "22. An electron has total energy equal to four times its rest energy. The momentum of the electron is\n\n(A) $m_e c$  \n(B) $\\sqrt{2}\\,m_e c$  \n(C) $\\sqrt{15}\\,m_e c$  \n(D) $4m_e c$  \n(E) $2\\sqrt{15}\\,m_e c$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-023",
+      "number": 23,
+      "markdown": "23. Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A meterstick on one spaceship is measured to be 60 cm long by an occupant of the other spaceship. What is the speed of each spaceship, as measured by the observer on Earth?\n\n(A) $0.4c$  \n(B) $0.5c$  \n(C) $0.6c$  \n(D) $0.7c$  \n(E) $0.8c$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-024",
+      "number": 24,
+      "markdown": "24. A meter stick with a speed of $0.8c$ moves past an observer. In the observer’s reference frame, how long does it take the stick to pass the observer?\n\n(A) 1.6 ns  \n(B) 2.5 ns  \n(C) 4.2 ns  \n(D) 6.9 ns  \n(E) 8.3 ns",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          24
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-025",
+      "number": 25,
+      "markdown": "25. Consider a set of wave functions $\\psi_i(x)$. Which of the following conditions guarantees that the functions are normalized and mutually orthogonal? (The indices $i$ and $j$ take on the values in the set $\\{1,2,\\ldots,n\\}$.)\n\n(A) $\\psi_i^*(x)\\psi_j(x)=0$\n\n(B) $\\psi_i^*(x)\\psi_j(x)=1$\n\n(C) $\\int_{-\\infty}^{\\infty}\\psi_i^*(x)\\psi_j(x)\\,dx=0$\n\n(D) $\\int_{-\\infty}^{\\infty}\\psi_i^*(x)\\psi_j(x)\\,dx=1$\n\n(E) $\\int_{-\\infty}^{\\infty}\\psi_i^*(x)\\psi_j(x)\\,dx=\\delta_{ij}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-026",
+      "number": 26,
+      "markdown": "26. The normalized ground state wave function of hydrogen is\n\n$$\\psi_{100}=\\frac{2}{(4\\pi)^{1/2}a_0^{3/2}}e^{-r/a_0},$$\n\nwhere $a_0$ is the Bohr radius. What is the most likely distance that the electron is from the nucleus?\n\n(A) $0$\n\n(B) $\\frac{a_0}{2}$\n\n(C) $\\frac{a_0}{\\sqrt{2}}$\n\n(D) $a_0$\n\n(E) $2a_0$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-027",
+      "number": 27,
+      "markdown": "27. The lifetime for the $2p\\to1s$ transition in hydrogen is $1.6\\times10^{-9}\\,\\mathrm{s}$. The natural line width for the radiation emitted during the transition is approximately\n\n(A) $100\\,\\mathrm{Hz}$\n\n(B) $100\\,\\mathrm{kHz}$\n\n(C) $100\\,\\mathrm{MHz}$\n\n(D) $100\\,\\mathrm{GHz}$\n\n(E) $100\\,\\mathrm{THz}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-028",
+      "number": 28,
+      "markdown": "28. A spring of force constant $k$ is stretched a certain distance. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is\n\n(A) $k$\n\n(B) $2k$\n\n(C) $4k$\n\n(D) $8k$\n\n(E) $16k$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-029",
+      "number": 29,
+      "markdown": "29. On a frictionless surface, a block of mass $M$ moving at speed $v$ collides elastically with another block of the same mass that is initially at rest. After the collision, the first block moves at an angle $\\theta$ to its initial direction and has a speed $v/2$. The second block’s speed after the collision is\n\n(A) $\\frac{\\sqrt{3}}{4}v$\n\n(B) $\\frac{v}{2}$\n\n(C) $\\frac{\\sqrt{3}}{2}v$\n\n(D) $\\frac{\\sqrt{5}}{2}v$\n\n(E) $v+\\frac{v}{2}\\cos\\theta$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          26
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-030",
+      "number": 30,
+      "markdown": "30. Which of the following gives Hamilton’s canonical equation(s) of motion? ($H$ is the Hamiltonian, $q_i$ are the generalized coordinates, and $p_i$ are the generalized momenta.)\n\n(A) $q_i=\\frac{\\partial H}{\\partial p_i},\\quad p_i=-\\frac{\\partial H}{\\partial q_i}$\n\n(B) $q_i=\\frac{\\partial H}{\\partial\\dot{q}_i},\\quad p_i=\\frac{\\partial H}{\\partial\\dot{p}_i}$\n\n(C) $\\dot{q}_i=\\frac{\\partial H}{\\partial q_i},\\quad\\dot{p}_i=-\\frac{\\partial H}{\\partial p_i}$\n\n(D) $\\dot{q}_i=\\frac{\\partial H}{\\partial p_i},\\quad\\dot{p}_i=-\\frac{\\partial H}{\\partial q_i}$\n\n(E) $\\frac{d}{dt}\\left(\\frac{\\partial H}{\\partial p_i}\\right)-\\frac{\\partial H}{\\partial q_i}=0$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-031",
+      "number": 31,
+      "markdown": "31. ![Oil-water interface with a floating block](images/1fcf340b140906e4590adc79.jpg)\n\nA layer of oil with density $800\\,\\mathrm{kg/m^3}$ floats on top of a volume of water with density $1{,}000\\,\\mathrm{kg/m^3}$. A block floats at the oil-water interface with $1/4$ of its volume in oil and $3/4$ of its volume in water, as shown in the figure above. What is the density of the block?\n\n(A) $200\\,\\mathrm{kg/m^3}$  \n(B) $850\\,\\mathrm{kg/m^3}$  \n(C) $950\\,\\mathrm{kg/m^3}$  \n(D) $1{,}050\\,\\mathrm{kg/m^3}$  \n(E) $1{,}800\\,\\mathrm{kg/m^3}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/1fcf340b140906e4590adc79.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-032",
+      "number": 32,
+      "markdown": "32. An incompressible fluid of density $\\rho$ flows through a horizontal pipe of radius $r$ and then passes through a constriction of radius $r/2$. If the fluid has pressure $P_0$ and velocity $v_0$ before the constriction, the pressure in the constriction is\n\n(A) $P_0-\\frac{15}{2}\\rho v_0^2$  \n(B) $P_0-\\frac{3}{2}\\rho v_0^2$  \n(C) $\\frac{P_0}{4}$  \n(D) $P_0+\\frac{3}{2}\\rho v_0^2$  \n(E) $P_0+\\frac{15}{2}\\rho v_0^2$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-033",
+      "number": 33,
+      "markdown": "33. A thermodynamic system, initially at absolute temperature $T_1$, contains a mass $m$ of water with specific heat capacity $c$. Heat is added until the temperature rises to $T_2$. The change in entropy of the water is\n\n(A) $0$  \n(B) $T_2-T_1$  \n(C) $mcT_2$  \n(D) $mc(T_2-T_1)$  \n(E) $mc\\ln\\left(\\frac{T_2}{T_1}\\right)$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          28
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-034",
+      "number": 34,
+      "markdown": "34. Heat $Q$ is added to a monatomic ideal gas under conditions of constant volume, resulting in a temperature change $\\Delta T$. How much heat will be required to produce the same temperature change, if it is added under conditions of constant pressure?\n\n(A) $\\frac{3}{5}Q$  \n(B) $Q$  \n(C) $\\frac{5}{3}Q$  \n(D) $2Q$  \n(E) $\\frac{10}{3}Q$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-035",
+      "number": 35,
+      "markdown": "35. A heat pump is to extract heat from an outdoor environment at $7^\\circ\\mathrm{C}$ and heat the environment indoors to $27^\\circ\\mathrm{C}$. For each $15{,}000\\,\\mathrm{J}$ of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately\n\n(A) $500\\,\\mathrm{J}$  \n(B) $1{,}000\\,\\mathrm{J}$  \n(C) $1{,}100\\,\\mathrm{J}$  \n(D) $2{,}000\\,\\mathrm{J}$  \n(E) $2{,}200\\,\\mathrm{J}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          30
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-036",
+      "number": 36,
+      "markdown": "36. The capacitor in the circuit above is charged. If switch $S$ is closed at time $t=0$, which of the following represents the magnetic energy, $U$, in the inductor as a function of time? (Assume that the capacitor and inductor are ideal.)\n\n![Capacitor and inductor circuit with switch $S$](images/a89b19bf694966446480b5f8.jpg)\n\n(A) ![Choice A graph](images/2b91d79ace7e0cd09257fa02.jpg)\n\n(B) ![Choice B graph](images/5e91a6a12844290c2186e52a.jpg)\n\n(C) ![Choice C graph](images/c152c22f3cbd6bebd749e7c1.jpg)\n\n(D) ![Choice D graph](images/7e4452b8f2a72b161c370b6a.jpg)\n\n(E) ![Choice E graph](images/cd9a9aaa35deda4ed6db6fcb.jpg)",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/a89b19bf694966446480b5f8.jpg",
+        "images/2b91d79ace7e0cd09257fa02.jpg",
+        "images/5e91a6a12844290c2186e52a.jpg",
+        "images/c152c22f3cbd6bebd749e7c1.jpg",
+        "images/7e4452b8f2a72b161c370b6a.jpg",
+        "images/cd9a9aaa35deda4ed6db6fcb.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          32
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-037",
+      "number": 37,
+      "markdown": "37. A pair of electric charges of equal magnitude $q$ and opposite sign are separated by a distance $\\ell$, as shown in the figure below. Which of the following gives the approximate magnitude and direction of the electric field set up by the two charges at a point $P$ on the $y$-axis, which is located a distance $r \\gg \\ell$ from the $x$-axis?\n\n![Figure showing charges $-q$ at $(-\\ell/2,0)$ and $+q$ at $(\\ell/2,0)$, and point $P$ at $(0,r)$](images/47f64cbaf18e24dba16d05e7.jpg)\n\n| Magnitude | Direction |\n|---|---|\n| (A) $\\frac{1}{4\\pi\\epsilon_0}\\frac{2q}{r^2}$ | $+y$ |\n| (B) $\\frac{1}{4\\pi\\epsilon_0}\\frac{2q}{r^2}$ | $+x$ |\n| (C) $\\frac{1}{4\\pi\\epsilon_0}\\frac{2q}{r^2}$ | $-x$ |\n| (D) $\\frac{1}{4\\pi\\epsilon_0}\\frac{q\\ell}{r^3}$ | $+x$ |\n| (E) $\\frac{1}{4\\pi\\epsilon_0}\\frac{q\\ell}{r^3}$ | $-x$ |",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/47f64cbaf18e24dba16d05e7.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          34
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-038",
+      "number": 38,
+      "markdown": "38. Consider two very long, straight, insulated wires oriented at right angles. The wires carry currents of equal magnitude $I$ in the directions shown in the figure below. What is the net magnetic field at point $P$?\n\n![Figure showing perpendicular wires carrying currents $I$ in the positive $y$ and positive $x$ directions, with point $P$ a distance $a$ from each wire](images/34fd9332d6f97b5b296d57db.jpg)\n\n(A) $\\frac{\\mu_0 I}{2\\pi a}(\\hat{\\mathbf{x}}+\\hat{\\mathbf{y}})$  \n(B) $-\\frac{\\mu_0 I}{2\\pi a}(\\hat{\\mathbf{x}}+\\hat{\\mathbf{y}})$  \n(C) $\\frac{\\mu_0 I}{\\pi a}\\hat{\\mathbf{z}}$  \n(D) $-\\frac{\\mu_0 I}{\\pi a}\\hat{\\mathbf{z}}$  \n(E) $0$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/34fd9332d6f97b5b296d57db.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          34
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-039",
+      "number": 39,
+      "markdown": "39. A beam of muons travels through the laboratory with speed $v=\\frac{4}{5}c$. The lifetime of a muon in its rest frame is $\\tau=2.2\\times10^{-6}\\,\\mathrm{s}$. The mean distance traveled by the muons in the laboratory frame is\n\n(A) $530\\,\\mathrm{m}$  \n(B) $660\\,\\mathrm{m}$  \n(C) $880\\,\\mathrm{m}$  \n(D) $1{,}100\\,\\mathrm{m}$  \n(E) $1{,}500\\,\\mathrm{m}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          34
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-040",
+      "number": 40,
+      "markdown": "40. A particle of mass $M$ decays from rest into two particles. One particle has mass $m$ and the other particle is massless. The momentum of the massless particle is\n\n(A) $\\frac{(M^2-m^2)c}{4M}$  \n(B) $\\frac{(M^2-m^2)c}{2M}$  \n(C) $\\frac{(M^2-m^2)c}{M}$  \n(D) $\\frac{2(M^2-m^2)c}{M}$  \n(E) $\\frac{4(M^2-m^2)c}{M}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          36
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-041",
+      "number": 41,
+      "markdown": "41. In an experimental observation of the photoelectric effect, the stopping potential was plotted versus the light frequency, as shown in the figure below. The best straight line was fitted to the experimental points. Which of the following gives the slope of the line? (The work function of the metal is $\\phi$.)\n\n![Stopping potential versus frequency graph for the photoelectric effect](images/50a24f90b68ddc3c48278fdd.jpg)\n\n(A) $\\frac{h}{\\phi}$  \n(B) $\\frac{h}{e}$  \n(C) $\\frac{e}{h}$  \n(D) $\\frac{e}{\\phi}$  \n(E) $\\frac{\\phi}{e}$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/50a24f90b68ddc3c48278fdd.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          38
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-042",
+      "number": 42,
+      "markdown": "42. Two sinusoidal waveforms of the same frequency are displayed on an oscilloscope screen, as indicated in the figure below. The horizontal sweep of the oscilloscope is set to $100\\,\\mathrm{ns/cm}$ and the vertical gains of channels 1 and 2 are each set to $2\\,\\mathrm{V/cm}$. The zero-voltage level of each channel is given at the right in the figure. The phase difference between the two waveforms is most nearly\n\n![Oscilloscope display showing two sinusoidal waveforms of the same frequency](images/0cac43545d55f28d5c89fc45.jpg)\n\n(A) $30^\\circ$  \n(B) $45^\\circ$  \n(C) $60^\\circ$  \n(D) $90^\\circ$  \n(E) $120^\\circ$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/0cac43545d55f28d5c89fc45.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-043",
+      "number": 43,
+      "markdown": "43. In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a\n\n(A) square  \n(B) hexagon  \n(C) cube  \n(D) tetrahedron  \n(E) octahedron",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-044",
+      "number": 44,
+      "markdown": "44. According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\n\n(A) the weak nuclear force  \n(B) the strong nuclear force  \n(C) vacuum polarization  \n(D) interactions with the ionic lattice  \n(E) the Casimir effect",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-045",
+      "number": 45,
+      "markdown": "45. During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)\n\n(A) 1,000 Hz  \n(B) 1,030 Hz  \n(C) 1,200 Hz  \n(D) 1,400 Hz  \n(E) 1,440 Hz",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-046",
+      "number": 46,
+      "markdown": "46. Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m across. At about what frequency will the sound first disappear at an angle of $45^\\circ$ from the normal to the speaker face?\n\n(A) 500 Hz  \n(B) 1,750 Hz  \n(C) 2,750 Hz  \n(D) 3,500 Hz  \n(E) 5,000 Hz",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          40
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-047",
+      "number": 47,
+      "markdown": "47. An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What is the frequency of the next higher harmonic for this pipe?\n\n(A) 44 Hz  \n(B) 196 Hz  \n(C) 262 Hz  \n(D) 393 Hz  \n(E) 524 Hz",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-048",
+      "number": 48,
+      "markdown": "48. For the logic circuit shown above, which of the following Boolean statements gives the output $E$ in terms of inputs $A$, $B$, $C$, and $D$?\n\n![Logic circuit](images/89f6bddbf41ff0f276449a3a.jpg)\n\n(A) $E = \\overline{A + B} + \\overline{C \\cdot D}$  \n(B) $E = \\overline{A + B} \\cdot \\overline{C \\cdot D}$  \n(C) $E = \\overline{\\overline{A} + \\overline{B}} \\cdot \\overline{C \\cdot D}$  \n(D) $E = \\overline{A \\cdot B} \\cdot \\overline{C \\cdot D}$  \n(E) $E = \\overline{\\overline{A} \\cdot \\overline{B}} \\cdot \\overline{C \\cdot D}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/89f6bddbf41ff0f276449a3a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-049",
+      "number": 49,
+      "markdown": "49. Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\n\n(A) Diode laser\n\n(B) Dye laser\n\n(C) Free-electron laser\n\n(D) Gas laser\n\n(E) Solid-state laser",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-050",
+      "number": 50,
+      "markdown": "50. Which of the following expressions is proportional to the total energy for the levels of a one-electron Bohr atom? ($m$ is the reduced mass, $Z$ is the number of protons in the nucleus, $-e$ is the charge on the electron, and $n$ is the principal quantum number.)\n\n(A) $\\frac{mZe^2}{n}$\n\n(B) $\\frac{mZe^2}{n^2}$\n\n(C) $\\frac{mZ^2e^4}{n^2}$\n\n(D) $\\frac{m^2Z^2e^2}{n^2}$\n\n(E) $\\frac{m^2Z^2e^4}{n^2}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-051",
+      "number": 51,
+      "markdown": "51. True statements about the absorption and emission of energy by an atom include which of the following?\n\nI. An atom can only absorb photons of light that have certain specific energies.\n\nII. An atom can emit photons of light of any energy.\n\nIII. At low temperature, the lines in the absorption spectrum of an atom coincide with the lines in its emission spectrum that represent transitions to the ground state.\n\n(A) I only\n\n(B) III only\n\n(C) I and II only\n\n(D) I and III only\n\n(E) I, II, and III",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          42
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-052",
+      "number": 52,
+      "markdown": "52. X rays of wavelength $\\lambda = 0.250\\,\\text{nm}$ are incident on the face of a crystal at angle $\\theta$, measured from the crystal surface. The smallest angle that yields an intense reflected beam is $\\theta = 14.5^\\circ$. Which of the following gives the value of the interplanar spacing $d$? ($\\sin 14.5^\\circ \\approx 1/4$)\n\n(A) 0.125 nm\n\n(B) 0.250 nm\n\n(C) 0.500 nm\n\n(D) 0.625 nm\n\n(E) 0.750 nm",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-053",
+      "number": 53,
+      "markdown": "53. Astronomers observe two separate solar systems, each consisting of a planet orbiting a sun. The two orbits are circular and have the same radius $R$. It is determined that the planets have angular momenta of the same magnitude $L$ about their suns, and that the orbital periods are in the ratio of three to one; i.e., $T_1 = 3T_2$. The ratio $m_1/m_2$ of the masses of the two planets is\n\n(A) 1\n\n(B) $\\sqrt{3}$\n\n(C) 2\n\n(D) 3\n\n(E) 9",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-054",
+      "number": 54,
+      "markdown": "54. If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. What effect, if any, would this change have on the orbits of the planets?\n\n(A) The planets would move directly toward the Sun.\n\n(B) The planets would move in spiral orbits.\n\n(C) The planets would oscillate about their former elliptical orbits.\n\n(D) The orbits would precess much more rapidly.\n\n(E) The orbits would remain unchanged.",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-055",
+      "number": 55,
+      "markdown": "55. A distant galaxy is observed to have its hydrogen-$\\beta$ line shifted to a wavelength of 580 nm, away from the laboratory value of 434 nm. Which of the following gives the approximate velocity of recession of the distant galaxy? (Note: $\\frac{580}{434} \\approx \\frac{4}{3}$)\n\n(A) $0.28c$  \n(B) $0.53c$  \n(C) $0.56c$  \n(D) $0.75c$  \n(E) $0.86c$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-056",
+      "number": 56,
+      "markdown": "56. A small plane can fly at a speed of 200 km/h in still air. A 30 km/h wind is blowing from west to east. How much time is required for the plane to fly 500 km due north?\n\n(A) $\\frac{50}{23}\\,\\mathrm{h}$  \n(B) $\\frac{50}{\\sqrt{409}}\\,\\mathrm{h}$  \n(C) $\\frac{50}{20}\\,\\mathrm{h}$  \n(D) $\\frac{50}{\\sqrt{391}}\\,\\mathrm{h}$  \n(E) $\\frac{50}{17}\\,\\mathrm{h}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          44
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-057",
+      "number": 57,
+      "markdown": "57. Each of the figures above shows blocks of mass $2m$ and $m$ acted on by an external horizontal force $F$. For each figure, which of the following statements about the magnitude of the force that one block exerts on the other ($F_{12}$) is correct? (Assume that the surface on which the blocks move is frictionless.)\n\n![Figures 1 and 2 showing blocks of masses $2m$ and $m$ acted on by force $F$](images/49b5db4afdea61116846a53d.jpg)\n\n| | Figure 1 | Figure 2 |\n|---|---|---|\n| (A) | $F_{12}=\\frac{F}{3}$ | $F_{12}=\\frac{F}{3}$ |\n| (B) | $F_{12}=\\frac{F}{3}$ | $F_{12}=\\frac{2F}{3}$ |\n| (C) | $F_{12}=\\frac{2F}{3}$ | $F_{12}=\\frac{F}{3}$ |\n| (D) | $F_{12}=\\frac{2F}{3}$ | $F_{12}=\\frac{2F}{3}$ |\n| (E) | $F_{12}=F$ | $F_{12}=F$ |",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/49b5db4afdea61116846a53d.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          46
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-058",
+      "number": 58,
+      "markdown": "58. In the figure above, block $A$ has mass $m_A=25\\,\\mathrm{kg}$ and block $B$ has mass $m_B=10\\,\\mathrm{kg}$. Both blocks move with constant acceleration $a=2\\,\\mathrm{m/s^2}$ to the right, and the coefficient of static friction between the two blocks is $\\mu_s=0.8$. The static frictional force acting between the blocks is\n\n![Blocks $A$ and $B$, with acceleration $a$ directed to the right](images/552db0f8c258d238801e4fa5.jpg)\n\n(A) 20 N  \n(B) 50 N  \n(C) 78 N  \n(D) 196 N  \n(E) 274 N",
+      "answer": "A",
+      "scored": true,
+      "images": [
+        "images/552db0f8c258d238801e4fa5.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-059",
+      "number": 59,
+      "markdown": "59. A simple pendulum of length $l$ is suspended from the ceiling of an elevator that is accelerating upward with constant acceleration $a$. For small oscillations, the period, $T$, of the pendulum is\n\n(A) $T=2\\pi\\sqrt{\\frac{l}{g}}$\n\n(B) $T=2\\pi\\sqrt{\\frac{l}{g-a}}$\n\n(C) $T=2\\pi\\sqrt{\\frac{l}{g+a}}$\n\n(D) $T=2\\pi\\sqrt{\\frac{l}{g}\\frac{a}{g+a}}$\n\n(E) $T=2\\pi\\sqrt{\\frac{l}{g}\\frac{g+a}{a}}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-060",
+      "number": 60,
+      "markdown": "60. Three long, straight wires in the $xz$-plane, each carrying current $I$, cross at the origin of coordinates, as shown in the figure above. Let $\\hat{\\mathbf{x}}$, $\\hat{\\mathbf{y}}$, and $\\hat{\\mathbf{z}}$ denote the unit vectors in the $x$-, $y$-, and $z$-directions, respectively. The magnetic field $\\mathbf{B}$ as a function of $x$, with $y=0$ and $z=0$, is\n\n![Three wires carrying current $I$ in the $xz$-plane](images/dada8d0ab6763504f45e7877.jpg)\n\n(A) $\\mathbf{B}=\\frac{3\\mu_0 I}{2\\pi x}\\hat{\\mathbf{x}}$\n\n(B) $\\mathbf{B}=\\frac{3\\mu_0 I}{2\\pi x}\\hat{\\mathbf{y}}$\n\n(C) $\\mathbf{B}=\\frac{\\mu_0 I}{2\\pi x}(1+2\\sqrt{2})\\hat{\\mathbf{y}}$\n\n(D) $\\mathbf{B}=\\frac{\\mu_0 I}{2\\pi x}\\hat{\\mathbf{x}}$\n\n(E) $\\mathbf{B}=\\frac{\\mu_0 I}{2\\pi x}\\hat{\\mathbf{y}}$",
+      "answer": "C",
+      "scored": true,
+      "images": [
+        "images/dada8d0ab6763504f45e7877.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          48
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-061",
+      "number": 61,
+      "markdown": "61. A particle with mass $m$ and charge $q$, moving with a velocity $\\mathbf{v}$, enters a region of uniform magnetic field $\\mathbf{B}$, as shown in the figure above. The particle strikes the wall at a distance $d$ from the entrance slit. If the particle’s velocity stays the same but its charge-to-mass ratio is doubled, at what distance from the entrance slit will the particle strike the wall?\n\n![image](images/c7ff6f20bedfc088d61c33b0.jpg)\n\n(A) $2d$\n\n(B) $\\sqrt{2}\\,d$\n\n(C) $d$\n\n(D) $\\frac{1}{\\sqrt{2}}d$\n\n(E) $\\frac{1}{2}d$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/c7ff6f20bedfc088d61c33b0.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-062",
+      "number": 62,
+      "markdown": "62. Consider the closed cylindrical Gaussian surface above. Suppose that the net charge enclosed within this surface is $+1\\times10^{-9}\\,\\mathrm{C}$ and the electric flux out through the portion of the surface marked $A$ is $-100\\,\\mathrm{N\\cdot m^2/C}$. The flux through the rest of the surface is most nearly given by which of the following?\n\n![image](images/ae3f6a5c79342cca53726234.jpg)\n\n(A) $-100\\,\\mathrm{N\\cdot m^2/C}$\n\n(B) $0\\,\\mathrm{N\\cdot m^2/C}$\n\n(C) $10\\,\\mathrm{N\\cdot m^2/C}$\n\n(D) $100\\,\\mathrm{N\\cdot m^2/C}$\n\n(E) $200\\,\\mathrm{N\\cdot m^2/C}$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/ae3f6a5c79342cca53726234.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-063",
+      "number": 63,
+      "markdown": "63. The nuclear decay above is an example of a process induced by the\n\n$$\n{}^{13}\\mathrm{N}\\rightarrow{}^{13}\\mathrm{C}+e^{+}+\\nu_e\n$$\n\n(A) Mössbauer effect\n\n(B) Casimir effect\n\n(C) photoelectric effect\n\n(D) weak interaction\n\n(E) strong interaction",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          50
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-064",
+      "number": 64,
+      "markdown": "64. Consider a single electron atom with orbital angular momentum $L=\\sqrt{2}\\hbar$. Which of the following gives the possible values of a measurement of $L_z$, the $z$-component of $L$?\n\n(A) $0$\n\n(B) $0,\\hbar$\n\n(C) $0,\\hbar,2\\hbar$\n\n(D) $-\\hbar,0,\\hbar$\n\n(E) $-2\\hbar,-\\hbar,0,\\hbar,2\\hbar$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-065",
+      "number": 65,
+      "markdown": "65. Characteristics of the quantum harmonic oscillator include which of the following?\n\nI. A spectrum of evenly spaced energy states\n\nII. A potential energy function that is linear in the position coordinate\n\nIII. A ground state that is characterized by zero kinetic energy\n\nIV. A nonzero probability of finding the oscillator outside the classical turning points\n\n(A) I only\n\n(B) IV only\n\n(C) I and IV only\n\n(D) II and III only\n\n(E) I, II, III, and IV",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-066",
+      "number": 66,
+      "markdown": "66. A muon can be considered to be a heavy electron with a mass $m_\\mu=207m_e$. Imagine replacing the electron in a hydrogen atom with a muon. What are the energy levels $E_n$ for this new form of hydrogen in terms of the binding energy of ordinary hydrogen $E_0$, the mass of the proton $m_p$, and the principal quantum number $n$?\n\n(A) $E_n=-\\frac{E_0}{n^2}\\left(\\frac{m_\\mu}{m_e}\\right)$\n\n(B) $E_n=-\\frac{E_0}{n^2}\\left(\\frac{m_e}{m_\\mu}\\right)$\n\n(C) $E_n=-\\frac{E_0}{n^2}\\left(\\frac{m_p+m_e}{m_p+m_\\mu}\\right)$\n\n(D) $E_n=-\\frac{E_0}{n^2}\\left(\\frac{m_\\mu(m_p+m_e)}{m_e(m_p+m_\\mu)}\\right)$\n\n(E) $E_n=-\\frac{E_0}{n^2}\\left(\\frac{m_e(m_p+m_\\mu)}{m_\\mu(m_p+m_e)}\\right)$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          52
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-067",
+      "number": 67,
+      "markdown": "67. A large, parallel-plate capacitor consists of two square plates that measure 0.5 m on each side. A charging current of 9 A is applied to the capacitor. Which of the following gives the approximate rate of change of the electric field between the plates?\n\n(A) $2\\,\\frac{\\mathrm{V}}{\\mathrm{m}\\cdot\\mathrm{s}}$\n\n(B) $40\\,\\frac{\\mathrm{V}}{\\mathrm{m}\\cdot\\mathrm{s}}$\n\n(C) $1\\times10^{12}\\,\\frac{\\mathrm{V}}{\\mathrm{m}\\cdot\\mathrm{s}}$\n\n(D) $4\\times10^{12}\\,\\frac{\\mathrm{V}}{\\mathrm{m}\\cdot\\mathrm{s}}$\n\n(E) $2\\times10^{13}\\,\\frac{\\mathrm{V}}{\\mathrm{m}\\cdot\\mathrm{s}}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          54
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-068",
+      "number": 68,
+      "markdown": "68. The circuit shown in the figure above consists of eight resistors, each with resistance $R$, and a battery with terminal voltage $V$ and negligible internal resistance. What is the current flowing through the battery?\n\n![Eight-resistor circuit](images/068d8873feb4050ec18c2cc2.jpg)\n\n(A) $\\frac{1}{3}\\frac{V}{R}$\n\n(B) $\\frac{1}{2}\\frac{V}{R}$\n\n(C) $\\frac{V}{R}$\n\n(D) $\\frac{3}{2}\\frac{V}{R}$\n\n(E) $3\\frac{V}{R}$",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/068d8873feb4050ec18c2cc2.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          54
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-069",
+      "number": 69,
+      "markdown": "69. In the AC circuit above, $V_i$ is the amplitude of the input voltage and $V_o$ is the amplitude of the output voltage. If the angular frequency $\\omega$ of the input voltage is varied, which of the following gives the ratio $V_o/V_i=G$ as a function of $\\omega$?\n\n![AC circuit](images/e9a6b71639abf12ca2f8854a.jpg)\n\n(A) ![Option A graph](images/bcff56f64b4240e3e4389089.jpg)\n\n(B) ![Option B graph](images/d972cf2e1369caf7604fe166.jpg)\n\n(C) ![Option C graph](images/1ebb511ca905f76c3065622a.jpg)\n\n(D) ![Option D graph](images/fdffa5aa9afe550767a2c022.jpg)\n\n(E) ![Option E graph](images/07c4ac8aa92ea6367ba3eea3.jpg)",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/e9a6b71639abf12ca2f8854a.jpg",
+        "images/bcff56f64b4240e3e4389089.jpg",
+        "images/d972cf2e1369caf7604fe166.jpg",
+        "images/1ebb511ca905f76c3065622a.jpg",
+        "images/fdffa5aa9afe550767a2c022.jpg",
+        "images/07c4ac8aa92ea6367ba3eea3.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          54
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-070",
+      "number": 70,
+      "markdown": "70. A wire loop that encloses an area of $10\\,\\mathrm{cm}^2$ has a resistance of $5\\,\\Omega$. The loop is placed in a magnetic field of $0.5\\,\\mathrm{T}$ with its plane perpendicular to the field. The loop is suddenly removed from the field. How much charge flows past a given point in the wire?\n\n(A) $10^{-4}\\,\\mathrm{C}$\n\n(B) $10^{-3}\\,\\mathrm{C}$\n\n(C) $10^{-2}\\,\\mathrm{C}$\n\n(D) $10^{-1}\\,\\mathrm{C}$\n\n(E) $1\\,\\mathrm{C}$",
+      "answer": "A",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-071",
+      "number": 71,
+      "markdown": "71. Two nonrelativistic electrons move in circles under the influence of a uniform magnetic field $\\mathbf{B}$, as shown in the figure above. The ratio $r_1/r_2$ of the orbital radii is equal to $1/3$. Which of the following is equal to the ratio $v_1/v_2$ of the speeds?\n\n![Electron orbits in a magnetic field](images/bdd4c442ee842ed41548fb90.jpg)\n\n(A) $1/9$\n\n(B) $1/3$\n\n(C) $1$\n\n(D) $3$\n\n(E) $9$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/bdd4c442ee842ed41548fb90.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-072",
+      "number": 72,
+      "markdown": "72. Which of the following statements about bosons and/or fermions is true?\n\n(A) Bosons have symmetric wave functions and obey the Pauli exclusion principle.\n\n(B) Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.\n\n(C) Fermions have symmetric wave functions and obey the Pauli exclusion principle.\n\n(D) Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.\n\n(E) Bosons and fermions obey the Pauli exclusion principle.",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-073",
+      "number": 73,
+      "markdown": "73. The discovery of the $J/\\psi$ particle was especially significant because it provided evidence for which of the following?\n\n(A) Parity violation in weak interactions  \n(B) Massive neutrinos  \n(C) Higgs bosons  \n(D) Charmed quarks  \n(E) Strange quarks",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          56
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-074",
+      "number": 74,
+      "markdown": "![Figure for Question 74](images/c0962bd599be41c647863aad.jpg)\n\n74. The figure above shows an object $O$ placed at a distance $R$ to the left of a convex spherical mirror that has a radius of curvature $R$. Point $C$ is the center of curvature of the mirror. The image formed by the mirror is at\n\n(A) infinity  \n(B) a distance $R$ to the left of the mirror and inverted  \n(C) a distance $R$ to the right of the mirror and upright  \n(D) a distance $\\frac{R}{3}$ to the left of the mirror and inverted  \n(E) a distance $\\frac{R}{3}$ to the right of the mirror and upright",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/c0962bd599be41c647863aad.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          58
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-075",
+      "number": 75,
+      "markdown": "75. A uniform thin film of soapy water with index of refraction $n=1.33$ is viewed in air via reflected light. The film appears dark for long wavelengths and first appears bright for $\\lambda=540\\,\\text{nm}$. What is the next shorter wavelength at which the film will appear bright on reflection?\n\n(A) 135 nm  \n(B) 180 nm  \n(C) 270 nm  \n(D) 320 nm  \n(E) 405 nm",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          60
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-076",
+      "number": 76,
+      "markdown": "![Figure for Question 76](images/9f3aad7067b8b5ed3a0826bf.jpg)\n\n76. A model of an optical fiber is shown in the figure above. The optical fiber has an index of refraction, $n$, and is surrounded by free space. What angles of incidence, $\\theta$, will result in the light staying in the optical fiber?\n\n(A) $\\theta>\\sin^{-1}\\left(\\sqrt{n^2-1}\\right)$  \n(B) $\\theta<\\sin^{-1}\\left(\\sqrt{n^2-1}\\right)$  \n(C) $\\theta>\\sin^{-1}\\left(\\sqrt{n^2+1}\\right)$  \n(D) $\\theta<\\sin^{-1}\\left(\\sqrt{n^2+1}\\right)$  \n(E) $\\sin^{-1}\\left(\\sqrt{n^2-1}\\right)<\\theta<\\sin^{-1}\\left(\\sqrt{n^2+1}\\right)$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/9f3aad7067b8b5ed3a0826bf.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          60
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-077",
+      "number": 77,
+      "markdown": "77. A gas at temperature $T$ is composed of molecules of mass $m$. Which of the following describes how the average time between intermolecular collisions varies with $m$?\n\n(A) It is proportional to $\\frac{1}{m}$.  \n(B) It is proportional to $\\sqrt[4]{m}$.  \n(C) It is proportional to $\\sqrt{m}$.  \n(D) It is proportional to $m$.  \n(E) It is proportional to $m^2$.",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          60
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-078",
+      "number": 78,
+      "markdown": "78. A particle can occupy two possible states with energies $E_1$ and $E_2$, where $E_2>E_1$. At temperature $T$, the probability of finding the particle in state 2 is given by which of the following?\n\n(A) $\\frac{e^{-E_1/kT}}{e^{-E_1/kT}+e^{-E_2/kT}}$  \n(B) $\\frac{e^{-E_2/kT}}{e^{-E_1/kT}+e^{-E_2/kT}}$  \n(C) $\\frac{e^{-(E_1+E_2)/kT}}{e^{-E_1/kT}+e^{-E_2/kT}}$  \n(D) $\\frac{e^{-E_1/kT}+e^{-E_2/kT}}{e^{-E_2/kT}}$  \n(E) $\\frac{e^{-E_1/kT}+e^{-E_2/kT}}{e^{-E_1/kT}}$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          60
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-079",
+      "number": 79,
+      "markdown": "79. Consider 1 mole of a real gas that obeys the van der Waals equation of state shown above.\n\n$$\n\\left(p+\\frac{a}{V^2}\\right)(V-b)=RT\n$$\n\nIf the gas undergoes an isothermal expansion at temperature $T_0$ from volume $V_1$ to volume $V_2$, which of the following gives the work done by the gas?\n\n(A) $0$\n\n(B) $RT_0\\ln\\left(\\frac{V_2}{V_1}\\right)$\n\n(C) $RT_0\\ln\\left(\\frac{V_2-b}{V_1-b}\\right)$\n\n(D) $RT_0\\ln\\left(\\frac{V_2-b}{V_1-b}\\right)+a\\left(\\frac{1}{V_2}-\\frac{1}{V_1}\\right)$\n\n(E) $RT_0\\left(\\frac{1}{(V_2-b)^2}-\\frac{1}{(V_1-b)^2}\\right)+a\\left(\\frac{1}{V_2^3}-\\frac{1}{V_1^3}\\right)$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          62
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-080",
+      "number": 80,
+      "markdown": "80. A 1 kg block attached to a spring vibrates with a frequency of 1 Hz on a frictionless horizontal table. Two springs identical to the original spring are attached in parallel to an 8 kg block placed on the same table. Which of the following gives the frequency of vibration of the 8 kg block?\n\n(A) $\\frac{1}{4}\\,\\mathrm{Hz}$\n\n(B) $\\frac{1}{2\\sqrt{2}}\\,\\mathrm{Hz}$\n\n(C) $\\frac{1}{2}\\,\\mathrm{Hz}$\n\n(D) $1\\,\\mathrm{Hz}$\n\n(E) $2\\,\\mathrm{Hz}$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          62
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-081",
+      "number": 81,
+      "markdown": "81. ![Ramp and rolling disk](images/0671c1e76c844245e7499008.jpg)\n\nA uniform disk with a mass of $m$ and a radius of $r$ rolls without slipping along a horizontal surface and ramp, as shown above. The disk has an initial velocity of $v$. What is the maximum height $h$ to which the center of mass of the disk rises?\n\n(A) $h=\\frac{v^2}{2g}$\n\n(B) $h=\\frac{3v^2}{4g}$\n\n(C) $h=\\frac{v^2}{g}$\n\n(D) $h=\\frac{3v^2}{2g}$\n\n(E) $h=\\frac{2v^2}{g}$",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/0671c1e76c844245e7499008.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-082",
+      "number": 82,
+      "markdown": "82. A mass, $m$, is attached to a massless spring fixed at one end. The mass is confined to move in a horizontal plane, and its position is given by the polar coordinates $r$ and $\\theta$. Both $r$ and $\\theta$ can vary. If the relaxed length of the spring is $s$ and the force constant is $k$, what is the Lagrangian, $L$, for the system?\n\n(A) $L=\\frac{1}{2}m\\dot{r}^{2}+\\frac{1}{2}mr^{2}\\dot{\\theta}^{2}-\\frac{1}{2}k(r\\cos\\theta-s)^{2}$\n\n(B) $L=\\frac{1}{2}m\\dot{r}^{2}+\\frac{1}{2}mr^{2}\\dot{\\theta}^{2}-\\frac{1}{2}k(r\\sin\\theta-s)^{2}$\n\n(C) $L=\\frac{1}{2}m\\dot{r}^{2}+\\frac{1}{2}mr^{2}\\dot{\\theta}^{2}+\\frac{1}{2}k(r-s)^{2}$\n\n(D) $L=\\frac{1}{2}m\\dot{r}^{2}+\\frac{1}{2}mr^{2}\\dot{\\theta}^{2}-\\frac{1}{2}k(r-s)^{2}$\n\n(E) $L=-\\frac{1}{2}m\\dot{r}^{2}+\\frac{1}{2}mr^{2}\\dot{\\theta}^{2}+\\frac{1}{2}k(r-s)^{2}$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          64
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-083",
+      "number": 83,
+      "markdown": "83. A mass $m$ attached to the end of a massless rod of length $L$ is free to swing below the plane of support, as shown in the figure above.\n\n![Pendulum diagram](images/41bd7e70588700a8a738e1ee.jpg)\n\nThe Hamiltonian for this system is given by\n\n$$\nH=\\frac{p_{\\theta}^{2}}{2mL^{2}}+\\frac{p_{\\phi}^{2}}{2mL^{2}\\sin^{2}\\theta}-mgL\\cos\\theta,\n$$\n\nwhere $\\theta$ and $\\phi$ are defined as shown in the figure. On the basis of Hamilton’s equations of motion, the generalized coordinate or momentum that is a constant in time is\n\n(A) $\\theta$\n\n(B) $\\phi$\n\n(C) $\\dot{\\theta}$\n\n(D) $p_{\\theta}$\n\n(E) $p_{\\phi}$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/41bd7e70588700a8a738e1ee.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-084",
+      "number": 84,
+      "markdown": "84. A rod of length $L$ and mass $M$ is placed along the $x$-axis with one end at the origin, as shown in the figure above.\n\n![Rod along the x-axis](images/e941bb0d8bab3bf7876fab93.jpg)\n\nThe rod has linear mass density $\\lambda=\\frac{2M}{L^{2}}x$, where $x$ is the distance from the origin. Which of the following gives the $x$-coordinate of the rod’s center of mass?\n\n(A) $\\frac{1}{12}L$\n\n(B) $\\frac{1}{4}L$\n\n(C) $\\frac{1}{3}L$\n\n(D) $\\frac{1}{2}L$\n\n(E) $\\frac{2}{3}L$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/e941bb0d8bab3bf7876fab93.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          66
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-085",
+      "number": 85,
+      "markdown": "85. A particle is in an infinite square well potential with walls at $x=0$ and $x=L$. If the particle is in the state $\\psi(x)=A\\sin\\left(\\frac{3\\pi x}{L}\\right)$, where $A$ is a constant, what is the probability that the particle is between $x=\\frac{1}{3}L$ and $x=\\frac{2}{3}L$?\n\n(A) $0$\n\n(B) $\\frac{1}{3}$\n\n(C) $\\frac{1}{\\sqrt{3}}$\n\n(D) $\\frac{2}{3}$\n\n(E) $1$\n\n![Infinite square well potential](images/e941bb0d8bab3bf7876fab93.jpg)",
+      "answer": "B",
+      "scored": true,
+      "images": [
+        "images/e941bb0d8bab3bf7876fab93.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          68
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-086",
+      "number": 86,
+      "markdown": "86. Which of the following are the eigenvalues of the Hermitian matrix $\\begin{pmatrix}2&i\\\\-i&2\\end{pmatrix}$?\n\n(A) $1,\\ 0$\n\n(B) $1,\\ 3$\n\n(C) $2,\\ 2$\n\n(D) $i,\\ -i$\n\n(E) $1+i,\\ 1-i$",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          68
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-087",
+      "number": 87,
+      "markdown": "87. Consider the Pauli spin matrices $\\sigma_x$, $\\sigma_y$, and $\\sigma_z$ and the identity matrix $I$ given above. The commutator $[\\sigma_x,\\sigma_y]\\equiv\\sigma_x\\sigma_y-\\sigma_y\\sigma_x$ is equal to which of the following?\n\n(A) $I$\n\n(B) $2i\\sigma_x$\n\n(C) $2i\\sigma_y$\n\n(D) $2i\\sigma_z$\n\n(E) $0$\n\n$$\n\\sigma_x=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix},\\quad\n\\sigma_y=\\begin{pmatrix}0&-i\\\\i&0\\end{pmatrix},\\quad\n\\sigma_z=\\begin{pmatrix}1&0\\\\0&-1\\end{pmatrix},\\quad\nI=\\begin{pmatrix}1&0\\\\0&1\\end{pmatrix}\n$$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          70
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-088",
+      "number": 88,
+      "markdown": "88. A spin-$\\frac{1}{2}$ particle is in a state described by the spinor\n\n$$\n\\chi=A\\begin{pmatrix}1+i\\\\2\\end{pmatrix},\n$$\n\nwhere $A$ is a normalization constant. The probability of finding the particle with spin projection $S_z=-\\frac{1}{2}\\hbar$ is\n\n(A) $\\frac{1}{6}$\n\n(B) $\\frac{1}{3}$\n\n(C) $\\frac{1}{2}$\n\n(D) $\\frac{2}{3}$\n\n(E) $1$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          72
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-089",
+      "number": 89,
+      "markdown": "89. An electron with total energy $E$ in the region $x<0$ is moving in the $+x$-direction. It encounters a step potential at $x=0$. The wave function for $x\\leq0$ is given by\n\n$$\n\\psi=Ae^{ik_1x}+Be^{-ik_1x},\\qquad k_1=\\sqrt{\\frac{2mE}{\\hbar^2}};\n$$\n\nand the wave function for $x>0$ is given by\n\n$$\n\\psi=Ce^{ik_2x},\\qquad k_2=\\sqrt{\\frac{2m(E-V_0)}{\\hbar^2}}.\n$$\n\nWhich of the following gives the reflection coefficient for the system?\n\n(A) $R=0$\n\n(B) $R=1$\n\n(C) $R=\\frac{k_2}{k_1}$\n\n(D) $R=\\left(\\frac{k_1-k_2}{k_1+k_2}\\right)^2$\n\n(E) $R=\\frac{4k_1k_2}{(k_1+k_2)^2}$\n\n![Step potential diagram](images/630f234d8eaadb543898b820.jpg)",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/630f234d8eaadb543898b820.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          74
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-090",
+      "number": 90,
+      "markdown": "90. Two thin, concentric, spherical conducting shells are arranged as shown in the figure above. The inner shell has radius $a$, charge $+Q$, and is at zero electric potential. The outer shell has radius $b$ and charge $-Q$. If $r$ is the radial distance from the center of the spheres, what is the electric potential in region I ($a<r<b$) and in region II ($r>b$)?\n\n![Concentric spherical shells](images/426ccdadf6534fb99d6b6694.jpg)\n\n| | Region I | Region II |\n|---|---|---|\n| (A) | $\\frac{Q}{4\\pi\\varepsilon_0}\\frac{1}{r}$ | $0$ |\n| (B) | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{r}-\\frac{1}{a}\\right)$ | $0$ |\n| (C) | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{r}-\\frac{1}{b}\\right)$ | $-\\frac{Q}{4\\pi\\varepsilon_0}\\frac{1}{r}$ |\n| (D) | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{r}-\\frac{1}{a}\\right)$ | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{b}-\\frac{1}{a}\\right)$ |\n| (E) | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{r}-\\frac{1}{b}\\right)$ | $\\frac{Q}{4\\pi\\varepsilon_0}\\left(\\frac{1}{a}-\\frac{1}{b}\\right)$ |",
+      "answer": "D",
+      "scored": true,
+      "images": [
+        "images/426ccdadf6534fb99d6b6694.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          76
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-091",
+      "number": 91,
+      "markdown": "91. In static electromagnetism, let $\\mathbf{E}$, $\\mathbf{B}$, $\\mathbf{J}$, and $\\rho$ be the electric field, magnetic field, current density, and charge density, respectively. Which of the following conditions allows the electric field to be written in the form $\\mathbf{E}=-\\nabla\\phi$, where $\\phi$ is the electrostatic potential?\n\n(A) $\\nabla\\cdot\\mathbf{J}=0$\n\n(B) $\\nabla\\cdot\\mathbf{E}=\\rho/\\epsilon_0$\n\n(C) $\\nabla\\times\\mathbf{E}=\\mathbf{0}$\n\n(D) $\\nabla\\times\\mathbf{B}=\\mu_0\\mathbf{J}$\n\n(E) $\\nabla\\cdot\\mathbf{B}=0$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          76
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-092",
+      "number": 92,
+      "markdown": "92. A long, straight, hollow cylindrical wire with an inner radius $R$ and an outer radius $2R$ carries a uniform current density. Which of the following graphs best represents the magnitude of the magnetic field as a function of the distance from the center of the wire?\n\n(A)\n\n![Option A](images/9e56bd8eaa18b0d103a9964e.jpg)\n\n(B)\n\n![Option B](images/628a322ace80596d33fd289d.jpg)\n\n(C)\n\n![Option C](images/73bb06f45a3734f5fbab191e.jpg)\n\n(D)\n\n![Option D](images/334984ddd7d0127cf2a16ea1.jpg)\n\n(E)\n\n![Option E](images/e98429122b63f133db6372e5.jpg)",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/9e56bd8eaa18b0d103a9964e.jpg",
+        "images/628a322ace80596d33fd289d.jpg",
+        "images/73bb06f45a3734f5fbab191e.jpg",
+        "images/334984ddd7d0127cf2a16ea1.jpg",
+        "images/e98429122b63f133db6372e5.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          78
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-093",
+      "number": 93,
+      "markdown": "93. A parallel-plate capacitor has plate separation $d$. The space between the plates is empty. A battery supplying voltage $V_0$ is connected across the capacitor, resulting in electromagnetic energy $U_0$ stored in the capacitor. A dielectric, of dielectric constant $\\kappa$, is inserted so that it just fills the space between the plates. If the battery is still connected, what are the electric field $E$ and the energy $U$ stored in the dielectric, in terms of $V_0$ and $U_0$?\n\n|  | $E$ | $U$ |\n|---|---|---|\n| (A) | $\\dfrac{V_0}{d}$ | $U_0$ |\n| (B) | $\\dfrac{V_0}{d}$ | $\\kappa U_0$ |\n| (C) | $\\dfrac{V_0}{d}$ | $\\kappa^2 U_0$ |\n| (D) | $\\dfrac{V_0}{\\kappa d}$ | $U_0$ |\n| (E) | $\\dfrac{V_0}{\\kappa d}$ | $\\kappa U_0$ |",
+      "answer": "B",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          78
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-094",
+      "number": 94,
+      "markdown": "94. An observer $O$ at rest midway between two sources of light at $x=0$ and $x=10\\,\\mathrm{m}$ observes the two sources to flash simultaneously. According to a second observer $O'$ moving at a constant speed parallel to the $x$-axis, one source of light flashes $13\\,\\mathrm{ns}$ before the other. Which of the following gives the speed of $O'$ relative to $O$?\n\n(A) $0.13c$\n\n(B) $0.15c$\n\n(C) $0.36c$\n\n(D) $0.53c$\n\n(E) $0.62c$",
+      "answer": "C",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          78
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-095",
+      "number": 95,
+      "markdown": "95. Let $\\hat{\\mathbf{J}}$ be a quantum mechanical angular momentum operator. The commutator $[\\hat{J}_x\\hat{J}_y,\\hat{J}_x]$ is equivalent to which of the following?\n\n(A) $0$\n\n(B) $i\\hbar\\hat{J}_z$\n\n(C) $i\\hbar\\hat{J}_z\\hat{J}_x$\n\n(D) $-i\\hbar\\hat{J}_x\\hat{J}_z$\n\n(E) $i\\hbar\\hat{J}_x\\hat{J}_y$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-096",
+      "number": 96,
+      "markdown": "96. Which of the following ions CANNOT be used as a dopant in germanium to make an $n$-type semiconductor?\n\n(A) As\n\n(B) P\n\n(C) Sb\n\n(D) B\n\n(E) N",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-097",
+      "number": 97,
+      "markdown": "97. In the Compton effect, a photon with energy $E$ scatters through a $90^\\circ$ angle from a stationary electron of mass $m$. The energy of the scattered photon is\n\n(A) $E$\n\n(B) $\\frac{E}{2}$\n\n(C) $\\frac{E^2}{mc^2}$\n\n(D) $\\frac{E^2}{E+mc^2}$\n\n(E) $\\frac{E\\cdot mc^2}{E+mc^2}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-098",
+      "number": 98,
+      "markdown": "98. Which of the following is the principal decay mode of the positive muon $\\mu^+$?\n\n(A) $\\mu^+ \\to e^+ + \\nu_e$\n\n(B) $\\mu^+ \\to p + \\nu_\\mu$\n\n(C) $\\mu^+ \\to n + e^+ + \\nu_e$\n\n(D) $\\mu^+ \\to e^+ + \\nu_e + \\bar{\\nu}_\\mu$\n\n(E) $\\mu^+ \\to \\pi^+ + \\bar{\\nu}_e + \\nu_\\mu$",
+      "answer": "D",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          80
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-099",
+      "number": 99,
+      "markdown": "99. ![Circular platform diagram](images/b63592fcd40cbf1598d1000a.jpg)\n\nA small particle of mass $m$ is at rest on a horizontal circular platform that is free to rotate about a vertical axis through its center. The particle is located at a radius $r$ from the axis, as shown in the figure above. The platform begins to rotate with constant angular acceleration $\\alpha$. Because of friction between the particle and the platform, the particle remains at rest with respect to the platform. When the platform has reached angular speed $\\omega$, the angle $\\theta$ between the static frictional force $\\mathbf{f}_s$ and the inward radial direction is given by which of the following?\n\n(A) $\\theta = \\frac{\\omega^2 r}{g}$\n\n(B) $\\theta = \\frac{\\omega^2}{\\alpha}$\n\n(C) $\\theta = \\frac{\\alpha}{\\omega^2}$\n\n(D) $\\theta = \\tan^{-1}\\left(\\frac{\\omega^2}{\\alpha}\\right)$\n\n(E) $\\theta = \\tan^{-1}\\left(\\frac{\\alpha}{\\omega^2}\\right)$",
+      "answer": "E",
+      "scored": true,
+      "images": [
+        "images/b63592fcd40cbf1598d1000a.jpg"
+      ],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          82
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    },
+    {
+      "id": "gr0877-100",
+      "number": 100,
+      "markdown": "100. The partition function $Z$ in statistical mechanics can be written as\n\n$$Z = \\sum_r e^{-E_r/kT},$$\n\nwhere the index $r$ ranges over all possible microstates of a system and $E_r$ is the energy of microstate $r$. For a single quantum mechanical harmonic oscillator with energies\n\n$$E_n = \\left(n + \\frac{1}{2}\\right)\\hbar\\omega, \\qquad \\text{where } n = 0, 1, 2, \\ldots,$$\n\nthe partition function $Z$ is given by which of the following?\n\n(A) $Z = e^{-\\frac{1}{2}\\hbar\\omega/kT}$\n\n(B) $Z = e^{\\frac{1}{2}\\hbar\\omega/kT}$\n\n(C) $Z = e^{\\frac{1}{2}\\hbar\\omega/kT} - 1$\n\n(D) $Z = e^{\\frac{1}{2}\\hbar\\omega/kT} + 1$\n\n(E) $Z = \\frac{e^{\\frac{1}{2}\\hbar\\omega/kT}}{e^{\\hbar\\omega/kT} - 1}$",
+      "answer": "E",
+      "scored": true,
+      "images": [],
+      "source": {
+        "pdf": "PGRE_Preparation_2026/GR0877_2008.pdf",
+        "pages": [
+          84
+        ],
+        "markdown": "data/mineru/markdown/GR0877_2008.md"
+      },
+      "review": {
+        "complete": true,
+        "answerable": true,
+        "notes": []
+      },
+      "solution": null
+    }
+  ]
+}
